@@ -1,0 +1,8910 @@
+Prueba #1
+Nivel de agua: 8.9
+Variacion de nivel: 2.13
+P. esperada: 0.33
+P. obtenida: 0.984499
+
+Prueba #2
+Nivel de agua: 8.93
+Variacion de nivel: 1.75
+P. esperada: 0.33
+P. obtenida: 0.98455
+
+Prueba #3
+Nivel de agua: 8.91
+Variacion de nivel: 0.11
+P. esperada: 0.33
+P. obtenida: 0.985002
+
+Prueba #4
+Nivel de agua: 8.96
+Variacion de nivel: 0.52
+P. esperada: 0.33
+P. obtenida: 0.984817
+
+Prueba #5
+Nivel de agua: 8.98
+Variacion de nivel: -0.15
+P. esperada: 0.33
+P. obtenida: 0.984965
+
+Prueba #6
+Nivel de agua: 8.92
+Variacion de nivel: 0.41
+P. esperada: 0.33
+P. obtenida: 0.984905
+
+Prueba #7
+Nivel de agua: 8.87
+Variacion de nivel: 2.63
+P. esperada: 0.33
+P. obtenida: 0.98442
+
+Prueba #8
+Nivel de agua: 9
+Variacion de nivel: 1.41
+P. esperada: 0.33
+P. obtenida: 0.984538
+
+Prueba #9
+Nivel de agua: 8.99
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 0.984888
+
+Prueba #10
+Nivel de agua: 9
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.984918
+
+Prueba #11
+Nivel de agua: 8.97
+Variacion de nivel: 0.19
+P. esperada: 0.33
+P. obtenida: 0.984889
+
+Prueba #12
+Nivel de agua: 8.96
+Variacion de nivel: 1.26
+P. esperada: 0.33
+P. obtenida: 0.984629
+
+Prueba #13
+Nivel de agua: 8.99
+Variacion de nivel: -0.2
+P. esperada: 0.33
+P. obtenida: 0.984963
+
+Prueba #14
+Nivel de agua: 8.7
+Variacion de nivel: 1.95
+P. esperada: 0.33
+P. obtenida: 0.984824
+
+Prueba #15
+Nivel de agua: 8.72
+Variacion de nivel: -0.1
+P. esperada: 0.33
+P. obtenida: 0.985373
+
+Prueba #16
+Nivel de agua: 8.91
+Variacion de nivel: -1.2
+P. esperada: 0.33
+P. obtenida: 0.985377
+
+Prueba #17
+Nivel de agua: 8.97
+Variacion de nivel: -0.39
+P. esperada: 0.33
+P. obtenida: 0.985046
+
+Prueba #18
+Nivel de agua: 8.91
+Variacion de nivel: 0.41
+P. esperada: 0.33
+P. obtenida: 0.984921
+
+Prueba #19
+Nivel de agua: 8.68
+Variacion de nivel: 1.41
+P. esperada: 0.33
+P. obtenida: 0.985001
+
+Prueba #20
+Nivel de agua: 8.56
+Variacion de nivel: 0.79
+P. esperada: 0.33
+P. obtenida: 0.985378
+
+Prueba #21
+Nivel de agua: 8.57
+Variacion de nivel: -0.07
+P. esperada: 0.33
+P. obtenida: 0.98563
+
+Prueba #22
+Nivel de agua: 8.73
+Variacion de nivel: -1.03
+P. esperada: 0.33
+P. obtenida: 0.985644
+
+Prueba #23
+Nivel de agua: 8.67
+Variacion de nivel: 0.37
+P. esperada: 0.33
+P. obtenida: 0.985317
+
+Prueba #24
+Nivel de agua: 8.58
+Variacion de nivel: 0.56
+P. esperada: 0.33
+P. obtenida: 0.985414
+
+Prueba #25
+Nivel de agua: 8.52
+Variacion de nivel: 0.37
+P. esperada: 0.33
+P. obtenida: 0.98558
+
+Prueba #26
+Nivel de agua: 8.63
+Variacion de nivel: -0.69
+P. esperada: 0.33
+P. obtenida: 0.98572
+
+Prueba #27
+Nivel de agua: 8.85
+Variacion de nivel: -1.35
+P. esperada: 0.33
+P. obtenida: 0.985527
+
+Prueba #28
+Nivel de agua: 8.86
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 0.985134
+
+Prueba #29
+Nivel de agua: 8.91
+Variacion de nivel: -0.3
+P. esperada: 0.33
+P. obtenida: 0.985116
+
+Prueba #30
+Nivel de agua: 8.54
+Variacion de nivel: 2.33
+P. esperada: 0.33
+P. obtenida: 0.984961
+
+Prueba #31
+Nivel de agua: 8.47
+Variacion de nivel: 0.44
+P. esperada: 0.33
+P. obtenida: 0.985649
+
+Prueba #32
+Nivel de agua: 8.83
+Variacion de nivel: -2.29
+P. esperada: 0.33
+P. obtenida: 0.985863
+
+Prueba #33
+Nivel de agua: 8.81
+Variacion de nivel: 0.12
+P. esperada: 0.33
+P. obtenida: 0.985158
+
+Prueba #34
+Nivel de agua: 8.94
+Variacion de nivel: -0.79
+P. esperada: 0.33
+P. obtenida: 0.985206
+
+Prueba #35
+Nivel de agua: 8.79
+Variacion de nivel: 0.94
+P. esperada: 0.33
+P. obtenida: 0.98496
+
+Prueba #36
+Nivel de agua: 8.98
+Variacion de nivel: -1.21
+P. esperada: 0.33
+P. obtenida: 0.985261
+
+Prueba #37
+Nivel de agua: 8.79
+Variacion de nivel: 1.19
+P. esperada: 0.33
+P. obtenida: 0.984893
+
+Prueba #38
+Nivel de agua: 8.86
+Variacion de nivel: -0.5
+P. esperada: 0.33
+P. obtenida: 0.985255
+
+Prueba #39
+Nivel de agua: 8.81
+Variacion de nivel: 0.36
+P. esperada: 0.33
+P. obtenida: 0.98509
+
+Prueba #40
+Nivel de agua: 8.8
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.9852
+
+Prueba #41
+Nivel de agua: 8.91
+Variacion de nivel: 0.78
+P. esperada: 0.33
+P. obtenida: 0.984823
+
+Prueba #42
+Nivel de agua: 8.71
+Variacion de nivel: 1.26
+P. esperada: 0.33
+P. obtenida: 0.984996
+
+Prueba #43
+Nivel de agua: 8.79
+Variacion de nivel: -0.52
+P. esperada: 0.33
+P. obtenida: 0.985379
+
+Prueba #44
+Nivel de agua: 8.81
+Variacion de nivel: -0.11
+P. esperada: 0.33
+P. obtenida: 0.985224
+
+Prueba #45
+Nivel de agua: 8.74
+Variacion de nivel: 0.42
+P. esperada: 0.33
+P. obtenida: 0.985186
+
+Prueba #46
+Nivel de agua: 8.83
+Variacion de nivel: 2.29
+P. esperada: 0.33
+P. obtenida: 0.984554
+
+Prueba #47
+Nivel de agua: 8.78
+Variacion de nivel: 0.36
+P. esperada: 0.33
+P. obtenida: 0.985138
+
+Prueba #48
+Nivel de agua: 8.7
+Variacion de nivel: 0.5
+P. esperada: 0.33
+P. obtenida: 0.985228
+
+Prueba #49
+Nivel de agua: 8.68
+Variacion de nivel: 0.12
+P. esperada: 0.33
+P. obtenida: 0.985375
+
+Prueba #50
+Nivel de agua: 8.73
+Variacion de nivel: -0.29
+P. esperada: 0.33
+P. obtenida: 0.985413
+
+Prueba #51
+Nivel de agua: 8.73
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 0.985338
+
+Prueba #52
+Nivel de agua: 8.72
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 0.985322
+
+Prueba #53
+Nivel de agua: 8.71
+Variacion de nivel: 0.1
+P. esperada: 0.33
+P. obtenida: 0.98533
+
+Prueba #54
+Nivel de agua: 8.68
+Variacion de nivel: 0.19
+P. esperada: 0.33
+P. obtenida: 0.985354
+
+Prueba #55
+Nivel de agua: 8.67
+Variacion de nivel: 0.01
+P. esperada: 0.33
+P. obtenida: 0.985426
+
+Prueba #56
+Nivel de agua: 8.69
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.985422
+
+Prueba #57
+Nivel de agua: 8.67
+Variacion de nivel: 0.11
+P. esperada: 0.33
+P. obtenida: 0.985396
+
+Prueba #58
+Nivel de agua: 8.64
+Variacion de nivel: 0.22
+P. esperada: 0.33
+P. obtenida: 0.985414
+
+Prueba #59
+Nivel de agua: 8.62
+Variacion de nivel: 0.13
+P. esperada: 0.33
+P. obtenida: 0.985477
+
+Prueba #60
+Nivel de agua: 8.64
+Variacion de nivel: -0.16
+P. esperada: 0.33
+P. obtenida: 0.985532
+
+Prueba #61
+Nivel de agua: 8.64
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 0.985488
+
+Prueba #62
+Nivel de agua: 8.5
+Variacion de nivel: 0.9
+P. esperada: 0.33
+P. obtenida: 0.985449
+
+Prueba #63
+Nivel de agua: 8.29
+Variacion de nivel: 1.34
+P. esperada: 0.33
+P. obtenida: 0.985687
+
+Prueba #64
+Nivel de agua: 8.44
+Variacion de nivel: -0.95
+P. esperada: 0.33
+P. obtenida: 0.986183
+
+Prueba #65
+Nivel de agua: 8.57
+Variacion de nivel: -0.82
+P. esperada: 0.33
+P. obtenida: 0.985877
+
+Prueba #66
+Nivel de agua: 8.59
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 0.985613
+
+Prueba #67
+Nivel de agua: 8.4
+Variacion de nivel: 1.17
+P. esperada: 0.33
+P. obtenida: 0.985541
+
+Prueba #68
+Nivel de agua: 8.16
+Variacion de nivel: 1.52
+P. esperada: 0.33
+P. obtenida: 0.985873
+
+Prueba #69
+Nivel de agua: 8.18
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.986419
+
+Prueba #70
+Nivel de agua: 8.24
+Variacion de nivel: -0.37
+P. esperada: 0.33
+P. obtenida: 0.986395
+
+Prueba #71
+Nivel de agua: 8.48
+Variacion de nivel: -1.5
+P. esperada: 0.33
+P. obtenida: 0.986297
+
+Prueba #72
+Nivel de agua: 8.38
+Variacion de nivel: 0.62
+P. esperada: 0.33
+P. obtenida: 0.985758
+
+Prueba #73
+Nivel de agua: 8.11
+Variacion de nivel: 1.65
+P. esperada: 0.33
+P. obtenida: 0.985925
+
+Prueba #74
+Nivel de agua: 8.1
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 0.986534
+
+Prueba #75
+Nivel de agua: 8.16
+Variacion de nivel: -0.36
+P. esperada: 0.33
+P. obtenida: 0.986568
+
+Prueba #76
+Nivel de agua: 8.39
+Variacion de nivel: -1.47
+P. esperada: 0.33
+P. obtenida: 0.986481
+
+Prueba #77
+Nivel de agua: 8.42
+Variacion de nivel: -0.18
+P. esperada: 0.33
+P. obtenida: 0.985953
+
+Prueba #78
+Nivel de agua: 8.42
+Variacion de nivel: 0
+P. esperada: 0.33
+P. obtenida: 0.985891
+
+Prueba #79
+Nivel de agua: 8.13
+Variacion de nivel: 1.81
+P. esperada: 0.33
+P. obtenida: 0.985829
+
+Prueba #80
+Nivel de agua: 8.08
+Variacion de nivel: 0.37
+P. esperada: 0.33
+P. obtenida: 0.986462
+
+Prueba #81
+Nivel de agua: 8.33
+Variacion de nivel: -1.6
+P. esperada: 0.33
+P. obtenida: 0.986664
+
+Prueba #82
+Nivel de agua: 8.43
+Variacion de nivel: -0.61
+P. esperada: 0.33
+P. obtenida: 0.986083
+
+Prueba #83
+Nivel de agua: 8.48
+Variacion de nivel: -0.32
+P. esperada: 0.33
+P. obtenida: 0.985883
+
+Prueba #84
+Nivel de agua: 8.49
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 0.98577
+
+Prueba #85
+Nivel de agua: 8.43
+Variacion de nivel: 0.36
+P. esperada: 0.33
+P. obtenida: 0.98575
+
+Prueba #86
+Nivel de agua: 8.37
+Variacion de nivel: 0.34
+P. esperada: 0.33
+P. obtenida: 0.985872
+
+Prueba #87
+Nivel de agua: 8.41
+Variacion de nivel: -0.24
+P. esperada: 0.33
+P. obtenida: 0.985994
+
+Prueba #88
+Nivel de agua: 8.47
+Variacion de nivel: -0.37
+P. esperada: 0.33
+P. obtenida: 0.98592
+
+Prueba #89
+Nivel de agua: 8.38
+Variacion de nivel: 0.56
+P. esperada: 0.33
+P. obtenida: 0.985778
+
+Prueba #90
+Nivel de agua: 8.46
+Variacion de nivel: -0.54
+P. esperada: 0.33
+P. obtenida: 0.985998
+
+Prueba #91
+Nivel de agua: 8.61
+Variacion de nivel: -0.88
+P. esperada: 0.33
+P. obtenida: 0.98582
+
+Prueba #92
+Nivel de agua: 8.7
+Variacion de nivel: -0.56
+P. esperada: 0.33
+P. obtenida: 0.98555
+
+Prueba #93
+Nivel de agua: 8.7
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.985396
+
+Prueba #94
+Nivel de agua: 8.64
+Variacion de nivel: 0.43
+P. esperada: 0.33
+P. obtenida: 0.98535
+
+Prueba #95
+Nivel de agua: 8.41
+Variacion de nivel: 1.44
+P. esperada: 0.33
+P. obtenida: 0.985437
+
+Prueba #96
+Nivel de agua: 8.38
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.985914
+
+Prueba #97
+Nivel de agua: 8.36
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.985954
+
+Prueba #98
+Nivel de agua: 8.31
+Variacion de nivel: 0.28
+P. esperada: 0.33
+P. obtenida: 0.986012
+
+Prueba #99
+Nivel de agua: 8.37
+Variacion de nivel: -0.34
+P. esperada: 0.33
+P. obtenida: 0.98611
+
+Prueba #100
+Nivel de agua: 8.57
+Variacion de nivel: -1.26
+P. esperada: 0.33
+P. obtenida: 0.986027
+
+Prueba #101
+Nivel de agua: 8.71
+Variacion de nivel: -0.9
+P. esperada: 0.33
+P. obtenida: 0.985639
+
+Prueba #102
+Nivel de agua: 8.78
+Variacion de nivel: -0.45
+P. esperada: 0.33
+P. obtenida: 0.985375
+
+Prueba #103
+Nivel de agua: 8.78
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 0.985236
+
+Prueba #104
+Nivel de agua: 8.71
+Variacion de nivel: 0.41
+P. esperada: 0.33
+P. obtenida: 0.985238
+
+Prueba #105
+Nivel de agua: 8.73
+Variacion de nivel: -0.12
+P. esperada: 0.33
+P. obtenida: 0.985362
+
+Prueba #106
+Nivel de agua: 8.79
+Variacion de nivel: -0.39
+P. esperada: 0.33
+P. obtenida: 0.98534
+
+Prueba #107
+Nivel de agua: 8.77
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 0.985218
+
+Prueba #108
+Nivel de agua: 8.72
+Variacion de nivel: 0.34
+P. esperada: 0.33
+P. obtenida: 0.985242
+
+Prueba #109
+Nivel de agua: 8.78
+Variacion de nivel: -0.38
+P. esperada: 0.33
+P. obtenida: 0.985354
+
+Prueba #110
+Nivel de agua: 8.71
+Variacion de nivel: 0.45
+P. esperada: 0.33
+P. obtenida: 0.985226
+
+Prueba #111
+Nivel de agua: 8.62
+Variacion de nivel: 0.58
+P. esperada: 0.33
+P. obtenida: 0.985339
+
+Prueba #112
+Nivel de agua: 8.35
+Variacion de nivel: 1.68
+P. esperada: 0.33
+P. obtenida: 0.985467
+
+Prueba #113
+Nivel de agua: 8.3
+Variacion de nivel: 0.29
+P. esperada: 0.33
+P. obtenida: 0.986028
+
+Prueba #114
+Nivel de agua: 8.34
+Variacion de nivel: -0.25
+P. esperada: 0.33
+P. obtenida: 0.986139
+
+Prueba #115
+Nivel de agua: 8.32
+Variacion de nivel: 0.17
+P. esperada: 0.33
+P. obtenida: 0.98603
+
+Prueba #116
+Nivel de agua: 8.28
+Variacion de nivel: 0.24
+P. esperada: 0.33
+P. obtenida: 0.986086
+
+Prueba #117
+Nivel de agua: 8.42
+Variacion de nivel: -0.86
+P. esperada: 0.33
+P. obtenida: 0.986193
+
+Prueba #118
+Nivel de agua: 8.57
+Variacion de nivel: -0.97
+P. esperada: 0.33
+P. obtenida: 0.985928
+
+Prueba #119
+Nivel de agua: 8.51
+Variacion de nivel: 0.41
+P. esperada: 0.33
+P. obtenida: 0.985586
+
+Prueba #120
+Nivel de agua: 8.39
+Variacion de nivel: 0.72
+P. esperada: 0.33
+P. obtenida: 0.985706
+
+Prueba #121
+Nivel de agua: 8.26
+Variacion de nivel: 0.81
+P. esperada: 0.33
+P. obtenida: 0.985925
+
+Prueba #122
+Nivel de agua: 8.27
+Variacion de nivel: -0.01
+P. esperada: 0.33
+P. obtenida: 0.986197
+
+Prueba #123
+Nivel de agua: 8.24
+Variacion de nivel: 0.19
+P. esperada: 0.33
+P. obtenida: 0.986187
+
+Prueba #124
+Nivel de agua: 8.26
+Variacion de nivel: -0.12
+P. esperada: 0.33
+P. obtenida: 0.986259
+
+Prueba #125
+Nivel de agua: 8.26
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 0.986229
+
+Prueba #126
+Nivel de agua: 8.27
+Variacion de nivel: -0.07
+P. esperada: 0.33
+P. obtenida: 0.986219
+
+Prueba #127
+Nivel de agua: 8.21
+Variacion de nivel: 0.42
+P. esperada: 0.33
+P. obtenida: 0.986165
+
+Prueba #128
+Nivel de agua: 8.27
+Variacion de nivel: -0.38
+P. esperada: 0.33
+P. obtenida: 0.986334
+
+Prueba #129
+Nivel de agua: 7.97
+Variacion de nivel: 1.86
+P. esperada: 0.33
+P. obtenida: 0.98613
+
+Prueba #130
+Nivel de agua: 7.91
+Variacion de nivel: 0.4
+P. esperada: 0.33
+P. obtenida: 0.986838
+
+Prueba #131
+Nivel de agua: 8.03
+Variacion de nivel: -0.76
+P. esperada: 0.33
+P. obtenida: 0.987034
+
+Prueba #132
+Nivel de agua: 8.14
+Variacion de nivel: -0.69
+P. esperada: 0.33
+P. obtenida: 0.986743
+
+Prueba #133
+Nivel de agua: 8.23
+Variacion de nivel: -0.59
+P. esperada: 0.33
+P. obtenida: 0.9865
+
+Prueba #134
+Nivel de agua: 8.12
+Variacion de nivel: 0.71
+P. esperada: 0.33
+P. obtenida: 0.986246
+
+Prueba #135
+Nivel de agua: 7.85
+Variacion de nivel: 1.71
+P. esperada: 0.33
+P. obtenida: 0.986442
+
+Prueba #136
+Nivel de agua: 7.74
+Variacion de nivel: 0.65
+P. esperada: 0.33
+P. obtenida: 0.987145
+
+Prueba #137
+Nivel de agua: 7.77
+Variacion de nivel: -0.17
+P. esperada: 0.33
+P. obtenida: 0.987434
+
+Prueba #138
+Nivel de agua: 7.97
+Variacion de nivel: -1.25
+P. esperada: 0.33
+P. obtenida: 0.987394
+
+Prueba #139
+Nivel de agua: 8.05
+Variacion de nivel: -0.48
+P. esperada: 0.33
+P. obtenida: 0.986869
+
+Prueba #140
+Nivel de agua: 7.86
+Variacion de nivel: 1.16
+P. esperada: 0.33
+P. obtenida: 0.986642
+
+Prueba #141
+Nivel de agua: 7.65
+Variacion de nivel: 1.3
+P. esperada: 0.33
+P. obtenida: 0.987081
+
+Prueba #142
+Nivel de agua: 7.66
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 0.987667
+
+Prueba #143
+Nivel de agua: 7.77
+Variacion de nivel: -0.66
+P. esperada: 0.33
+P. obtenida: 0.987658
+
+Prueba #144
+Nivel de agua: 8.02
+Variacion de nivel: -1.6
+P. esperada: 0.33
+P. obtenida: 0.987417
+
+Prueba #145
+Nivel de agua: 8.05
+Variacion de nivel: -0.18
+P. esperada: 0.33
+P. obtenida: 0.986747
+
+Prueba #146
+Nivel de agua: 8.08
+Variacion de nivel: -0.16
+P. esperada: 0.33
+P. obtenida: 0.98667
+
+Prueba #147
+Nivel de agua: 7.68
+Variacion de nivel: 2.48
+P. esperada: 0.33
+P. obtenida: 0.986505
+
+Prueba #148
+Nivel de agua: 7.64
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.987585
+
+Prueba #149
+Nivel de agua: 7.87
+Variacion de nivel: -1.37
+P. esperada: 0.33
+P. obtenida: 0.987712
+
+Prueba #150
+Nivel de agua: 8.02
+Variacion de nivel: -0.97
+P. esperada: 0.33
+P. obtenida: 0.987147
+
+Prueba #151
+Nivel de agua: 8.05
+Variacion de nivel: -0.18
+P. esperada: 0.33
+P. obtenida: 0.986747
+
+Prueba #152
+Nivel de agua: 8.02
+Variacion de nivel: 0.19
+P. esperada: 0.33
+P. obtenida: 0.986668
+
+Prueba #153
+Nivel de agua: 8.04
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 0.986751
+
+Prueba #154
+Nivel de agua: 8
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.98669
+
+Prueba #155
+Nivel de agua: 7.97
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.986796
+
+Prueba #156
+Nivel de agua: 8
+Variacion de nivel: -0.16
+P. esperada: 0.33
+P. obtenida: 0.986857
+
+Prueba #157
+Nivel de agua: 8.02
+Variacion de nivel: -0.12
+P. esperada: 0.33
+P. obtenida: 0.986793
+
+Prueba #158
+Nivel de agua: 7.97
+Variacion de nivel: 0.33
+P. esperada: 0.33
+P. obtenida: 0.986727
+
+Prueba #159
+Nivel de agua: 8
+Variacion de nivel: -0.22
+P. esperada: 0.33
+P. obtenida: 0.986881
+
+Prueba #160
+Nivel de agua: 8.12
+Variacion de nivel: -0.72
+P. esperada: 0.33
+P. obtenida: 0.986802
+
+Prueba #161
+Nivel de agua: 8.11
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.986516
+
+Prueba #162
+Nivel de agua: 8.02
+Variacion de nivel: 0.56
+P. esperada: 0.33
+P. obtenida: 0.986521
+
+Prueba #163
+Nivel de agua: 7.95
+Variacion de nivel: 0.42
+P. esperada: 0.33
+P. obtenida: 0.986736
+
+Prueba #164
+Nivel de agua: 7.95
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.986922
+
+Prueba #165
+Nivel de agua: 7.95
+Variacion de nivel: 0
+P. esperada: 0.33
+P. obtenida: 0.98691
+
+Prueba #166
+Nivel de agua: 7.96
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.986911
+
+Prueba #167
+Nivel de agua: 7.96
+Variacion de nivel: 0
+P. esperada: 0.33
+P. obtenida: 0.986886
+
+Prueba #168
+Nivel de agua: 8.16
+Variacion de nivel: -1.27
+P. esperada: 0.33
+P. obtenida: 0.98693
+
+Prueba #169
+Nivel de agua: 8.37
+Variacion de nivel: -1.28
+P. esperada: 0.33
+P. obtenida: 0.986453
+
+Prueba #170
+Nivel de agua: 8.3
+Variacion de nivel: 0.41
+P. esperada: 0.33
+P. obtenida: 0.985986
+
+Prueba #171
+Nivel de agua: 8.36
+Variacion de nivel: -0.35
+P. esperada: 0.33
+P. obtenida: 0.986134
+
+Prueba #172
+Nivel de agua: 8.39
+Variacion de nivel: -0.21
+P. esperada: 0.33
+P. obtenida: 0.986023
+
+Prueba #173
+Nivel de agua: 8.31
+Variacion de nivel: 0.51
+P. esperada: 0.33
+P. obtenida: 0.985931
+
+Prueba #174
+Nivel de agua: 8.32
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.986112
+
+Prueba #175
+Nivel de agua: 8.38
+Variacion de nivel: -0.36
+P. esperada: 0.33
+P. obtenida: 0.986096
+
+Prueba #176
+Nivel de agua: 8.34
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.985962
+
+Prueba #177
+Nivel de agua: 8.29
+Variacion de nivel: 0.28
+P. esperada: 0.33
+P. obtenida: 0.986052
+
+Prueba #178
+Nivel de agua: 8.22
+Variacion de nivel: 0.47
+P. esperada: 0.33
+P. obtenida: 0.986126
+
+Prueba #179
+Nivel de agua: 7.97
+Variacion de nivel: 1.53
+P. esperada: 0.33
+P. obtenida: 0.986254
+
+Prueba #180
+Nivel de agua: 7.89
+Variacion de nivel: 0.53
+P. esperada: 0.33
+P. obtenida: 0.986832
+
+Prueba #181
+Nivel de agua: 7.89
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.987068
+
+Prueba #182
+Nivel de agua: 7.9
+Variacion de nivel: -0.07
+P. esperada: 0.33
+P. obtenida: 0.98706
+
+Prueba #183
+Nivel de agua: 7.9
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.987018
+
+Prueba #184
+Nivel de agua: 7.96
+Variacion de nivel: -0.4
+P. esperada: 0.33
+P. obtenida: 0.987053
+
+Prueba #185
+Nivel de agua: 8
+Variacion de nivel: -0.21
+P. esperada: 0.33
+P. obtenida: 0.986877
+
+Prueba #186
+Nivel de agua: 8.15
+Variacion de nivel: -0.98
+P. esperada: 0.33
+P. obtenida: 0.986836
+
+Prueba #187
+Nivel de agua: 8.16
+Variacion de nivel: -0.05
+P. esperada: 0.33
+P. obtenida: 0.986448
+
+Prueba #188
+Nivel de agua: 8.1
+Variacion de nivel: 0.39
+P. esperada: 0.33
+P. obtenida: 0.98641
+
+Prueba #189
+Nivel de agua: 7.95
+Variacion de nivel: 0.92
+P. esperada: 0.33
+P. obtenida: 0.986535
+
+Prueba #190
+Nivel de agua: 7.9
+Variacion de nivel: 0.3
+P. esperada: 0.33
+P. obtenida: 0.986904
+
+Prueba #191
+Nivel de agua: 7.9
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.987018
+
+Prueba #192
+Nivel de agua: 7.89
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.987042
+
+Prueba #193
+Nivel de agua: 7.88
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 0.98705
+
+Prueba #194
+Nivel de agua: 7.87
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 0.987087
+
+Prueba #195
+Nivel de agua: 7.85
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 0.987094
+
+Prueba #196
+Nivel de agua: 7.82
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.98716
+
+Prueba #197
+Nivel de agua: 7.82
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 0.987221
+
+Prueba #198
+Nivel de agua: 7.77
+Variacion de nivel: 0.29
+P. esperada: 0.33
+P. obtenida: 0.987228
+
+Prueba #199
+Nivel de agua: 7.61
+Variacion de nivel: 1.01
+P. esperada: 0.33
+P. obtenida: 0.987312
+
+Prueba #200
+Nivel de agua: 7.62
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.987786
+
+Prueba #201
+Nivel de agua: 7.81
+Variacion de nivel: -1.2
+P. esperada: 0.33
+P. obtenida: 0.987798
+
+Prueba #202
+Nivel de agua: 7.84
+Variacion de nivel: -0.15
+P. esperada: 0.33
+P. obtenida: 0.987245
+
+Prueba #203
+Nivel de agua: 7.74
+Variacion de nivel: 0.59
+P. esperada: 0.33
+P. obtenida: 0.987171
+
+Prueba #204
+Nivel de agua: 7.57
+Variacion de nivel: 1.06
+P. esperada: 0.33
+P. obtenida: 0.987393
+
+Prueba #205
+Nivel de agua: 7.35
+Variacion de nivel: 1.34
+P. esperada: 0.33
+P. obtenida: 0.98785
+
+Prueba #206
+Nivel de agua: 7.38
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 0.988525
+
+Prueba #207
+Nivel de agua: 7.7
+Variacion de nivel: -2.03
+P. esperada: 0.33
+P. obtenida: 0.98851
+
+Prueba #208
+Nivel de agua: 7.73
+Variacion de nivel: -0.18
+P. esperada: 0.33
+P. obtenida: 0.987544
+
+Prueba #209
+Nivel de agua: 7.56
+Variacion de nivel: 1.04
+P. esperada: 0.33
+P. obtenida: 0.987428
+
+Prueba #210
+Nivel de agua: 7.45
+Variacion de nivel: 0.71
+P. esperada: 0.33
+P. obtenida: 0.987885
+
+Prueba #211
+Nivel de agua: 7.27
+Variacion de nivel: 1.11
+P. esperada: 0.33
+P. obtenida: 0.988198
+
+Prueba #212
+Nivel de agua: 7.4
+Variacion de nivel: -0.76
+P. esperada: 0.33
+P. obtenida: 0.988789
+
+Prueba #213
+Nivel de agua: 7.62
+Variacion de nivel: -1.4
+P. esperada: 0.33
+P. obtenida: 0.98844
+
+Prueba #214
+Nivel de agua: 7.68
+Variacion de nivel: -0.39
+P. esperada: 0.33
+P. obtenida: 0.987777
+
+Prueba #215
+Nivel de agua: 7.54
+Variacion de nivel: 0.92
+P. esperada: 0.33
+P. obtenida: 0.987537
+
+Prueba #216
+Nivel de agua: 7.36
+Variacion de nivel: 1.09
+P. esperada: 0.33
+P. obtenida: 0.987949
+
+Prueba #217
+Nivel de agua: 7.29
+Variacion de nivel: 0.45
+P. esperada: 0.33
+P. obtenida: 0.988488
+
+Prueba #218
+Nivel de agua: 7.34
+Variacion de nivel: -0.3
+P. esperada: 0.33
+P. obtenida: 0.988734
+
+Prueba #219
+Nivel de agua: 7.63
+Variacion de nivel: -1.83
+P. esperada: 0.33
+P. obtenida: 0.988624
+
+Prueba #220
+Nivel de agua: 7.67
+Variacion de nivel: -0.28
+P. esperada: 0.33
+P. obtenida: 0.987753
+
+Prueba #221
+Nivel de agua: 7.63
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.987612
+
+Prueba #222
+Nivel de agua: 7.61
+Variacion de nivel: 0.13
+P. esperada: 0.33
+P. obtenida: 0.987723
+
+Prueba #223
+Nivel de agua: 7.65
+Variacion de nivel: -0.21
+P. esperada: 0.33
+P. obtenida: 0.987775
+
+Prueba #224
+Nivel de agua: 7.51
+Variacion de nivel: 0.83
+P. esperada: 0.33
+P. obtenida: 0.987661
+
+Prueba #225
+Nivel de agua: 7.62
+Variacion de nivel: -0.66
+P. esperada: 0.33
+P. obtenida: 0.988076
+
+Prueba #226
+Nivel de agua: 7.6
+Variacion de nivel: 0.11
+P. esperada: 0.33
+P. obtenida: 0.98776
+
+Prueba #227
+Nivel de agua: 7.54
+Variacion de nivel: 0.4
+P. esperada: 0.33
+P. obtenida: 0.987786
+
+Prueba #228
+Nivel de agua: 7.62
+Variacion de nivel: -0.5
+P. esperada: 0.33
+P. obtenida: 0.987998
+
+Prueba #229
+Nivel de agua: 7.61
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 0.987752
+
+Prueba #230
+Nivel de agua: 7.56
+Variacion de nivel: 0.31
+P. esperada: 0.33
+P. obtenida: 0.987774
+
+Prueba #231
+Nivel de agua: 7.62
+Variacion de nivel: -0.37
+P. esperada: 0.33
+P. obtenida: 0.987935
+
+Prueba #232
+Nivel de agua: 7.55
+Variacion de nivel: 0.41
+P. esperada: 0.33
+P. obtenida: 0.987754
+
+Prueba #233
+Nivel de agua: 7.58
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 0.987936
+
+Prueba #234
+Nivel de agua: 7.52
+Variacion de nivel: 0.34
+P. esperada: 0.33
+P. obtenida: 0.987871
+
+Prueba #235
+Nivel de agua: 7.6
+Variacion de nivel: -0.53
+P. esperada: 0.33
+P. obtenida: 0.98807
+
+Prueba #236
+Nivel de agua: 7.49
+Variacion de nivel: 0.74
+P. esperada: 0.33
+P. obtenida: 0.987759
+
+Prueba #237
+Nivel de agua: 7.71
+Variacion de nivel: -1.39
+P. esperada: 0.33
+P. obtenida: 0.98817
+
+Prueba #238
+Nivel de agua: 7.94
+Variacion de nivel: -1.4
+P. esperada: 0.33
+P. obtenida: 0.987538
+
+Prueba #239
+Nivel de agua: 7.95
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.986947
+
+Prueba #240
+Nivel de agua: 7.94
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 0.986904
+
+Prueba #241
+Nivel de agua: 7.91
+Variacion de nivel: 0.17
+P. esperada: 0.33
+P. obtenida: 0.986934
+
+Prueba #242
+Nivel de agua: 7.9
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.987005
+
+Prueba #243
+Nivel de agua: 7.9
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.987018
+
+Prueba #244
+Nivel de agua: 7.91
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.987044
+
+Prueba #245
+Nivel de agua: 7.85
+Variacion de nivel: 0.39
+P. esperada: 0.33
+P. obtenida: 0.986986
+
+Prueba #246
+Nivel de agua: 7.66
+Variacion de nivel: 1.2
+P. esperada: 0.33
+P. obtenida: 0.9871
+
+Prueba #247
+Nivel de agua: 7.5
+Variacion de nivel: 0.98
+P. esperada: 0.33
+P. obtenida: 0.987616
+
+Prueba #248
+Nivel de agua: 7.48
+Variacion de nivel: 0.09
+P. esperada: 0.33
+P. obtenida: 0.988109
+
+Prueba #249
+Nivel de agua: 7.5
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.988141
+
+Prueba #250
+Nivel de agua: 7.46
+Variacion de nivel: 0.23
+P. esperada: 0.33
+P. obtenida: 0.988096
+
+Prueba #251
+Nivel de agua: 7.52
+Variacion de nivel: -0.39
+P. esperada: 0.33
+P. obtenida: 0.988233
+
+Prueba #252
+Nivel de agua: 7.49
+Variacion de nivel: 0.24
+P. esperada: 0.33
+P. obtenida: 0.988005
+
+Prueba #253
+Nivel de agua: 7.61
+Variacion de nivel: -0.78
+P. esperada: 0.33
+P. obtenida: 0.988163
+
+Prueba #254
+Nivel de agua: 7.84
+Variacion de nivel: -1.43
+P. esperada: 0.33
+P. obtenida: 0.987822
+
+Prueba #255
+Nivel de agua: 7.83
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.987178
+
+Prueba #256
+Nivel de agua: 7.66
+Variacion de nivel: 1.09
+P. esperada: 0.33
+P. obtenida: 0.987149
+
+Prueba #257
+Nivel de agua: 7.71
+Variacion de nivel: -0.32
+P. esperada: 0.33
+P. obtenida: 0.987663
+
+Prueba #258
+Nivel de agua: 7.46
+Variacion de nivel: 1.53
+P. esperada: 0.33
+P. obtenida: 0.987459
+
+Prueba #259
+Nivel de agua: 7.46
+Variacion de nivel: -0
+P. esperada: 0.33
+P. obtenida: 0.988213
+
+Prueba #260
+Nivel de agua: 7.45
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 0.988206
+
+Prueba #261
+Nivel de agua: 7.43
+Variacion de nivel: 0.12
+P. esperada: 0.33
+P. obtenida: 0.98824
+
+Prueba #262
+Nivel de agua: 7.45
+Variacion de nivel: -0.1
+P. esperada: 0.33
+P. obtenida: 0.988293
+
+Prueba #263
+Nivel de agua: 7.44
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.988246
+
+Prueba #264
+Nivel de agua: 7.49
+Variacion de nivel: -0.31
+P. esperada: 0.33
+P. obtenida: 0.988281
+
+Prueba #265
+Nivel de agua: 7.4
+Variacion de nivel: 0.58
+P. esperada: 0.33
+P. obtenida: 0.988093
+
+Prueba #266
+Nivel de agua: 7.48
+Variacion de nivel: -0.48
+P. esperada: 0.33
+P. obtenida: 0.988397
+
+Prueba #267
+Nivel de agua: 7.17
+Variacion de nivel: 1.92
+P. esperada: 0.33
+P. obtenida: 0.988059
+
+Prueba #268
+Nivel de agua: 7.12
+Variacion de nivel: 0.32
+P. esperada: 0.33
+P. obtenida: 0.989099
+
+Prueba #269
+Nivel de agua: 7.24
+Variacion de nivel: -0.77
+P. esperada: 0.33
+P. obtenida: 0.989316
+
+Prueba #270
+Nivel de agua: 7.29
+Variacion de nivel: -0.28
+P. esperada: 0.33
+P. obtenida: 0.988881
+
+Prueba #271
+Nivel de agua: 7.41
+Variacion de nivel: -0.78
+P. esperada: 0.33
+P. obtenida: 0.988769
+
+Prueba #272
+Nivel de agua: 7.36
+Variacion de nivel: 0.34
+P. esperada: 0.33
+P. obtenida: 0.988334
+
+Prueba #273
+Nivel de agua: 7.16
+Variacion de nivel: 1.26
+P. esperada: 0.33
+P. obtenida: 0.988445
+
+Prueba #274
+Nivel de agua: 6.91
+Variacion de nivel: 1.52
+P. esperada: 0.33
+P. obtenida: 0.989085
+
+Prueba #275
+Nivel de agua: 6.92
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 0.989993
+
+Prueba #276
+Nivel de agua: 7.14
+Variacion de nivel: -1.38
+P. esperada: 0.33
+P. obtenida: 0.990009
+
+Prueba #277
+Nivel de agua: 7.23
+Variacion de nivel: -0.54
+P. esperada: 0.33
+P. obtenida: 0.989221
+
+Prueba #278
+Nivel de agua: 7.16
+Variacion de nivel: 0.39
+P. esperada: 0.33
+P. obtenida: 0.988929
+
+Prueba #279
+Nivel de agua: 7.08
+Variacion de nivel: 0.5
+P. esperada: 0.33
+P. obtenida: 0.989127
+
+Prueba #280
+Nivel de agua: 6.94
+Variacion de nivel: 0.92
+P. esperada: 0.33
+P. obtenida: 0.989348
+
+Prueba #281
+Nivel de agua: 6.91
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.989918
+
+Prueba #282
+Nivel de agua: 6.96
+Variacion de nivel: -0.32
+P. esperada: 0.33
+P. obtenida: 0.990032
+
+Prueba #283
+Nivel de agua: 7.25
+Variacion de nivel: -1.81
+P. esperada: 0.33
+P. obtenida: 0.989861
+
+Prueba #284
+Nivel de agua: 7.31
+Variacion de nivel: -0.37
+P. esperada: 0.33
+P. obtenida: 0.988866
+
+Prueba #285
+Nivel de agua: 6.9
+Variacion de nivel: 2.61
+P. esperada: 0.33
+P. obtenida: 0.988464
+
+Prueba #286
+Nivel de agua: 6.87
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 0.990076
+
+Prueba #287
+Nivel de agua: 6.87
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 0.990151
+
+Prueba #288
+Nivel de agua: 7.08
+Variacion de nivel: -1.28
+P. esperada: 0.33
+P. obtenida: 0.990168
+
+Prueba #289
+Nivel de agua: 7.23
+Variacion de nivel: -0.91
+P. esperada: 0.33
+P. obtenida: 0.989428
+
+Prueba #290
+Nivel de agua: 7.21
+Variacion de nivel: 0.11
+P. esperada: 0.33
+P. obtenida: 0.988924
+
+Prueba #291
+Nivel de agua: 7.28
+Variacion de nivel: -0.45
+P. esperada: 0.33
+P. obtenida: 0.989007
+
+Prueba #292
+Nivel de agua: 7.21
+Variacion de nivel: 0.45
+P. esperada: 0.33
+P. obtenida: 0.988736
+
+Prueba #293
+Nivel de agua: 7.01
+Variacion de nivel: 1.24
+P. esperada: 0.33
+P. obtenida: 0.988926
+
+Prueba #294
+Nivel de agua: 6.98
+Variacion de nivel: 0.2
+P. esperada: 0.33
+P. obtenida: 0.989645
+
+Prueba #295
+Nivel de agua: 7.15
+Variacion de nivel: -1.09
+P. esperada: 0.33
+P. obtenida: 0.989807
+
+Prueba #296
+Nivel de agua: 7.14
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.989187
+
+Prueba #297
+Nivel de agua: 7.26
+Variacion de nivel: -0.71
+P. esperada: 0.33
+P. obtenida: 0.989216
+
+Prueba #298
+Nivel de agua: 7.16
+Variacion de nivel: 0.64
+P. esperada: 0.33
+P. obtenida: 0.988789
+
+Prueba #299
+Nivel de agua: 7.18
+Variacion de nivel: -0.16
+P. esperada: 0.33
+P. obtenida: 0.989173
+
+Prueba #300
+Nivel de agua: 7.23
+Variacion de nivel: -0.33
+P. esperada: 0.33
+P. obtenida: 0.989104
+
+Prueba #301
+Nivel de agua: 7.18
+Variacion de nivel: 0.35
+P. esperada: 0.33
+P. obtenida: 0.988887
+
+Prueba #302
+Nivel de agua: 7.14
+Variacion de nivel: 0.22
+P. esperada: 0.33
+P. obtenida: 0.98909
+
+Prueba #303
+Nivel de agua: 7.2
+Variacion de nivel: -0.35
+P. esperada: 0.33
+P. obtenida: 0.989214
+
+Prueba #304
+Nivel de agua: 7.11
+Variacion de nivel: 0.57
+P. esperada: 0.33
+P. obtenida: 0.988989
+
+Prueba #305
+Nivel de agua: 7.13
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 0.989329
+
+Prueba #306
+Nivel de agua: 7.15
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 0.989262
+
+Prueba #307
+Nivel de agua: 7.26
+Variacion de nivel: -0.67
+P. esperada: 0.33
+P. obtenida: 0.989193
+
+Prueba #308
+Nivel de agua: 7.43
+Variacion de nivel: -1.04
+P. esperada: 0.33
+P. obtenida: 0.988842
+
+Prueba #309
+Nivel de agua: 7.53
+Variacion de nivel: -0.65
+P. esperada: 0.33
+P. obtenida: 0.988334
+
+Prueba #310
+Nivel de agua: 7.52
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 0.987999
+
+Prueba #311
+Nivel de agua: 7.6
+Variacion de nivel: -0.5
+P. esperada: 0.33
+P. obtenida: 0.988055
+
+Prueba #312
+Nivel de agua: 7.48
+Variacion de nivel: 0.72
+P. esperada: 0.33
+P. obtenida: 0.987797
+
+Prueba #313
+Nivel de agua: 7.42
+Variacion de nivel: 0.41
+P. esperada: 0.33
+P. obtenida: 0.988121
+
+Prueba #314
+Nivel de agua: 7.22
+Variacion de nivel: 1.27
+P. esperada: 0.33
+P. obtenida: 0.98826
+
+Prueba #315
+Nivel de agua: 7.16
+Variacion de nivel: 0.37
+P. esperada: 0.33
+P. obtenida: 0.98894
+
+Prueba #316
+Nivel de agua: 7.08
+Variacion de nivel: 0.5
+P. esperada: 0.33
+P. obtenida: 0.989127
+
+Prueba #317
+Nivel de agua: 7.07
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.989423
+
+Prueba #318
+Nivel de agua: 7.13
+Variacion de nivel: -0.41
+P. esperada: 0.33
+P. obtenida: 0.989485
+
+Prueba #319
+Nivel de agua: 7.09
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.989239
+
+Prueba #320
+Nivel de agua: 7.06
+Variacion de nivel: 0.19
+P. esperada: 0.33
+P. obtenida: 0.989375
+
+Prueba #321
+Nivel de agua: 7.1
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 0.989483
+
+Prueba #322
+Nivel de agua: 7.22
+Variacion de nivel: -0.74
+P. esperada: 0.33
+P. obtenida: 0.989366
+
+Prueba #323
+Nivel de agua: 7.13
+Variacion de nivel: 0.52
+P. esperada: 0.33
+P. obtenida: 0.988952
+
+Prueba #324
+Nivel de agua: 7.2
+Variacion de nivel: -0.44
+P. esperada: 0.33
+P. obtenida: 0.989265
+
+Prueba #325
+Nivel de agua: 7.28
+Variacion de nivel: -0.44
+P. esperada: 0.33
+P. obtenida: 0.989001
+
+Prueba #326
+Nivel de agua: 7.16
+Variacion de nivel: 0.72
+P. esperada: 0.33
+P. obtenida: 0.988744
+
+Prueba #327
+Nivel de agua: 7.13
+Variacion de nivel: 0.21
+P. esperada: 0.33
+P. obtenida: 0.989129
+
+Prueba #328
+Nivel de agua: 7.06
+Variacion de nivel: 0.43
+P. esperada: 0.33
+P. obtenida: 0.989234
+
+Prueba #329
+Nivel de agua: 6.99
+Variacion de nivel: 0.41
+P. esperada: 0.33
+P. obtenida: 0.989484
+
+Prueba #330
+Nivel de agua: 7.01
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 0.989744
+
+Prueba #331
+Nivel de agua: 7.13
+Variacion de nivel: -0.73
+P. esperada: 0.33
+P. obtenida: 0.989669
+
+Prueba #332
+Nivel de agua: 7.02
+Variacion de nivel: 0.72
+P. esperada: 0.33
+P. obtenida: 0.989198
+
+Prueba #333
+Nivel de agua: 7
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 0.989653
+
+Prueba #334
+Nivel de agua: 7.11
+Variacion de nivel: -0.66
+P. esperada: 0.33
+P. obtenida: 0.989699
+
+Prueba #335
+Nivel de agua: 6.99
+Variacion de nivel: 0.75
+P. esperada: 0.33
+P. obtenida: 0.989281
+
+Prueba #336
+Nivel de agua: 6.99
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.989712
+
+Prueba #337
+Nivel de agua: 6.67
+Variacion de nivel: 1.92
+P. esperada: 0.33
+P. obtenida: 0.989643
+
+Prueba #338
+Nivel de agua: 6.76
+Variacion de nivel: -0.55
+P. esperada: 0.33
+P. obtenida: 0.990935
+
+Prueba #339
+Nivel de agua: 6.84
+Variacion de nivel: -0.48
+P. esperada: 0.33
+P. obtenida: 0.990579
+
+Prueba #340
+Nivel de agua: 7.03
+Variacion de nivel: -1.17
+P. esperada: 0.33
+P. obtenida: 0.990287
+
+Prueba #341
+Nivel de agua: 6.96
+Variacion de nivel: 0.43
+P. esperada: 0.33
+P. obtenida: 0.989576
+
+Prueba #342
+Nivel de agua: 6.94
+Variacion de nivel: 0.15
+P. esperada: 0.33
+P. obtenida: 0.989816
+
+Prueba #343
+Nivel de agua: 6.78
+Variacion de nivel: 0.94
+P. esperada: 0.33
+P. obtenida: 0.989894
+
+Prueba #344
+Nivel de agua: 6.53
+Variacion de nivel: 1.55
+P. esperada: 0.33
+P. obtenida: 0.990404
+
+Prueba #345
+Nivel de agua: 6.49
+Variacion de nivel: 0.3
+P. esperada: 0.33
+P. obtenida: 0.991452
+
+Prueba #346
+Nivel de agua: 6.65
+Variacion de nivel: -1
+P. esperada: 0.33
+P. obtenida: 0.991674
+
+Prueba #347
+Nivel de agua: 6.87
+Variacion de nivel: -1.36
+P. esperada: 0.33
+P. obtenida: 0.991012
+
+Prueba #348
+Nivel de agua: 6.81
+Variacion de nivel: 0.36
+P. esperada: 0.33
+P. obtenida: 0.990157
+
+Prueba #349
+Nivel de agua: 6.66
+Variacion de nivel: 0.91
+P. esperada: 0.33
+P. obtenida: 0.990356
+
+Prueba #350
+Nivel de agua: 6.45
+Variacion de nivel: 1.32
+P. esperada: 0.33
+P. obtenida: 0.990878
+
+Prueba #351
+Nivel de agua: 6.45
+Variacion de nivel: -0.01
+P. esperada: 0.33
+P. obtenida: 0.991841
+
+Prueba #352
+Nivel de agua: 6.52
+Variacion de nivel: -0.45
+P. esperada: 0.33
+P. obtenida: 0.991852
+
+Prueba #353
+Nivel de agua: 6.77
+Variacion de nivel: -1.52
+P. esperada: 0.33
+P. obtenida: 0.991511
+
+Prueba #354
+Nivel de agua: 6.87
+Variacion de nivel: -0.61
+P. esperada: 0.33
+P. obtenida: 0.990546
+
+Prueba #355
+Nivel de agua: 6.69
+Variacion de nivel: 1.09
+P. esperada: 0.33
+P. obtenida: 0.990123
+
+Prueba #356
+Nivel de agua: 6.52
+Variacion de nivel: 1.09
+P. esperada: 0.33
+P. obtenida: 0.990768
+
+Prueba #357
+Nivel de agua: 6.42
+Variacion de nivel: 0.61
+P. esperada: 0.33
+P. obtenida: 0.991519
+
+Prueba #358
+Nivel de agua: 6.42
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 0.991948
+
+Prueba #359
+Nivel de agua: 6.65
+Variacion de nivel: -1.46
+P. esperada: 0.33
+P. obtenida: 0.991971
+
+Prueba #360
+Nivel de agua: 6.82
+Variacion de nivel: -1.07
+P. esperada: 0.33
+P. obtenida: 0.991029
+
+Prueba #361
+Nivel de agua: 6.77
+Variacion de nivel: 0.34
+P. esperada: 0.33
+P. obtenida: 0.990319
+
+Prueba #362
+Nivel de agua: 6.82
+Variacion de nivel: -0.35
+P. esperada: 0.33
+P. obtenida: 0.990573
+
+Prueba #363
+Nivel de agua: 6.79
+Variacion de nivel: 0.23
+P. esperada: 0.33
+P. obtenida: 0.990315
+
+Prueba #364
+Nivel de agua: 6.55
+Variacion de nivel: 1.47
+P. esperada: 0.33
+P. obtenida: 0.990385
+
+Prueba #365
+Nivel de agua: 6.42
+Variacion de nivel: 0.78
+P. esperada: 0.33
+P. obtenida: 0.991394
+
+Prueba #366
+Nivel de agua: 6.64
+Variacion de nivel: -1.35
+P. esperada: 0.33
+P. obtenida: 0.991943
+
+Prueba #367
+Nivel de agua: 6.74
+Variacion de nivel: -0.57
+P. esperada: 0.33
+P. obtenida: 0.991027
+
+Prueba #368
+Nivel de agua: 6.76
+Variacion de nivel: -0.15
+P. esperada: 0.33
+P. obtenida: 0.990675
+
+Prueba #369
+Nivel de agua: 6.75
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.990577
+
+Prueba #370
+Nivel de agua: 6.77
+Variacion de nivel: -0.1
+P. esperada: 0.33
+P. obtenida: 0.990604
+
+Prueba #371
+Nivel de agua: 6.85
+Variacion de nivel: -0.52
+P. esperada: 0.33
+P. obtenida: 0.990566
+
+Prueba #372
+Nivel de agua: 6.87
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.99022
+
+Prueba #373
+Nivel de agua: 6.8
+Variacion de nivel: 0.39
+P. esperada: 0.33
+P. obtenida: 0.990175
+
+Prueba #374
+Nivel de agua: 6.72
+Variacion de nivel: 0.52
+P. esperada: 0.33
+P. obtenida: 0.990389
+
+Prueba #375
+Nivel de agua: 6.72
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 0.990745
+
+Prueba #376
+Nivel de agua: 6.7
+Variacion de nivel: 0.13
+P. esperada: 0.33
+P. obtenida: 0.990724
+
+Prueba #377
+Nivel de agua: 6.74
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 0.990805
+
+Prueba #378
+Nivel de agua: 6.75
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.990655
+
+Prueba #379
+Nivel de agua: 6.88
+Variacion de nivel: -0.83
+P. esperada: 0.33
+P. obtenida: 0.990645
+
+Prueba #380
+Nivel de agua: 6.85
+Variacion de nivel: 0.19
+P. esperada: 0.33
+P. obtenida: 0.990117
+
+Prueba #381
+Nivel de agua: 6.97
+Variacion de nivel: -0.72
+P. esperada: 0.33
+P. obtenida: 0.990239
+
+Prueba #382
+Nivel de agua: 7.06
+Variacion de nivel: -0.58
+P. esperada: 0.33
+P. obtenida: 0.989828
+
+Prueba #383
+Nivel de agua: 6.96
+Variacion de nivel: 0.68
+P. esperada: 0.33
+P. obtenida: 0.989424
+
+Prueba #384
+Nivel de agua: 6.86
+Variacion de nivel: 0.62
+P. esperada: 0.33
+P. obtenida: 0.989811
+
+Prueba #385
+Nivel de agua: 6.7
+Variacion de nivel: 0.95
+P. esperada: 0.33
+P. obtenida: 0.990179
+
+Prueba #386
+Nivel de agua: 6.66
+Variacion de nivel: 0.26
+P. esperada: 0.33
+P. obtenida: 0.990794
+
+Prueba #387
+Nivel de agua: 6.64
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 0.990954
+
+Prueba #388
+Nivel de agua: 6.63
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 0.991041
+
+Prueba #389
+Nivel de agua: 6.63
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.991109
+
+Prueba #390
+Nivel de agua: 6.68
+Variacion de nivel: -0.29
+P. esperada: 0.33
+P. obtenida: 0.991082
+
+Prueba #391
+Nivel de agua: 6.67
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.990909
+
+Prueba #392
+Nivel de agua: 6.69
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 0.990903
+
+Prueba #393
+Nivel de agua: 6.69
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 0.990876
+
+Prueba #394
+Nivel de agua: 6.67
+Variacion de nivel: 0.13
+P. esperada: 0.33
+P. obtenida: 0.990842
+
+Prueba #395
+Nivel de agua: 6.83
+Variacion de nivel: -1
+P. esperada: 0.33
+P. obtenida: 0.990946
+
+Prueba #396
+Nivel de agua: 6.82
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.990311
+
+Prueba #397
+Nivel de agua: 6.76
+Variacion de nivel: 0.4
+P. esperada: 0.33
+P. obtenida: 0.990317
+
+Prueba #398
+Nivel de agua: 6.73
+Variacion de nivel: 0.17
+P. esperada: 0.33
+P. obtenida: 0.990582
+
+Prueba #399
+Nivel de agua: 6.69
+Variacion de nivel: 0.26
+P. esperada: 0.33
+P. obtenida: 0.990677
+
+Prueba #400
+Nivel de agua: 6.68
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.990849
+
+Prueba #401
+Nivel de agua: 6.69
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 0.990903
+
+Prueba #402
+Nivel de agua: 6.7
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.99083
+
+Prueba #403
+Nivel de agua: 6.69
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.990816
+
+Prueba #404
+Nivel de agua: 6.7
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 0.990837
+
+Prueba #405
+Nivel de agua: 6.72
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 0.990818
+
+Prueba #406
+Nivel de agua: 6.7
+Variacion de nivel: 0.09
+P. esperada: 0.33
+P. obtenida: 0.990751
+
+Prueba #407
+Nivel de agua: 6.67
+Variacion de nivel: 0.21
+P. esperada: 0.33
+P. obtenida: 0.990788
+
+Prueba #408
+Nivel de agua: 6.34
+Variacion de nivel: 2.04
+P. esperada: 0.33
+P. obtenida: 0.990768
+
+Prueba #409
+Nivel de agua: 6.39
+Variacion de nivel: -0.3
+P. esperada: 0.33
+P. obtenida: 0.992309
+
+Prueba #410
+Nivel de agua: 6.51
+Variacion de nivel: -0.74
+P. esperada: 0.33
+P. obtenida: 0.992094
+
+Prueba #411
+Nivel de agua: 6.5
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.991587
+
+Prueba #412
+Nivel de agua: 6.57
+Variacion de nivel: -0.45
+P. esperada: 0.33
+P. obtenida: 0.991641
+
+Prueba #413
+Nivel de agua: 6.58
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.991312
+
+Prueba #414
+Nivel de agua: 6.57
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 0.991318
+
+Prueba #415
+Nivel de agua: 6.29
+Variacion de nivel: 1.73
+P. esperada: 0.33
+P. obtenida: 0.991206
+
+Prueba #416
+Nivel de agua: 6.13
+Variacion de nivel: 0.97
+P. esperada: 0.33
+P. obtenida: 0.992496
+
+Prueba #417
+Nivel de agua: 6.17
+Variacion de nivel: -0.21
+P. esperada: 0.33
+P. obtenida: 0.993241
+
+Prueba #418
+Nivel de agua: 6.59
+Variacion de nivel: -2.61
+P. esperada: 0.33
+P. obtenida: 0.992911
+
+Prueba #419
+Nivel de agua: 6.59
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.99123
+
+Prueba #420
+Nivel de agua: 6.53
+Variacion de nivel: 0.38
+P. esperada: 0.33
+P. obtenida: 0.991231
+
+Prueba #421
+Nivel de agua: 6.18
+Variacion de nivel: 2.15
+P. esperada: 0.33
+P. obtenida: 0.991311
+
+Prueba #422
+Nivel de agua: 6.09
+Variacion de nivel: 0.57
+P. esperada: 0.33
+P. obtenida: 0.993003
+
+Prueba #423
+Nivel de agua: 6.07
+Variacion de nivel: 0.09
+P. esperada: 0.33
+P. obtenida: 0.993481
+
+Prueba #424
+Nivel de agua: 6.26
+Variacion de nivel: -1.18
+P. esperada: 0.33
+P. obtenida: 0.993517
+
+Prueba #425
+Nivel de agua: 6.34
+Variacion de nivel: -0.46
+P. esperada: 0.33
+P. obtenida: 0.992646
+
+Prueba #426
+Nivel de agua: 6.53
+Variacion de nivel: -1.17
+P. esperada: 0.33
+P. obtenida: 0.992296
+
+Prueba #427
+Nivel de agua: 6.48
+Variacion de nivel: 0.31
+P. esperada: 0.33
+P. obtenida: 0.991486
+
+Prueba #428
+Nivel de agua: 6.13
+Variacion de nivel: 2.12
+P. esperada: 0.33
+P. obtenida: 0.991539
+
+Prueba #429
+Nivel de agua: 6.03
+Variacion de nivel: 0.65
+P. esperada: 0.33
+P. obtenida: 0.993217
+
+Prueba #430
+Nivel de agua: 6.06
+Variacion de nivel: -0.19
+P. esperada: 0.33
+P. obtenida: 0.993748
+
+Prueba #431
+Nivel de agua: 6.24
+Variacion de nivel: -1.13
+P. esperada: 0.33
+P. obtenida: 0.993576
+
+Prueba #432
+Nivel de agua: 6.42
+Variacion de nivel: -1.1
+P. esperada: 0.33
+P. obtenida: 0.992733
+
+Prueba #433
+Nivel de agua: 6.49
+Variacion de nivel: -0.41
+P. esperada: 0.33
+P. obtenida: 0.991952
+
+Prueba #434
+Nivel de agua: 6.46
+Variacion de nivel: 0.2
+P. esperada: 0.33
+P. obtenida: 0.991648
+
+Prueba #435
+Nivel de agua: 6.41
+Variacion de nivel: 0.32
+P. esperada: 0.33
+P. obtenida: 0.991773
+
+Prueba #436
+Nivel de agua: 6.1
+Variacion de nivel: 1.92
+P. esperada: 0.33
+P. obtenida: 0.991834
+
+Prueba #437
+Nivel de agua: 5.99
+Variacion de nivel: 0.67
+P. esperada: 0.33
+P. obtenida: 0.993389
+
+Prueba #438
+Nivel de agua: 6.1
+Variacion de nivel: -0.69
+P. esperada: 0.33
+P. obtenida: 0.99393
+
+Prueba #439
+Nivel de agua: 6.33
+Variacion de nivel: -1.39
+P. esperada: 0.33
+P. obtenida: 0.993334
+
+Prueba #440
+Nivel de agua: 6.42
+Variacion de nivel: -0.54
+P. esperada: 0.33
+P. obtenida: 0.992347
+
+Prueba #441
+Nivel de agua: 6.37
+Variacion de nivel: 0.28
+P. esperada: 0.33
+P. obtenida: 0.991974
+
+Prueba #442
+Nivel de agua: 6.36
+Variacion de nivel: 0.09
+P. esperada: 0.33
+P. obtenida: 0.992157
+
+Prueba #443
+Nivel de agua: 6.33
+Variacion de nivel: 0.15
+P. esperada: 0.33
+P. obtenida: 0.992245
+
+Prueba #444
+Nivel de agua: 6.39
+Variacion de nivel: -0.38
+P. esperada: 0.33
+P. obtenida: 0.992366
+
+Prueba #445
+Nivel de agua: 6.43
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 0.992084
+
+Prueba #446
+Nivel de agua: 6.33
+Variacion de nivel: 0.6
+P. esperada: 0.33
+P. obtenida: 0.991908
+
+Prueba #447
+Nivel de agua: 6.3
+Variacion de nivel: 0.23
+P. esperada: 0.33
+P. obtenida: 0.992317
+
+Prueba #448
+Nivel de agua: 6.34
+Variacion de nivel: -0.28
+P. esperada: 0.33
+P. obtenida: 0.992516
+
+Prueba #449
+Nivel de agua: 6.37
+Variacion de nivel: -0.16
+P. esperada: 0.33
+P. obtenida: 0.992296
+
+Prueba #450
+Nivel de agua: 6.32
+Variacion de nivel: 0.29
+P. esperada: 0.33
+P. obtenida: 0.992184
+
+Prueba #451
+Nivel de agua: 6.29
+Variacion de nivel: 0.2
+P. esperada: 0.33
+P. obtenida: 0.992384
+
+Prueba #452
+Nivel de agua: 6.35
+Variacion de nivel: -0.39
+P. esperada: 0.33
+P. obtenida: 0.992551
+
+Prueba #453
+Nivel de agua: 6.41
+Variacion de nivel: -0.36
+P. esperada: 0.33
+P. obtenida: 0.992264
+
+Prueba #454
+Nivel de agua: 6.37
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.991996
+
+Prueba #455
+Nivel de agua: 6.35
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 0.992164
+
+Prueba #456
+Nivel de agua: 6.3
+Variacion de nivel: 0.31
+P. esperada: 0.33
+P. obtenida: 0.992257
+
+Prueba #457
+Nivel de agua: 6.34
+Variacion de nivel: -0.29
+P. esperada: 0.33
+P. obtenida: 0.992523
+
+Prueba #458
+Nivel de agua: 6.3
+Variacion de nivel: 0.28
+P. esperada: 0.33
+P. obtenida: 0.99228
+
+Prueba #459
+Nivel de agua: 6.26
+Variacion de nivel: 0.26
+P. esperada: 0.33
+P. obtenida: 0.992472
+
+Prueba #460
+Nivel de agua: 6.27
+Variacion de nivel: -0.1
+P. esperada: 0.33
+P. obtenida: 0.992698
+
+Prueba #461
+Nivel de agua: 6.31
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 0.992614
+
+Prueba #462
+Nivel de agua: 6.29
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 0.992474
+
+Prueba #463
+Nivel de agua: 6.25
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.992525
+
+Prueba #464
+Nivel de agua: 6.26
+Variacion de nivel: -0.01
+P. esperada: 0.33
+P. obtenida: 0.992676
+
+Prueba #465
+Nivel de agua: 6.34
+Variacion de nivel: -0.5
+P. esperada: 0.33
+P. obtenida: 0.992675
+
+Prueba #466
+Nivel de agua: 6.31
+Variacion de nivel: 0.2
+P. esperada: 0.33
+P. obtenida: 0.992295
+
+Prueba #467
+Nivel de agua: 6.26
+Variacion de nivel: 0.29
+P. esperada: 0.33
+P. obtenida: 0.99245
+
+Prueba #468
+Nivel de agua: 6.31
+Variacion de nivel: -0.32
+P. esperada: 0.33
+P. obtenida: 0.99268
+
+Prueba #469
+Nivel de agua: 6.25
+Variacion de nivel: 0.39
+P. esperada: 0.33
+P. obtenida: 0.992418
+
+Prueba #470
+Nivel de agua: 6.19
+Variacion de nivel: 0.36
+P. esperada: 0.33
+P. obtenida: 0.992711
+
+Prueba #471
+Nivel de agua: 6.22
+Variacion de nivel: -0.19
+P. esperada: 0.33
+P. obtenida: 0.992994
+
+Prueba #472
+Nivel de agua: 6.22
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.992874
+
+Prueba #473
+Nivel de agua: 6.19
+Variacion de nivel: 0.2
+P. esperada: 0.33
+P. obtenida: 0.992835
+
+Prueba #474
+Nivel de agua: 6.19
+Variacion de nivel: -0
+P. esperada: 0.33
+P. obtenida: 0.992989
+
+Prueba #475
+Nivel de agua: 6.26
+Variacion de nivel: -0.44
+P. esperada: 0.33
+P. obtenida: 0.992995
+
+Prueba #476
+Nivel de agua: 6.17
+Variacion de nivel: 0.58
+P. esperada: 0.33
+P. obtenida: 0.992629
+
+Prueba #477
+Nivel de agua: 6.22
+Variacion de nivel: -0.31
+P. esperada: 0.33
+P. obtenida: 0.993084
+
+Prueba #478
+Nivel de agua: 6.23
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.992828
+
+Prueba #479
+Nivel de agua: 6.08
+Variacion de nivel: 0.86
+P. esperada: 0.33
+P. obtenida: 0.992812
+
+Prueba #480
+Nivel de agua: 5.95
+Variacion de nivel: 0.83
+P. esperada: 0.33
+P. obtenida: 0.993443
+
+Prueba #481
+Nivel de agua: 6.09
+Variacion de nivel: -0.85
+P. esperada: 0.33
+P. obtenida: 0.994094
+
+Prueba #482
+Nivel de agua: 6.15
+Variacion de nivel: -0.37
+P. esperada: 0.33
+P. obtenida: 0.993455
+
+Prueba #483
+Nivel de agua: 6.21
+Variacion de nivel: -0.37
+P. esperada: 0.33
+P. obtenida: 0.993174
+
+Prueba #484
+Nivel de agua: 6.13
+Variacion de nivel: 0.47
+P. esperada: 0.33
+P. obtenida: 0.992899
+
+Prueba #485
+Nivel de agua: 6.18
+Variacion de nivel: -0.3
+P. esperada: 0.33
+P. obtenida: 0.993262
+
+Prueba #486
+Nivel de agua: 6.15
+Variacion de nivel: 0.22
+P. esperada: 0.33
+P. obtenida: 0.993004
+
+Prueba #487
+Nivel de agua: 5.91
+Variacion de nivel: 1.48
+P. esperada: 0.33
+P. obtenida: 0.993058
+
+Prueba #488
+Nivel de agua: 5.73
+Variacion de nivel: 1.08
+P. esperada: 0.33
+P. obtenida: 0.994286
+
+Prueba #489
+Nivel de agua: 5.76
+Variacion de nivel: -0.18
+P. esperada: 0.33
+P. obtenida: 0.995233
+
+Prueba #490
+Nivel de agua: 6.06
+Variacion de nivel: -1.8
+P. esperada: 0.33
+P. obtenida: 0.994859
+
+Prueba #491
+Nivel de agua: 6.11
+Variacion de nivel: -0.31
+P. esperada: 0.33
+P. obtenida: 0.9936
+
+Prueba #492
+Nivel de agua: 6.14
+Variacion de nivel: -0.18
+P. esperada: 0.33
+P. obtenida: 0.993359
+
+Prueba #493
+Nivel de agua: 6.08
+Variacion de nivel: 0.31
+P. esperada: 0.33
+P. obtenida: 0.993259
+
+Prueba #494
+Nivel de agua: 5.81
+Variacion de nivel: 1.72
+P. esperada: 0.33
+P. obtenida: 0.993298
+
+Prueba #495
+Nivel de agua: 5.7
+Variacion de nivel: 0.66
+P. esperada: 0.33
+P. obtenida: 0.994823
+
+Prueba #496
+Nivel de agua: 5.69
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 0.995414
+
+Prueba #497
+Nivel de agua: 5.83
+Variacion de nivel: -0.86
+P. esperada: 0.33
+P. obtenida: 0.995389
+
+Prueba #498
+Nivel de agua: 6.02
+Variacion de nivel: -1.13
+P. esperada: 0.33
+P. obtenida: 0.994629
+
+Prueba #499
+Nivel de agua: 6.08
+Variacion de nivel: -0.41
+P. esperada: 0.33
+P. obtenida: 0.993819
+
+Prueba #500
+Nivel de agua: 6.03
+Variacion de nivel: 0.34
+P. esperada: 0.33
+P. obtenida: 0.993471
+
+Prueba #501
+Nivel de agua: 5.77
+Variacion de nivel: 1.61
+P. esperada: 0.33
+P. obtenida: 0.99359
+
+Prueba #502
+Nivel de agua: 5.63
+Variacion de nivel: 0.86
+P. esperada: 0.33
+P. obtenida: 0.994996
+
+Prueba #503
+Nivel de agua: 5.62
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.995788
+
+Prueba #504
+Nivel de agua: 5.75
+Variacion de nivel: -0.8
+P. esperada: 0.33
+P. obtenida: 0.995754
+
+Prueba #505
+Nivel de agua: 6.03
+Variacion de nivel: -1.69
+P. esperada: 0.33
+P. obtenida: 0.994938
+
+Prueba #506
+Nivel de agua: 6.02
+Variacion de nivel: 0.09
+P. esperada: 0.33
+P. obtenida: 0.99372
+
+Prueba #507
+Nivel de agua: 6.02
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.993839
+
+Prueba #508
+Nivel de agua: 6.06
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 0.993778
+
+Prueba #509
+Nivel de agua: 5.95
+Variacion de nivel: 0.7
+P. esperada: 0.33
+P. obtenida: 0.993554
+
+Prueba #510
+Nivel de agua: 5.59
+Variacion de nivel: 2.21
+P. esperada: 0.33
+P. obtenida: 0.993823
+
+Prueba #511
+Nivel de agua: 5.57
+Variacion de nivel: 0.12
+P. esperada: 0.33
+P. obtenida: 0.995975
+
+Prueba #512
+Nivel de agua: 5.88
+Variacion de nivel: -1.89
+P. esperada: 0.33
+P. obtenida: 0.995772
+
+Prueba #513
+Nivel de agua: 5.97
+Variacion de nivel: -0.56
+P. esperada: 0.33
+P. obtenida: 0.994468
+
+Prueba #514
+Nivel de agua: 5.99
+Variacion de nivel: -0.12
+P. esperada: 0.33
+P. obtenida: 0.994032
+
+Prueba #515
+Nivel de agua: 5.98
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 0.99397
+
+Prueba #516
+Nivel de agua: 5.97
+Variacion de nivel: 0.09
+P. esperada: 0.33
+P. obtenida: 0.993963
+
+Prueba #517
+Nivel de agua: 5.98
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.994034
+
+Prueba #518
+Nivel de agua: 5.97
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.993987
+
+Prueba #519
+Nivel de agua: 5.92
+Variacion de nivel: 0.27
+P. esperada: 0.33
+P. obtenida: 0.99406
+
+Prueba #520
+Nivel de agua: 5.91
+Variacion de nivel: 0.12
+P. esperada: 0.33
+P. obtenida: 0.994233
+
+Prueba #521
+Nivel de agua: 5.9
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 0.994348
+
+Prueba #522
+Nivel de agua: 5.94
+Variacion de nivel: -0.24
+P. esperada: 0.33
+P. obtenida: 0.994372
+
+Prueba #523
+Nivel de agua: 5.91
+Variacion de nivel: 0.2
+P. esperada: 0.33
+P. obtenida: 0.994167
+
+Prueba #524
+Nivel de agua: 5.92
+Variacion de nivel: -0.11
+P. esperada: 0.33
+P. obtenida: 0.994369
+
+Prueba #525
+Nivel de agua: 5.9
+Variacion de nivel: 0.17
+P. esperada: 0.33
+P. obtenida: 0.994241
+
+Prueba #526
+Nivel de agua: 5.95
+Variacion de nivel: -0.32
+P. esperada: 0.33
+P. obtenida: 0.994385
+
+Prueba #527
+Nivel de agua: 5.91
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.994126
+
+Prueba #528
+Nivel de agua: 5.94
+Variacion de nivel: -0.2
+P. esperada: 0.33
+P. obtenida: 0.994341
+
+Prueba #529
+Nivel de agua: 5.88
+Variacion de nivel: 0.34
+P. esperada: 0.33
+P. obtenida: 0.994199
+
+Prueba #530
+Nivel de agua: 5.91
+Variacion de nivel: -0.19
+P. esperada: 0.33
+P. obtenida: 0.994482
+
+Prueba #531
+Nivel de agua: 5.82
+Variacion de nivel: 0.54
+P. esperada: 0.33
+P. obtenida: 0.994326
+
+Prueba #532
+Nivel de agua: 5.87
+Variacion de nivel: -0.26
+P. esperada: 0.33
+P. obtenida: 0.994737
+
+Prueba #533
+Nivel de agua: 5.87
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 0.994562
+
+Prueba #534
+Nivel de agua: 5.87
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 0.994497
+
+Prueba #535
+Nivel de agua: 5.89
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 0.994542
+
+Prueba #536
+Nivel de agua: 5.84
+Variacion de nivel: 0.34
+P. esperada: 0.33
+P. obtenida: 0.994398
+
+Prueba #537
+Nivel de agua: 5.88
+Variacion de nivel: -0.25
+P. esperada: 0.33
+P. obtenida: 0.994679
+
+Prueba #538
+Nivel de agua: 5.85
+Variacion de nivel: 0.18
+P. esperada: 0.33
+P. obtenida: 0.994482
+
+Prueba #539
+Nivel de agua: 5.89
+Variacion de nivel: -0.28
+P. esperada: 0.33
+P. obtenida: 0.994653
+
+Prueba #540
+Nivel de agua: 5.89
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 0.994406
+
+Prueba #541
+Nivel de agua: 5.86
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 0.994465
+
+Prueba #542
+Nivel de agua: 5.84
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.994549
+
+Prueba #543
+Nivel de agua: 5.8
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.994675
+
+Prueba #544
+Nivel de agua: 5.84
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 0.994865
+
+Prueba #545
+Nivel de agua: 5.81
+Variacion de nivel: 0.15
+P. esperada: 0.33
+P. obtenida: 0.994708
+
+Prueba #546
+Nivel de agua: 5.8
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.994842
+
+Prueba #547
+Nivel de agua: 5.79
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 0.994876
+
+Prueba #548
+Nivel de agua: 5.8
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.994932
+
+Prueba #549
+Nivel de agua: 5.84
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 0.994865
+
+Prueba #550
+Nivel de agua: 5.81
+Variacion de nivel: 0.17
+P. esperada: 0.33
+P. obtenida: 0.994691
+
+Prueba #551
+Nivel de agua: 5.82
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.99483
+
+Prueba #552
+Nivel de agua: 5.62
+Variacion de nivel: 1.26
+P. esperada: 0.33
+P. obtenida: 0.994661
+
+Prueba #553
+Nivel de agua: 5.59
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.995835
+
+Prueba #554
+Nivel de agua: 5.66
+Variacion de nivel: -0.44
+P. esperada: 0.33
+P. obtenida: 0.995955
+
+Prueba #555
+Nivel de agua: 5.78
+Variacion de nivel: -0.71
+P. esperada: 0.33
+P. obtenida: 0.995536
+
+Prueba #556
+Nivel de agua: 5.78
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 0.995017
+
+Prueba #557
+Nivel de agua: 5.77
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 0.99497
+
+Prueba #558
+Nivel de agua: 5.76
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.995046
+
+Prueba #559
+Nivel de agua: 5.77
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 0.995069
+
+Prueba #560
+Nivel de agua: 5.66
+Variacion de nivel: 0.7
+P. esperada: 0.33
+P. obtenida: 0.994991
+
+Prueba #561
+Nivel de agua: 5.34
+Variacion de nivel: 1.97
+P. esperada: 0.33
+P. obtenida: 0.995296
+
+Prueba #562
+Nivel de agua: 5.32
+Variacion de nivel: 0.09
+P. esperada: 0.33
+P. obtenida: 0.997339
+
+Prueba #563
+Nivel de agua: 5.43
+Variacion de nivel: -0.63
+P. esperada: 0.33
+P. obtenida: 0.997303
+
+Prueba #564
+Nivel de agua: 5.69
+Variacion de nivel: -1.6
+P. esperada: 0.33
+P. obtenida: 0.996551
+
+Prueba #565
+Nivel de agua: 5.7
+Variacion de nivel: -0.05
+P. esperada: 0.33
+P. obtenida: 0.995437
+
+Prueba #566
+Nivel de agua: 5.69
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 0.995381
+
+Prueba #567
+Nivel de agua: 5.7
+Variacion de nivel: -0.07
+P. esperada: 0.33
+P. obtenida: 0.995454
+
+Prueba #568
+Nivel de agua: 5.39
+Variacion de nivel: 1.9
+P. esperada: 0.33
+P. obtenida: 0.99513
+
+Prueba #569
+Nivel de agua: 5.25
+Variacion de nivel: 0.85
+P. esperada: 0.33
+P. obtenida: 0.997008
+
+Prueba #570
+Nivel de agua: 5.24
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 0.997814
+
+Prueba #571
+Nivel de agua: 5.56
+Variacion de nivel: -1.95
+P. esperada: 0.33
+P. obtenida: 0.997322
+
+Prueba #572
+Nivel de agua: 5.68
+Variacion de nivel: -0.7
+P. esperada: 0.33
+P. obtenida: 0.996043
+
+Prueba #573
+Nivel de agua: 5.67
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 0.995535
+
+Prueba #574
+Nivel de agua: 5.67
+Variacion de nivel: -0.01
+P. esperada: 0.33
+P. obtenida: 0.99556
+
+Prueba #575
+Nivel de agua: 5.58
+Variacion de nivel: 0.56
+P. esperada: 0.33
+P. obtenida: 0.995533
+
+Prueba #576
+Nivel de agua: 5.22
+Variacion de nivel: 2.23
+P. esperada: 0.33
+P. obtenida: 0.99556
+
+Prueba #577
+Nivel de agua: 5.18
+Variacion de nivel: 0.22
+P. esperada: 0.33
+P. obtenida: 0.997986
+
+Prueba #578
+Nivel de agua: 5.26
+Variacion de nivel: -0.44
+P. esperada: 0.33
+P. obtenida: 0.998072
+
+Prueba #579
+Nivel de agua: 5.55
+Variacion de nivel: -1.82
+P. esperada: 0.33
+P. obtenida: 0.997326
+
+Prueba #580
+Nivel de agua: 5.64
+Variacion de nivel: -0.5
+P. esperada: 0.33
+P. obtenida: 0.996104
+
+Prueba #581
+Nivel de agua: 5.58
+Variacion de nivel: 0.31
+P. esperada: 0.33
+P. obtenida: 0.995757
+
+Prueba #582
+Nivel de agua: 5.6
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 0.995984
+
+Prueba #583
+Nivel de agua: 5.61
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 0.995932
+
+Prueba #584
+Nivel de agua: 5.55
+Variacion de nivel: 0.38
+P. esperada: 0.33
+P. obtenida: 0.995853
+
+Prueba #585
+Nivel de agua: 5.15
+Variacion de nivel: 2.47
+P. esperada: 0.33
+P. obtenida: 0.99557
+
+Prueba #586
+Nivel de agua: 5.2
+Variacion de nivel: -0.3
+P. esperada: 0.33
+P. obtenida: 0.998292
+
+Prueba #587
+Nivel de agua: 5.49
+Variacion de nivel: -1.8
+P. esperada: 0.33
+P. obtenida: 0.997603
+
+Prueba #588
+Nivel de agua: 5.55
+Variacion de nivel: -0.35
+P. esperada: 0.33
+P. obtenida: 0.996463
+
+Prueba #589
+Nivel de agua: 5.57
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.996151
+
+Prueba #590
+Nivel de agua: 5.53
+Variacion de nivel: 0.21
+P. esperada: 0.33
+P. obtenida: 0.996109
+
+Prueba #591
+Nivel de agua: 5.57
+Variacion de nivel: -0.26
+P. esperada: 0.33
+P. obtenida: 0.996287
+
+Prueba #592
+Nivel de agua: 5.58
+Variacion de nivel: -0.05
+P. esperada: 0.33
+P. obtenida: 0.996065
+
+Prueba #593
+Nivel de agua: 5.54
+Variacion de nivel: 0.26
+P. esperada: 0.33
+P. obtenida: 0.996012
+
+Prueba #594
+Nivel de agua: 5.53
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.996238
+
+Prueba #595
+Nivel de agua: 5.51
+Variacion de nivel: 0.11
+P. esperada: 0.33
+P. obtenida: 0.996301
+
+Prueba #596
+Nivel de agua: 5.49
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 0.996382
+
+Prueba #597
+Nivel de agua: 5.49
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.996526
+
+Prueba #598
+Nivel de agua: 5.56
+Variacion de nivel: -0.41
+P. esperada: 0.33
+P. obtenida: 0.996456
+
+Prueba #599
+Nivel de agua: 5.5
+Variacion de nivel: 0.37
+P. esperada: 0.33
+P. obtenida: 0.996127
+
+Prueba #600
+Nivel de agua: 5.5
+Variacion de nivel: -0
+P. esperada: 0.33
+P. obtenida: 0.996448
+
+Prueba #601
+Nivel de agua: 5.52
+Variacion de nivel: -0.12
+P. esperada: 0.33
+P. obtenida: 0.99644
+
+Prueba #602
+Nivel de agua: 5.52
+Variacion de nivel: 0.01
+P. esperada: 0.33
+P. obtenida: 0.996333
+
+Prueba #603
+Nivel de agua: 5.49
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.996365
+
+Prueba #604
+Nivel de agua: 5.52
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 0.996456
+
+Prueba #605
+Nivel de agua: 5.51
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.996344
+
+Prueba #606
+Nivel de agua: 5.51
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.996419
+
+Prueba #607
+Nivel de agua: 5.45
+Variacion de nivel: 0.37
+P. esperada: 0.33
+P. obtenida: 0.996393
+
+Prueba #608
+Nivel de agua: 5.46
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.996686
+
+Prueba #609
+Nivel de agua: 5.44
+Variacion de nivel: 0.13
+P. esperada: 0.33
+P. obtenida: 0.996658
+
+Prueba #610
+Nivel de agua: 5.49
+Variacion de nivel: -0.33
+P. esperada: 0.33
+P. obtenida: 0.996766
+
+Prueba #611
+Nivel de agua: 5.47
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.996472
+
+Prueba #612
+Nivel de agua: 5.48
+Variacion de nivel: -0.07
+P. esperada: 0.33
+P. obtenida: 0.996612
+
+Prueba #613
+Nivel de agua: 5.45
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.996579
+
+Prueba #614
+Nivel de agua: 5.48
+Variacion de nivel: -0.18
+P. esperada: 0.33
+P. obtenida: 0.996702
+
+Prueba #615
+Nivel de agua: 5.48
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 0.996538
+
+Prueba #616
+Nivel de agua: 5.43
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.996607
+
+Prueba #617
+Nivel de agua: 5.41
+Variacion de nivel: 0.17
+P. esperada: 0.33
+P. obtenida: 0.996785
+
+Prueba #618
+Nivel de agua: 5.39
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 0.99697
+
+Prueba #619
+Nivel de agua: 5.38
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.997049
+
+Prueba #620
+Nivel de agua: 5.43
+Variacion de nivel: -0.26
+P. esperada: 0.33
+P. obtenida: 0.997032
+
+Prueba #621
+Nivel de agua: 5.41
+Variacion de nivel: 0.09
+P. esperada: 0.33
+P. obtenida: 0.996854
+
+Prueba #622
+Nivel de agua: 5.41
+Variacion de nivel: -0.01
+P. esperada: 0.33
+P. obtenida: 0.996938
+
+Prueba #623
+Nivel de agua: 5.4
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.996933
+
+Prueba #624
+Nivel de agua: 5.37
+Variacion de nivel: 0.19
+P. esperada: 0.33
+P. obtenida: 0.996983
+
+Prueba #625
+Nivel de agua: 5.42
+Variacion de nivel: -0.25
+P. esperada: 0.33
+P. obtenida: 0.997077
+
+Prueba #626
+Nivel de agua: 5.39
+Variacion de nivel: 0.18
+P. esperada: 0.33
+P. obtenida: 0.996884
+
+Prueba #627
+Nivel de agua: 5.29
+Variacion de nivel: 0.6
+P. esperada: 0.33
+P. obtenida: 0.997039
+
+Prueba #628
+Nivel de agua: 5.17
+Variacion de nivel: 0.74
+P. esperada: 0.33
+P. obtenida: 0.997551
+
+Prueba #629
+Nivel de agua: 5.3
+Variacion de nivel: -0.83
+P. esperada: 0.33
+P. obtenida: 0.998109
+
+Prueba #630
+Nivel de agua: 5.36
+Variacion de nivel: -0.31
+P. esperada: 0.33
+P. obtenida: 0.997444
+
+Prueba #631
+Nivel de agua: 5.36
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.997248
+
+Prueba #632
+Nivel de agua: 5.36
+Variacion de nivel: 0
+P. esperada: 0.33
+P. obtenida: 0.997199
+
+Prueba #633
+Nivel de agua: 5.36
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.997157
+
+Prueba #634
+Nivel de agua: 5.36
+Variacion de nivel: 0.01
+P. esperada: 0.33
+P. obtenida: 0.99719
+
+Prueba #635
+Nivel de agua: 5.34
+Variacion de nivel: 0.11
+P. esperada: 0.33
+P. obtenida: 0.997214
+
+Prueba #636
+Nivel de agua: 5.06
+Variacion de nivel: 1.71
+P. esperada: 0.33
+P. obtenida: 0.997032
+
+Prueba #637
+Nivel de agua: 4.95
+Variacion de nivel: 0.65
+P. esperada: 0.33
+P. obtenida: 0.998832
+
+Prueba #638
+Nivel de agua: 4.88
+Variacion de nivel: 0.45
+P. esperada: 0.33
+P. obtenida: 0.999396
+
+Prueba #639
+Nivel de agua: 5.24
+Variacion de nivel: -2.19
+P. esperada: 0.33
+P. obtenida: 0.998712
+
+Prueba #640
+Nivel de agua: 5.31
+Variacion de nivel: -0.43
+P. esperada: 0.33
+P. obtenida: 0.997799
+
+Prueba #641
+Nivel de agua: 5.32
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 0.997464
+
+Prueba #642
+Nivel de agua: 5.32
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.997439
+
+Prueba #643
+Nivel de agua: 5.28
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.997417
+
+Prueba #644
+Nivel de agua: 4.99
+Variacion de nivel: 1.77
+P. esperada: 0.33
+P. obtenida: 0.997312
+
+Prueba #645
+Nivel de agua: 4.87
+Variacion de nivel: 0.73
+P. esperada: 0.33
+P. obtenida: 0.999178
+
+Prueba #646
+Nivel de agua: 4.87
+Variacion de nivel: 0
+P. esperada: 0.33
+P. obtenida: 0.999813
+
+Prueba #647
+Nivel de agua: 5
+Variacion de nivel: -0.84
+P. esperada: 0.33
+P. obtenida: 0.999616
+
+Prueba #648
+Nivel de agua: 5.2
+Variacion de nivel: -1.21
+P. esperada: 0.33
+P. obtenida: 0.998788
+
+Prueba #649
+Nivel de agua: 5.21
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.998033
+
+Prueba #650
+Nivel de agua: 5.21
+Variacion de nivel: -0.05
+P. esperada: 0.33
+P. obtenida: 0.998049
+
+Prueba #651
+Nivel de agua: 5.23
+Variacion de nivel: -0.12
+P. esperada: 0.33
+P. obtenida: 0.997997
+
+Prueba #652
+Nivel de agua: 5.08
+Variacion de nivel: 0.91
+P. esperada: 0.33
+P. obtenida: 0.997863
+
+Prueba #653
+Nivel de agua: 4.87
+Variacion de nivel: 1.29
+P. esperada: 0.33
+P. obtenida: 0.998548
+
+Prueba #654
+Nivel de agua: 4.79
+Variacion de nivel: 0.49
+P. esperada: 0.33
+P. obtenida: 0.999831
+
+Prueba #655
+Nivel de agua: 4.89
+Variacion de nivel: -0.6
+P. esperada: 0.33
+P. obtenida: 1.00005
+
+Prueba #656
+Nivel de agua: 5.21
+Variacion de nivel: -1.96
+P. esperada: 0.33
+P. obtenida: 0.998857
+
+Prueba #657
+Nivel de agua: 5.2
+Variacion de nivel: 0.1
+P. esperada: 0.33
+P. obtenida: 0.99798
+
+Prueba #658
+Nivel de agua: 5.18
+Variacion de nivel: 0.09
+P. esperada: 0.33
+P. obtenida: 0.998097
+
+Prueba #659
+Nivel de agua: 5.22
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 0.998134
+
+Prueba #660
+Nivel de agua: 5.16
+Variacion de nivel: 0.37
+P. esperada: 0.33
+P. obtenida: 0.997961
+
+Prueba #661
+Nivel de agua: 4.97
+Variacion de nivel: 1.16
+P. esperada: 0.33
+P. obtenida: 0.998175
+
+Prueba #662
+Nivel de agua: 4.75
+Variacion de nivel: 1.33
+P. esperada: 0.33
+P. obtenida: 0.999118
+
+Prueba #663
+Nivel de agua: 4.84
+Variacion de nivel: -0.53
+P. esperada: 0.33
+P. obtenida: 1.00026
+
+Prueba #664
+Nivel de agua: 5.07
+Variacion de nivel: -1.41
+P. esperada: 0.33
+P. obtenida: 0.999431
+
+Prueba #665
+Nivel de agua: 5.15
+Variacion de nivel: -0.49
+P. esperada: 0.33
+P. obtenida: 0.998684
+
+Prueba #666
+Nivel de agua: 5.16
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.99835
+
+Prueba #667
+Nivel de agua: 5.2
+Variacion de nivel: -0.24
+P. esperada: 0.33
+P. obtenida: 0.998249
+
+Prueba #668
+Nivel de agua: 5.14
+Variacion de nivel: 0.4
+P. esperada: 0.33
+P. obtenida: 0.998042
+
+Prueba #669
+Nivel de agua: 5.15
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 0.998396
+
+Prueba #670
+Nivel de agua: 5.11
+Variacion de nivel: 0.25
+P. esperada: 0.33
+P. obtenida: 0.99834
+
+Prueba #671
+Nivel de agua: 5.12
+Variacion de nivel: -0.07
+P. esperada: 0.33
+P. obtenida: 0.998549
+
+Prueba #672
+Nivel de agua: 5.02
+Variacion de nivel: 0.61
+P. esperada: 0.33
+P. obtenida: 0.998494
+
+Prueba #673
+Nivel de agua: 5.12
+Variacion de nivel: -0.61
+P. esperada: 0.33
+P. obtenida: 0.998911
+
+Prueba #674
+Nivel de agua: 5.09
+Variacion de nivel: 0.21
+P. esperada: 0.33
+P. obtenida: 0.998482
+
+Prueba #675
+Nivel de agua: 5.07
+Variacion de nivel: 0.11
+P. esperada: 0.33
+P. obtenida: 0.998674
+
+Prueba #676
+Nivel de agua: 5.12
+Variacion de nivel: -0.28
+P. esperada: 0.33
+P. obtenida: 0.998703
+
+Prueba #677
+Nivel de agua: 5.14
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 0.998487
+
+Prueba #678
+Nivel de agua: 5.09
+Variacion de nivel: 0.33
+P. esperada: 0.33
+P. obtenida: 0.998377
+
+Prueba #679
+Nivel de agua: 5.14
+Variacion de nivel: -0.3
+P. esperada: 0.33
+P. obtenida: 0.998611
+
+Prueba #680
+Nivel de agua: 5.04
+Variacion de nivel: 0.58
+P. esperada: 0.33
+P. obtenida: 0.998415
+
+Prueba #681
+Nivel de agua: 5.11
+Variacion de nivel: -0.4
+P. esperada: 0.33
+P. obtenida: 0.998836
+
+Prueba #682
+Nivel de agua: 5.16
+Variacion de nivel: -0.34
+P. esperada: 0.33
+P. obtenida: 0.998533
+
+Prueba #683
+Nivel de agua: 5
+Variacion de nivel: 0.98
+P. esperada: 0.33
+P. obtenida: 0.998218
+
+Prueba #684
+Nivel de agua: 5
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 0.999119
+
+Prueba #685
+Nivel de agua: 5.02
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 0.999125
+
+Prueba #686
+Nivel de agua: 5.11
+Variacion de nivel: -0.57
+P. esperada: 0.33
+P. obtenida: 0.99894
+
+Prueba #687
+Nivel de agua: 5.04
+Variacion de nivel: 0.44
+P. esperada: 0.33
+P. obtenida: 0.998548
+
+Prueba #688
+Nivel de agua: 5.05
+Variacion de nivel: -0.07
+P. esperada: 0.33
+P. obtenida: 0.998922
+
+Prueba #689
+Nivel de agua: 5.03
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 0.998848
+
+Prueba #690
+Nivel de agua: 5.04
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 0.99899
+
+Prueba #691
+Nivel de agua: 5.04
+Variacion de nivel: -0.01
+P. esperada: 0.33
+P. obtenida: 0.99893
+
+Prueba #692
+Nivel de agua: 5.03
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.998937
+
+Prueba #693
+Nivel de agua: 5.06
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 0.998914
+
+Prueba #694
+Nivel de agua: 5.03
+Variacion de nivel: 0.15
+P. esperada: 0.33
+P. obtenida: 0.998856
+
+Prueba #695
+Nivel de agua: 4.94
+Variacion de nivel: 0.56
+P. esperada: 0.33
+P. obtenida: 0.998973
+
+Prueba #696
+Nivel de agua: 4.96
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 0.999439
+
+Prueba #697
+Nivel de agua: 4.99
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 0.999282
+
+Prueba #698
+Nivel de agua: 4.95
+Variacion de nivel: 0.21
+P. esperada: 0.33
+P. obtenida: 0.999233
+
+Prueba #699
+Nivel de agua: 5.05
+Variacion de nivel: -0.61
+P. esperada: 0.33
+P. obtenida: 0.999267
+
+Prueba #700
+Nivel de agua: 5
+Variacion de nivel: 0.32
+P. esperada: 0.33
+P. obtenida: 0.998872
+
+Prueba #701
+Nivel de agua: 5
+Variacion de nivel: -0
+P. esperada: 0.33
+P. obtenida: 0.999135
+
+Prueba #702
+Nivel de agua: 4.97
+Variacion de nivel: 0.18
+P. esperada: 0.33
+P. obtenida: 0.999152
+
+Prueba #703
+Nivel de agua: 5.01
+Variacion de nivel: -0.22
+P. esperada: 0.33
+P. obtenida: 0.99924
+
+Prueba #704
+Nivel de agua: 4.73
+Variacion de nivel: 1.69
+P. esperada: 0.33
+P. obtenida: 0.998731
+
+Prueba #705
+Nivel de agua: 4.62
+Variacion de nivel: 0.66
+P. esperada: 0.33
+P. obtenida: 1.00053
+
+Prueba #706
+Nivel de agua: 4.7
+Variacion de nivel: -0.5
+P. esperada: 0.33
+P. obtenida: 1.00088
+
+Prueba #707
+Nivel de agua: 4.91
+Variacion de nivel: -1.26
+P. esperada: 0.33
+P. obtenida: 1.00009
+
+Prueba #708
+Nivel de agua: 5
+Variacion de nivel: -0.53
+P. esperada: 0.33
+P. obtenida: 0.999477
+
+Prueba #709
+Nivel de agua: 4.98
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 0.999131
+
+Prueba #710
+Nivel de agua: 4.97
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.999255
+
+Prueba #711
+Nivel de agua: 5.05
+Variacion de nivel: -0.45
+P. esperada: 0.33
+P. obtenida: 0.999178
+
+Prueba #712
+Nivel de agua: 4.97
+Variacion de nivel: 0.47
+P. esperada: 0.33
+P. obtenida: 0.998897
+
+Prueba #713
+Nivel de agua: 4.75
+Variacion de nivel: 1.34
+P. esperada: 0.33
+P. obtenida: 0.999105
+
+Prueba #714
+Nivel de agua: 4.52
+Variacion de nivel: 1.39
+P. esperada: 0.33
+P. obtenida: 1.00016
+
+Prueba #715
+Nivel de agua: 4.52
+Variacion de nivel: 0.01
+P. esperada: 0.33
+P. obtenida: 1.00146
+
+Prueba #716
+Nivel de agua: 4.71
+Variacion de nivel: -1.19
+P. esperada: 0.33
+P. obtenida: 1.00084
+
+Prueba #717
+Nivel de agua: 4.92
+Variacion de nivel: -1.27
+P. esperada: 0.33
+P. obtenida: 1.00005
+
+Prueba #718
+Nivel de agua: 4.92
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 0.99951
+
+Prueba #719
+Nivel de agua: 4.9
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 0.999599
+
+Prueba #720
+Nivel de agua: 4.93
+Variacion de nivel: -0.16
+P. esperada: 0.33
+P. obtenida: 0.999614
+
+Prueba #721
+Nivel de agua: 4.84
+Variacion de nivel: 0.54
+P. esperada: 0.33
+P. obtenida: 0.999523
+
+Prueba #722
+Nivel de agua: 4.45
+Variacion de nivel: 2.39
+P. esperada: 0.33
+P. obtenida: 0.998771
+
+Prueba #723
+Nivel de agua: 4.44
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.00178
+
+Prueba #724
+Nivel de agua: 4.47
+Variacion de nivel: -0.15
+P. esperada: 0.33
+P. obtenida: 1.00172
+
+Prueba #725
+Nivel de agua: 4.84
+Variacion de nivel: -2.24
+P. esperada: 0.33
+P. obtenida: 0.999804
+
+Prueba #726
+Nivel de agua: 4.84
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 0.999986
+
+Prueba #727
+Nivel de agua: 4.9
+Variacion de nivel: -0.32
+P. esperada: 0.33
+P. obtenida: 0.999864
+
+Prueba #728
+Nivel de agua: 4.81
+Variacion de nivel: 0.53
+P. esperada: 0.33
+P. obtenida: 0.99969
+
+Prueba #729
+Nivel de agua: 4.83
+Variacion de nivel: -0.11
+P. esperada: 0.33
+P. obtenida: 1.00009
+
+Prueba #730
+Nivel de agua: 4.6
+Variacion de nivel: 1.38
+P. esperada: 0.33
+P. obtenida: 0.999797
+
+Prueba #731
+Nivel de agua: 4.41
+Variacion de nivel: 1.13
+P. esperada: 0.33
+P. obtenida: 1.00099
+
+Prueba #732
+Nivel de agua: 4.37
+Variacion de nivel: 0.23
+P. esperada: 0.33
+P. obtenida: 1.00195
+
+Prueba #733
+Nivel de agua: 4.58
+Variacion de nivel: -1.23
+P. esperada: 0.33
+P. obtenida: 1.0012
+
+Prueba #734
+Nivel de agua: 4.76
+Variacion de nivel: -1.11
+P. esperada: 0.33
+P. obtenida: 1.00069
+
+Prueba #735
+Nivel de agua: 4.78
+Variacion de nivel: -0.15
+P. esperada: 0.33
+P. obtenida: 1.00036
+
+Prueba #736
+Nivel de agua: 4.8
+Variacion de nivel: -0.11
+P. esperada: 0.33
+P. obtenida: 1.00024
+
+Prueba #737
+Nivel de agua: 4.81
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 1.00014
+
+Prueba #738
+Nivel de agua: 4.78
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 1.00017
+
+Prueba #739
+Nivel de agua: 4.76
+Variacion de nivel: 0.12
+P. esperada: 0.33
+P. obtenida: 1.00028
+
+Prueba #740
+Nivel de agua: 4.4
+Variacion de nivel: 2.26
+P. esperada: 0.33
+P. obtenida: 0.999215
+
+Prueba #741
+Nivel de agua: 4.35
+Variacion de nivel: 0.28
+P. esperada: 0.33
+P. obtenida: 1.002
+
+Prueba #742
+Nivel de agua: 4.59
+Variacion de nivel: -1.44
+P. esperada: 0.33
+P. obtenida: 1.00103
+
+Prueba #743
+Nivel de agua: 4.82
+Variacion de nivel: -1.43
+P. esperada: 0.33
+P. obtenida: 1.00041
+
+Prueba #744
+Nivel de agua: 4.74
+Variacion de nivel: 0.54
+P. esperada: 0.33
+P. obtenida: 1.00004
+
+Prueba #745
+Nivel de agua: 4.76
+Variacion de nivel: -0.16
+P. esperada: 0.33
+P. obtenida: 1.00046
+
+Prueba #746
+Nivel de agua: 4.75
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 1.00038
+
+Prueba #747
+Nivel de agua: 4.74
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 1.00042
+
+Prueba #748
+Nivel de agua: 4.75
+Variacion de nivel: -0.05
+P. esperada: 0.33
+P. obtenida: 1.00045
+
+Prueba #749
+Nivel de agua: 4.73
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 1.00042
+
+Prueba #750
+Nivel de agua: 4.48
+Variacion de nivel: 1.5
+P. esperada: 0.33
+P. obtenida: 1.00019
+
+Prueba #751
+Nivel de agua: 4.54
+Variacion de nivel: -0.37
+P. esperada: 0.33
+P. obtenida: 1.0015
+
+Prueba #752
+Nivel de agua: 4.69
+Variacion de nivel: -0.9
+P. esperada: 0.33
+P. obtenida: 1.00096
+
+Prueba #753
+Nivel de agua: 4.75
+Variacion de nivel: -0.38
+P. esperada: 0.33
+P. obtenida: 1.00062
+
+Prueba #754
+Nivel de agua: 4.69
+Variacion de nivel: 0.39
+P. esperada: 0.33
+P. obtenida: 1.00043
+
+Prueba #755
+Nivel de agua: 4.69
+Variacion de nivel: 0.01
+P. esperada: 0.33
+P. obtenida: 1.0007
+
+Prueba #756
+Nivel de agua: 4.75
+Variacion de nivel: -0.36
+P. esperada: 0.33
+P. obtenida: 1.00061
+
+Prueba #757
+Nivel de agua: 4.69
+Variacion de nivel: 0.33
+P. esperada: 0.33
+P. obtenida: 1.00047
+
+Prueba #758
+Nivel de agua: 4.66
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 1.00075
+
+Prueba #759
+Nivel de agua: 4.73
+Variacion de nivel: -0.38
+P. esperada: 0.33
+P. obtenida: 1.00071
+
+Prueba #760
+Nivel de agua: 4.69
+Variacion de nivel: 0.21
+P. esperada: 0.33
+P. obtenida: 1.00057
+
+Prueba #761
+Nivel de agua: 4.58
+Variacion de nivel: 0.69
+P. esperada: 0.33
+P. obtenida: 1.00069
+
+Prueba #762
+Nivel de agua: 4.59
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 1.00118
+
+Prueba #763
+Nivel de agua: 4.69
+Variacion de nivel: -0.64
+P. esperada: 0.33
+P. obtenida: 1.00095
+
+Prueba #764
+Nivel de agua: 4.65
+Variacion de nivel: 0.22
+P. esperada: 0.33
+P. obtenida: 1.00075
+
+Prueba #765
+Nivel de agua: 4.61
+Variacion de nivel: 0.24
+P. esperada: 0.33
+P. obtenida: 1.00093
+
+Prueba #766
+Nivel de agua: 4.67
+Variacion de nivel: -0.34
+P. esperada: 0.33
+P. obtenida: 1.00096
+
+Prueba #767
+Nivel de agua: 4.66
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 1.00081
+
+Prueba #768
+Nivel de agua: 4.66
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 1.00082
+
+Prueba #769
+Nivel de agua: 4.63
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 1.00089
+
+Prueba #770
+Nivel de agua: 4.64
+Variacion de nivel: -0.05
+P. esperada: 0.33
+P. obtenida: 1.00097
+
+Prueba #771
+Nivel de agua: 4.66
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 1.00092
+
+Prueba #772
+Nivel de agua: 4.52
+Variacion de nivel: 0.83
+P. esperada: 0.33
+P. obtenida: 1.00084
+
+Prueba #773
+Nivel de agua: 4.46
+Variacion de nivel: 0.39
+P. esperada: 0.33
+P. obtenida: 1.00149
+
+Prueba #774
+Nivel de agua: 4.64
+Variacion de nivel: -1.11
+P. esperada: 0.33
+P. obtenida: 1.00109
+
+Prueba #775
+Nivel de agua: 4.59
+Variacion de nivel: 0.28
+P. esperada: 0.33
+P. obtenida: 1.00099
+
+Prueba #776
+Nivel de agua: 4.59
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 1.00117
+
+Prueba #777
+Nivel de agua: 4.63
+Variacion de nivel: -0.22
+P. esperada: 0.33
+P. obtenida: 1.00109
+
+Prueba #778
+Nivel de agua: 4.62
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 1.001
+
+Prueba #779
+Nivel de agua: 4.59
+Variacion de nivel: 0.19
+P. esperada: 0.33
+P. obtenida: 1.00105
+
+Prueba #780
+Nivel de agua: 4.61
+Variacion de nivel: -0.1
+P. esperada: 0.33
+P. obtenida: 1.00113
+
+Prueba #781
+Nivel de agua: 4.59
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 1.00113
+
+Prueba #782
+Nivel de agua: 4.51
+Variacion de nivel: 0.53
+P. esperada: 0.33
+P. obtenida: 1.00117
+
+Prueba #783
+Nivel de agua: 4.14
+Variacion de nivel: 2.22
+P. esperada: 0.33
+P. obtenida: 1.0001
+
+Prueba #784
+Nivel de agua: 4.13
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 1.00269
+
+Prueba #785
+Nivel de agua: 4.46
+Variacion de nivel: -2.01
+P. esperada: 0.33
+P. obtenida: 1.00028
+
+Prueba #786
+Nivel de agua: 4.56
+Variacion de nivel: -0.57
+P. esperada: 0.33
+P. obtenida: 1.00145
+
+Prueba #787
+Nivel de agua: 4.55
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 1.0013
+
+Prueba #788
+Nivel de agua: 4.54
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.00137
+
+Prueba #789
+Nivel de agua: 4.57
+Variacion de nivel: -0.15
+P. esperada: 0.33
+P. obtenida: 1.00132
+
+Prueba #790
+Nivel de agua: 4.49
+Variacion de nivel: 0.44
+P. esperada: 0.33
+P. obtenida: 1.00133
+
+Prueba #791
+Nivel de agua: 4.32
+Variacion de nivel: 1.03
+P. esperada: 0.33
+P. obtenida: 1.00149
+
+Prueba #792
+Nivel de agua: 4.12
+Variacion de nivel: 1.24
+P. esperada: 0.33
+P. obtenida: 1.00192
+
+Prueba #793
+Nivel de agua: 4.1
+Variacion de nivel: 0.1
+P. esperada: 0.33
+P. obtenida: 1.00274
+
+Prueba #794
+Nivel de agua: 4.24
+Variacion de nivel: -0.79
+P. esperada: 0.33
+P. obtenida: 1.00212
+
+Prueba #795
+Nivel de agua: 4.47
+Variacion de nivel: -1.44
+P. esperada: 0.33
+P. obtenida: 1.00121
+
+Prueba #796
+Nivel de agua: 4.5
+Variacion de nivel: -0.16
+P. esperada: 0.33
+P. obtenida: 1.00161
+
+Prueba #797
+Nivel de agua: 4.51
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 1.00152
+
+Prueba #798
+Nivel de agua: 4.5
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 1.00154
+
+Prueba #799
+Nivel de agua: 4.48
+Variacion de nivel: 0.12
+P. esperada: 0.33
+P. obtenida: 1.00157
+
+Prueba #800
+Nivel de agua: 4.2
+Variacion de nivel: 1.7
+P. esperada: 0.33
+P. obtenida: 1.00097
+
+Prueba #801
+Nivel de agua: 4.08
+Variacion de nivel: 0.78
+P. esperada: 0.33
+P. obtenida: 1.00252
+
+Prueba #802
+Nivel de agua: 4.04
+Variacion de nivel: 0.21
+P. esperada: 0.33
+P. obtenida: 1.00284
+
+Prueba #803
+Nivel de agua: 4.19
+Variacion de nivel: -0.93
+P. esperada: 0.33
+P. obtenida: 1.00198
+
+Prueba #804
+Nivel de agua: 4.44
+Variacion de nivel: -1.45
+P. esperada: 0.33
+P. obtenida: 1.00122
+
+Prueba #805
+Nivel de agua: 4.45
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 1.00178
+
+Prueba #806
+Nivel de agua: 4.47
+Variacion de nivel: -0.16
+P. esperada: 0.33
+P. obtenida: 1.00172
+
+Prueba #807
+Nivel de agua: 4.48
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 1.00164
+
+Prueba #808
+Nivel de agua: 4.41
+Variacion de nivel: 0.43
+P. esperada: 0.33
+P. obtenida: 1.00167
+
+Prueba #809
+Nivel de agua: 4.14
+Variacion de nivel: 1.6
+P. esperada: 0.33
+P. obtenida: 1.00132
+
+Prueba #810
+Nivel de agua: 4.02
+Variacion de nivel: 0.7
+P. esperada: 0.33
+P. obtenida: 1.00271
+
+Prueba #811
+Nivel de agua: 4.02
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.00283
+
+Prueba #812
+Nivel de agua: 4.12
+Variacion de nivel: -0.61
+P. esperada: 0.33
+P. obtenida: 1.00236
+
+Prueba #813
+Nivel de agua: 4.37
+Variacion de nivel: -1.5
+P. esperada: 0.33
+P. obtenida: 1.00117
+
+Prueba #814
+Nivel de agua: 4.37
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 1.00205
+
+Prueba #815
+Nivel de agua: 4.36
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 1.00206
+
+Prueba #816
+Nivel de agua: 4.42
+Variacion de nivel: -0.33
+P. esperada: 0.33
+P. obtenida: 1.00193
+
+Prueba #817
+Nivel de agua: 4.4
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 1.00191
+
+Prueba #818
+Nivel de agua: 4.38
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 1.00196
+
+Prueba #819
+Nivel de agua: 4.14
+Variacion de nivel: 1.48
+P. esperada: 0.33
+P. obtenida: 1.00152
+
+Prueba #820
+Nivel de agua: 3.99
+Variacion de nivel: 0.88
+P. esperada: 0.33
+P. obtenida: 1.00263
+
+Prueba #821
+Nivel de agua: 3.97
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 1.0029
+
+Prueba #822
+Nivel de agua: 4.3
+Variacion de nivel: -1.98
+P. esperada: 0.33
+P. obtenida: 0.999986
+
+Prueba #823
+Nivel de agua: 4.36
+Variacion de nivel: -0.36
+P. esperada: 0.33
+P. obtenida: 1.00211
+
+Prueba #824
+Nivel de agua: 4.35
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.0021
+
+Prueba #825
+Nivel de agua: 4.39
+Variacion de nivel: -0.24
+P. esperada: 0.33
+P. obtenida: 1.00202
+
+Prueba #826
+Nivel de agua: 4.35
+Variacion de nivel: 0.27
+P. esperada: 0.33
+P. obtenida: 1.00201
+
+Prueba #827
+Nivel de agua: 4.34
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 1.00212
+
+Prueba #828
+Nivel de agua: 4.33
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 1.00216
+
+Prueba #829
+Nivel de agua: 4.33
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 1.00218
+
+Prueba #830
+Nivel de agua: 4.06
+Variacion de nivel: 1.62
+P. esperada: 0.33
+P. obtenida: 1.0015
+
+Prueba #831
+Nivel de agua: 3.94
+Variacion de nivel: 0.74
+P. esperada: 0.33
+P. obtenida: 1.0028
+
+Prueba #832
+Nivel de agua: 4.21
+Variacion de nivel: -1.65
+P. esperada: 0.33
+P. obtenida: 1.00061
+
+Prueba #833
+Nivel de agua: 4.31
+Variacion de nivel: -0.62
+P. esperada: 0.33
+P. obtenida: 1.00215
+
+Prueba #834
+Nivel de agua: 4.31
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 1.00223
+
+Prueba #835
+Nivel de agua: 4.3
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.00226
+
+Prueba #836
+Nivel de agua: 4.32
+Variacion de nivel: -0.1
+P. esperada: 0.33
+P. obtenida: 1.00222
+
+Prueba #837
+Nivel de agua: 4.3
+Variacion de nivel: 0.1
+P. esperada: 0.33
+P. obtenida: 1.00225
+
+Prueba #838
+Nivel de agua: 4.29
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 1.00228
+
+Prueba #839
+Nivel de agua: 4.31
+Variacion de nivel: -0.13
+P. esperada: 0.33
+P. obtenida: 1.00226
+
+Prueba #840
+Nivel de agua: 4.3
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 1.00226
+
+Prueba #841
+Nivel de agua: 4.04
+Variacion de nivel: 1.57
+P. esperada: 0.33
+P. obtenida: 1.00163
+
+Prueba #842
+Nivel de agua: 3.98
+Variacion de nivel: 0.33
+P. esperada: 0.33
+P. obtenida: 1.0029
+
+Prueba #843
+Nivel de agua: 4.16
+Variacion de nivel: -1.03
+P. esperada: 0.33
+P. obtenida: 1.00182
+
+Prueba #844
+Nivel de agua: 4.22
+Variacion de nivel: -0.36
+P. esperada: 0.33
+P. obtenida: 1.00243
+
+Prueba #845
+Nivel de agua: 4.26
+Variacion de nivel: -0.26
+P. esperada: 0.33
+P. obtenida: 1.00238
+
+Prueba #846
+Nivel de agua: 4.26
+Variacion de nivel: 0.01
+P. esperada: 0.33
+P. obtenida: 1.00239
+
+Prueba #847
+Nivel de agua: 4.25
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.00241
+
+Prueba #848
+Nivel de agua: 4.25
+Variacion de nivel: 0.01
+P. esperada: 0.33
+P. obtenida: 1.00241
+
+Prueba #849
+Nivel de agua: 4.26
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 1.00239
+
+Prueba #850
+Nivel de agua: 4.29
+Variacion de nivel: -0.18
+P. esperada: 0.33
+P. obtenida: 1.00231
+
+Prueba #851
+Nivel de agua: 4.27
+Variacion de nivel: 0.13
+P. esperada: 0.33
+P. obtenida: 1.00233
+
+Prueba #852
+Nivel de agua: 4.06
+Variacion de nivel: 1.25
+P. esperada: 0.33
+P. obtenida: 1.00207
+
+Prueba #853
+Nivel de agua: 3.77
+Variacion de nivel: 1.77
+P. esperada: 0.33
+P. obtenida: 1.00155
+
+Prueba #854
+Nivel de agua: 3.97
+Variacion de nivel: -1.19
+P. esperada: 0.33
+P. obtenida: 1.00097
+
+Prueba #855
+Nivel de agua: 4.17
+Variacion de nivel: -1.22
+P. esperada: 0.33
+P. obtenida: 1.00149
+
+Prueba #856
+Nivel de agua: 4.19
+Variacion de nivel: -0.11
+P. esperada: 0.33
+P. obtenida: 1.00256
+
+Prueba #857
+Nivel de agua: 4.19
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 1.00256
+
+Prueba #858
+Nivel de agua: 4.19
+Variacion de nivel: -0
+P. esperada: 0.33
+P. obtenida: 1.00256
+
+Prueba #859
+Nivel de agua: 4.21
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 1.00252
+
+Prueba #860
+Nivel de agua: 4.21
+Variacion de nivel: 0
+P. esperada: 0.33
+P. obtenida: 1.00252
+
+Prueba #861
+Nivel de agua: 4.22
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 1.00249
+
+Prueba #862
+Nivel de agua: 4.1
+Variacion de nivel: 0.7
+P. esperada: 0.33
+P. obtenida: 1.00253
+
+Prueba #863
+Nivel de agua: 3.8
+Variacion de nivel: 1.84
+P. esperada: 0.33
+P. obtenida: 1.0014
+
+Prueba #864
+Nivel de agua: 3.73
+Variacion de nivel: 0.41
+P. esperada: 0.33
+P. obtenida: 1.00282
+
+Prueba #865
+Nivel de agua: 3.82
+Variacion de nivel: -0.52
+P. esperada: 0.33
+P. obtenida: 1.00199
+
+Prueba #866
+Nivel de agua: 4.08
+Variacion de nivel: -1.56
+P. esperada: 0.33
+P. obtenida: 1.00037
+
+Prueba #867
+Nivel de agua: 4.14
+Variacion de nivel: -0.35
+P. esperada: 0.33
+P. obtenida: 1.00255
+
+Prueba #868
+Nivel de agua: 4.19
+Variacion de nivel: -0.3
+P. esperada: 0.33
+P. obtenida: 1.00251
+
+Prueba #869
+Nivel de agua: 4.16
+Variacion de nivel: 0.15
+P. esperada: 0.33
+P. obtenida: 1.00262
+
+Prueba #870
+Nivel de agua: 4.17
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 1.00261
+
+Prueba #871
+Nivel de agua: 4.11
+Variacion de nivel: 0.31
+P. esperada: 0.33
+P. obtenida: 1.0027
+
+Prueba #872
+Nivel de agua: 3.78
+Variacion de nivel: 2.05
+P. esperada: 0.33
+P. obtenida: 1.0009
+
+Prueba #873
+Nivel de agua: 3.65
+Variacion de nivel: 0.76
+P. esperada: 0.33
+P. obtenida: 1.00266
+
+Prueba #874
+Nivel de agua: 3.64
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.0022
+
+Prueba #875
+Nivel de agua: 4.05
+Variacion de nivel: -2.43
+P. esperada: 0.33
+P. obtenida: 0.996245
+
+Prueba #876
+Nivel de agua: 4.09
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 1.00267
+
+Prueba #877
+Nivel de agua: 4.1
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 1.00273
+
+Prueba #878
+Nivel de agua: 4.1
+Variacion de nivel: 0
+P. esperada: 0.33
+P. obtenida: 1.00273
+
+Prueba #879
+Nivel de agua: 4.11
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 1.0027
+
+Prueba #880
+Nivel de agua: 3.97
+Variacion de nivel: 0.83
+P. esperada: 0.33
+P. obtenida: 1.0027
+
+Prueba #881
+Nivel de agua: 3.68
+Variacion de nivel: 1.74
+P. esperada: 0.33
+P. obtenida: 1.00153
+
+Prueba #882
+Nivel de agua: 3.74
+Variacion de nivel: -0.33
+P. esperada: 0.33
+P. obtenida: 1.00204
+
+Prueba #883
+Nivel de agua: 3.7
+Variacion de nivel: 0.24
+P. esperada: 0.33
+P. obtenida: 1.00266
+
+Prueba #884
+Nivel de agua: 3.79
+Variacion de nivel: -0.52
+P. esperada: 0.33
+P. obtenida: 1.00187
+
+Prueba #885
+Nivel de agua: 4.06
+Variacion de nivel: -1.62
+P. esperada: 0.33
+P. obtenida: 1.00007
+
+Prueba #886
+Nivel de agua: 4.04
+Variacion de nivel: 0.1
+P. esperada: 0.33
+P. obtenida: 1.00283
+
+Prueba #887
+Nivel de agua: 4.02
+Variacion de nivel: 0.14
+P. esperada: 0.33
+P. obtenida: 1.00286
+
+Prueba #888
+Nivel de agua: 4.06
+Variacion de nivel: -0.25
+P. esperada: 0.33
+P. obtenida: 1.00268
+
+Prueba #889
+Nivel de agua: 4.04
+Variacion de nivel: 0.07
+P. esperada: 0.33
+P. obtenida: 1.00282
+
+Prueba #890
+Nivel de agua: 3.78
+Variacion de nivel: 1.59
+P. esperada: 0.33
+P. obtenida: 1.0019
+
+Prueba #891
+Nivel de agua: 3.6
+Variacion de nivel: 1.1
+P. esperada: 0.33
+P. obtenida: 1.00234
+
+Prueba #892
+Nivel de agua: 3.57
+Variacion de nivel: 0.15
+P. esperada: 0.33
+P. obtenida: 1.00202
+
+Prueba #893
+Nivel de agua: 3.69
+Variacion de nivel: -0.71
+P. esperada: 0.33
+P. obtenida: 1.00079
+
+Prueba #894
+Nivel de agua: 4
+Variacion de nivel: -1.81
+P. esperada: 0.33
+P. obtenida: 0.99894
+
+Prueba #895
+Nivel de agua: 3.97
+Variacion de nivel: 0.13
+P. esperada: 0.33
+P. obtenida: 1.00289
+
+Prueba #896
+Nivel de agua: 4.01
+Variacion de nivel: -0.21
+P. esperada: 0.33
+P. obtenida: 1.00272
+
+Prueba #897
+Nivel de agua: 4.01
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 1.00282
+
+Prueba #898
+Nivel de agua: 3.97
+Variacion de nivel: 0.26
+P. esperada: 0.33
+P. obtenida: 1.00291
+
+Prueba #899
+Nivel de agua: 4.02
+Variacion de nivel: -0.33
+P. esperada: 0.33
+P. obtenida: 1.00263
+
+Prueba #900
+Nivel de agua: 3.83
+Variacion de nivel: 1.14
+P. esperada: 0.33
+P. obtenida: 1.00255
+
+Prueba #901
+Nivel de agua: 3.51
+Variacion de nivel: 1.95
+P. esperada: 0.33
+P. obtenida: 1.00055
+
+Prueba #902
+Nivel de agua: 3.51
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 1.00132
+
+Prueba #903
+Nivel de agua: 3.56
+Variacion de nivel: -0.28
+P. esperada: 0.33
+P. obtenida: 1.00108
+
+Prueba #904
+Nivel de agua: 3.92
+Variacion de nivel: -2.14
+P. esperada: 0.33
+P. obtenida: 0.996395
+
+Prueba #905
+Nivel de agua: 3.9
+Variacion de nivel: 0.1
+P. esperada: 0.33
+P. obtenida: 1.00289
+
+Prueba #906
+Nivel de agua: 3.98
+Variacion de nivel: -0.51
+P. esperada: 0.33
+P. obtenida: 1.0024
+
+Prueba #907
+Nivel de agua: 3.9
+Variacion de nivel: 0.52
+P. esperada: 0.33
+P. obtenida: 1.00293
+
+Prueba #908
+Nivel de agua: 3.98
+Variacion de nivel: -0.51
+P. esperada: 0.33
+P. obtenida: 1.0024
+
+Prueba #909
+Nivel de agua: 3.9
+Variacion de nivel: 0.5
+P. esperada: 0.33
+P. obtenida: 1.00294
+
+Prueba #910
+Nivel de agua: 3.94
+Variacion de nivel: -0.25
+P. esperada: 0.33
+P. obtenida: 1.00266
+
+Prueba #911
+Nivel de agua: 3.91
+Variacion de nivel: 0.22
+P. esperada: 0.33
+P. obtenida: 1.00293
+
+Prueba #912
+Nivel de agua: 3.52
+Variacion de nivel: 2.31
+P. esperada: 0.33
+P. obtenida: 0.999492
+
+Prueba #913
+Nivel de agua: 3.54
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 1.00128
+
+Prueba #914
+Nivel de agua: 3.67
+Variacion de nivel: -0.76
+P. esperada: 0.33
+P. obtenida: 1.00047
+
+Prueba #915
+Nivel de agua: 3.9
+Variacion de nivel: -1.4
+P. esperada: 0.33
+P. obtenida: 0.999865
+
+Prueba #916
+Nivel de agua: 3.87
+Variacion de nivel: 0.22
+P. esperada: 0.33
+P. obtenida: 1.00292
+
+Prueba #917
+Nivel de agua: 3.95
+Variacion de nivel: -0.48
+P. esperada: 0.33
+P. obtenida: 1.0024
+
+Prueba #918
+Nivel de agua: 3.92
+Variacion de nivel: 0.16
+P. esperada: 0.33
+P. obtenida: 1.00291
+
+Prueba #919
+Nivel de agua: 3.89
+Variacion de nivel: 0.2
+P. esperada: 0.33
+P. obtenida: 1.00292
+
+Prueba #920
+Nivel de agua: 3.9
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 1.00277
+
+Prueba #921
+Nivel de agua: 3.88
+Variacion de nivel: 0.13
+P. esperada: 0.33
+P. obtenida: 1.00289
+
+Prueba #922
+Nivel de agua: 3.9
+Variacion de nivel: -0.1
+P. esperada: 0.33
+P. obtenida: 1.00276
+
+Prueba #923
+Nivel de agua: 3.58
+Variacion de nivel: 1.87
+P. esperada: 0.33
+P. obtenida: 1.00101
+
+Prueba #924
+Nivel de agua: 3.47
+Variacion de nivel: 0.68
+P. esperada: 0.33
+P. obtenida: 1.00193
+
+Prueba #925
+Nivel de agua: 3.48
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 1.00099
+
+Prueba #926
+Nivel de agua: 3.84
+Variacion de nivel: -2.15
+P. esperada: 0.33
+P. obtenida: 0.995201
+
+Prueba #927
+Nivel de agua: 3.84
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.00279
+
+Prueba #928
+Nivel de agua: 3.88
+Variacion de nivel: -0.27
+P. esperada: 0.33
+P. obtenida: 1.00256
+
+Prueba #929
+Nivel de agua: 3.82
+Variacion de nivel: 0.35
+P. esperada: 0.33
+P. obtenida: 1.00292
+
+Prueba #930
+Nivel de agua: 3.83
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 1.00273
+
+Prueba #931
+Nivel de agua: 3.84
+Variacion de nivel: -0.07
+P. esperada: 0.33
+P. obtenida: 1.00271
+
+Prueba #932
+Nivel de agua: 3.81
+Variacion de nivel: 0.18
+P. esperada: 0.33
+P. obtenida: 1.00285
+
+Prueba #933
+Nivel de agua: 3.85
+Variacion de nivel: -0.22
+P. esperada: 0.33
+P. obtenida: 1.00256
+
+Prueba #934
+Nivel de agua: 3.5
+Variacion de nivel: 2.06
+P. esperada: 0.33
+P. obtenida: 1.0002
+
+Prueba #935
+Nivel de agua: 3.4
+Variacion de nivel: 0.62
+P. esperada: 0.33
+P. obtenida: 1.00143
+
+Prueba #936
+Nivel de agua: 3.4
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 1.00049
+
+Prueba #937
+Nivel de agua: 3.72
+Variacion de nivel: -1.94
+P. esperada: 0.33
+P. obtenida: 0.994766
+
+Prueba #938
+Nivel de agua: 3.82
+Variacion de nivel: -0.6
+P. esperada: 0.33
+P. obtenida: 1.00182
+
+Prueba #939
+Nivel de agua: 3.8
+Variacion de nivel: 0.12
+P. esperada: 0.33
+P. obtenida: 1.00279
+
+Prueba #940
+Nivel de agua: 3.76
+Variacion de nivel: 0.24
+P. esperada: 0.33
+P. obtenida: 1.0028
+
+Prueba #941
+Nivel de agua: 3.82
+Variacion de nivel: -0.39
+P. esperada: 0.33
+P. obtenida: 1.00223
+
+Prueba #942
+Nivel de agua: 3.81
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 1.00278
+
+Prueba #943
+Nivel de agua: 3.76
+Variacion de nivel: 0.3
+P. esperada: 0.33
+P. obtenida: 1.00283
+
+Prueba #944
+Nivel de agua: 3.73
+Variacion de nivel: 0.15
+P. esperada: 0.33
+P. obtenida: 1.00267
+
+Prueba #945
+Nivel de agua: 3.34
+Variacion de nivel: 2.36
+P. esperada: 0.33
+P. obtenida: 0.998139
+
+Prueba #946
+Nivel de agua: 3.35
+Variacion de nivel: -0.05
+P. esperada: 0.33
+P. obtenida: 0.999687
+
+Prueba #947
+Nivel de agua: 3.37
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 0.999633
+
+Prueba #948
+Nivel de agua: 3.73
+Variacion de nivel: -2.14
+P. esperada: 0.33
+P. obtenida: 0.993378
+
+Prueba #949
+Nivel de agua: 3.72
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 1.00255
+
+Prueba #950
+Nivel de agua: 3.71
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.00248
+
+Prueba #951
+Nivel de agua: 3.72
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 1.00244
+
+Prueba #952
+Nivel de agua: 3.76
+Variacion de nivel: -0.23
+P. esperada: 0.33
+P. obtenida: 1.0023
+
+Prueba #953
+Nivel de agua: 3.72
+Variacion de nivel: 0.23
+P. esperada: 0.33
+P. obtenida: 1.0027
+
+Prueba #954
+Nivel de agua: 3.35
+Variacion de nivel: 2.22
+P. esperada: 0.33
+P. obtenida: 0.998752
+
+Prueba #955
+Nivel de agua: 3.33
+Variacion de nivel: 0.1
+P. esperada: 0.33
+P. obtenida: 0.999893
+
+Prueba #956
+Nivel de agua: 3.29
+Variacion de nivel: 0.26
+P. esperada: 0.33
+P. obtenida: 0.999829
+
+Prueba #957
+Nivel de agua: 3.33
+Variacion de nivel: -0.25
+P. esperada: 0.33
+P. obtenida: 0.998704
+
+Prueba #958
+Nivel de agua: 3.66
+Variacion de nivel: -1.96
+P. esperada: 0.33
+P. obtenida: 0.993506
+
+Prueba #959
+Nivel de agua: 3.66
+Variacion de nivel: -0.02
+P. esperada: 0.33
+P. obtenida: 1.00222
+
+Prueba #960
+Nivel de agua: 3.68
+Variacion de nivel: -0.06
+P. esperada: 0.33
+P. obtenida: 1.00225
+
+Prueba #961
+Nivel de agua: 3.69
+Variacion de nivel: -0.07
+P. esperada: 0.33
+P. obtenida: 1.00228
+
+Prueba #962
+Nivel de agua: 3.68
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 1.00239
+
+Prueba #963
+Nivel de agua: 3.55
+Variacion de nivel: 0.8
+P. esperada: 0.33
+P. obtenida: 1.00233
+
+Prueba #964
+Nivel de agua: 3.29
+Variacion de nivel: 1.56
+P. esperada: 0.33
+P. obtenida: 1.00008
+
+Prueba #965
+Nivel de agua: 3.21
+Variacion de nivel: 0.45
+P. esperada: 0.33
+P. obtenida: 0.999238
+
+Prueba #966
+Nivel de agua: 3.23
+Variacion de nivel: -0.11
+P. esperada: 0.33
+P. obtenida: 0.997772
+
+Prueba #967
+Nivel de agua: 3.4
+Variacion de nivel: -1.03
+P. esperada: 0.33
+P. obtenida: 0.995599
+
+Prueba #968
+Nivel de agua: 3.67
+Variacion de nivel: -1.63
+P. esperada: 0.33
+P. obtenida: 0.996134
+
+Prueba #969
+Nivel de agua: 3.66
+Variacion de nivel: 0.08
+P. esperada: 0.33
+P. obtenida: 1.00236
+
+Prueba #970
+Nivel de agua: 3.64
+Variacion de nivel: 0.15
+P. esperada: 0.33
+P. obtenida: 1.00236
+
+Prueba #971
+Nivel de agua: 3.63
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 1.00214
+
+Prueba #972
+Nivel de agua: 3.62
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 1.00215
+
+Prueba #973
+Nivel de agua: 3.46
+Variacion de nivel: 0.96
+P. esperada: 0.33
+P. obtenida: 1.00187
+
+Prueba #974
+Nivel de agua: 3.22
+Variacion de nivel: 1.43
+P. esperada: 0.33
+P. obtenida: 0.999629
+
+Prueba #975
+Nivel de agua: 3.2
+Variacion de nivel: 0.15
+P. esperada: 0.33
+P. obtenida: 0.998283
+
+Prueba #976
+Nivel de agua: 3.19
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 0.997762
+
+Prueba #977
+Nivel de agua: 3.43
+Variacion de nivel: -1.47
+P. esperada: 0.33
+P. obtenida: 0.992805
+
+Prueba #978
+Nivel de agua: 3.61
+Variacion de nivel: -1.03
+P. esperada: 0.33
+P. obtenida: 0.998758
+
+Prueba #979
+Nivel de agua: 3.61
+Variacion de nivel: 0
+P. esperada: 0.33
+P. obtenida: 1.00201
+
+Prueba #980
+Nivel de agua: 3.62
+Variacion de nivel: -0.09
+P. esperada: 0.33
+P. obtenida: 1.0019
+
+Prueba #981
+Nivel de agua: 3.61
+Variacion de nivel: 0.05
+P. esperada: 0.33
+P. obtenida: 1.00209
+
+Prueba #982
+Nivel de agua: 3.63
+Variacion de nivel: -0.08
+P. esperada: 0.33
+P. obtenida: 1.00198
+
+Prueba #983
+Nivel de agua: 3.63
+Variacion de nivel: -0.03
+P. esperada: 0.33
+P. obtenida: 1.00206
+
+Prueba #984
+Nivel de agua: 3.42
+Variacion de nivel: 1.24
+P. esperada: 0.33
+P. obtenida: 1.00145
+
+Prueba #985
+Nivel de agua: 3.15
+Variacion de nivel: 1.62
+P. esperada: 0.33
+P. obtenida: 0.998519
+
+Prueba #986
+Nivel de agua: 3.15
+Variacion de nivel: -0
+P. esperada: 0.33
+P. obtenida: 0.996857
+
+Prueba #987
+Nivel de agua: 3.47
+Variacion de nivel: -1.87
+P. esperada: 0.33
+P. obtenida: 0.989975
+
+Prueba #988
+Nivel de agua: 3.57
+Variacion de nivel: -0.62
+P. esperada: 0.33
+P. obtenida: 1.00008
+
+Prueba #989
+Nivel de agua: 3.53
+Variacion de nivel: 0.22
+P. esperada: 0.33
+P. obtenida: 1.00188
+
+Prueba #990
+Nivel de agua: 3.54
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 1.0015
+
+Prueba #991
+Nivel de agua: 3.52
+Variacion de nivel: 0.12
+P. esperada: 0.33
+P. obtenida: 1.00167
+
+Prueba #992
+Nivel de agua: 3.56
+Variacion de nivel: -0.25
+P. esperada: 0.33
+P. obtenida: 1.00116
+
+Prueba #993
+Nivel de agua: 3.54
+Variacion de nivel: 0.11
+P. esperada: 0.33
+P. obtenida: 1.00178
+
+Prueba #994
+Nivel de agua: 3.58
+Variacion de nivel: -0.24
+P. esperada: 0.33
+P. obtenida: 1.00133
+
+Prueba #995
+Nivel de agua: 3.55
+Variacion de nivel: 0.21
+P. esperada: 0.33
+P. obtenida: 1.00199
+
+Prueba #996
+Nivel de agua: 3.18
+Variacion de nivel: 2.22
+P. esperada: 0.33
+P. obtenida: 0.997073
+
+Prueba #997
+Nivel de agua: 3.12
+Variacion de nivel: 0.36
+P. esperada: 0.33
+P. obtenida: 0.997647
+
+Prueba #998
+Nivel de agua: 3.36
+Variacion de nivel: -1.41
+P. esperada: 0.33
+P. obtenida: 0.991671
+
+Prueba #999
+Nivel de agua: 3.47
+Variacion de nivel: -0.66
+P. esperada: 0.33
+P. obtenida: 0.998794
+
+Prueba #1000
+Nivel de agua: 3.5
+Variacion de nivel: -0.17
+P. esperada: 0.33
+P. obtenida: 1.00088
+
+Prueba #1001
+Nivel de agua: 3.49
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 1.00125
+
+Prueba #1002
+Nivel de agua: 3.5
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 1.0012
+
+Prueba #1003
+Nivel de agua: 3.49
+Variacion de nivel: 0.04
+P. esperada: 0.33
+P. obtenida: 1.0013
+
+Prueba #1004
+Nivel de agua: 3.49
+Variacion de nivel: 0.03
+P. esperada: 0.33
+P. obtenida: 1.00128
+
+Prueba #1005
+Nivel de agua: 3.48
+Variacion de nivel: 0.02
+P. esperada: 0.33
+P. obtenida: 1.00117
+
+Prueba #1006
+Nivel de agua: 3.51
+Variacion de nivel: -0.14
+P. esperada: 0.33
+P. obtenida: 1.00104
+
+Prueba #1007
+Nivel de agua: 3.4
+Variacion de nivel: 0.64
+P. esperada: 0.33
+P. obtenida: 1.00144
+
+Prueba #1008
+Nivel de agua: 3.18
+Variacion de nivel: 1.34
+P. esperada: 0.33
+P. obtenida: 0.999303
+
+Prueba #1009
+Nivel de agua: 3.03
+Variacion de nivel: 0.86
+P. esperada: 0.33
+P. obtenida: 0.997145
+
+Prueba #1010
+Nivel de agua: 3.14
+Variacion de nivel: -0.66
+P. esperada: 0.33
+P. obtenida: 0.992619
+
+Prueba #1011
+Nivel de agua: 3.35
+Variacion de nivel: -1.25
+P. esperada: 0.33
+P. obtenida: 0.99286
+
+Prueba #1012
+Nivel de agua: 3.44
+Variacion de nivel: -0.5
+P. esperada: 0.33
+P. obtenida: 0.99912
+
+Prueba #1013
+Nivel de agua: 3.45
+Variacion de nivel: -0.1
+P. esperada: 0.33
+P. obtenida: 1.00061
+
+Prueba #1014
+Nivel de agua: 3.44
+Variacion de nivel: 0.06
+P. esperada: 0.33
+P. obtenida: 1.00092
+
+Prueba #1015
+Nivel de agua: 3.44
+Variacion de nivel: 0
+P. esperada: 0.33
+P. obtenida: 1.00078
+
+Prueba #1016
+Nivel de agua: 3.45
+Variacion de nivel: -0.04
+P. esperada: 0.33
+P. obtenida: 1.00077
+
+Prueba #1017
+Nivel de agua: 3.38
+Variacion de nivel: 0.42
+P. esperada: 0.33
+P. obtenida: 1.00106
+
+Prueba #1018
+Nivel de agua: 3.44
+Variacion de nivel: -0.37
+P. esperada: 0.33
+P. obtenida: 0.999637
+
+Prueba #1019
+Nivel de agua: 3.15
+Variacion de nivel: 1.7
+P. esperada: 0.33
+P. obtenida: 0.998347
+
+Prueba #1020
+Nivel de agua: 8.93
+Variacion de nivel: 1.36
+P. esperada: 0.67
+P. obtenida: 0.984646
+
+Prueba #1021
+Nivel de agua: 9
+Variacion de nivel: 0.41
+P. esperada: 0.67
+P. obtenida: 0.984787
+
+Prueba #1022
+Nivel de agua: 8.99
+Variacion de nivel: 0.01
+P. esperada: 0.67
+P. obtenida: 0.984906
+
+Prueba #1023
+Nivel de agua: 8.76
+Variacion de nivel: 1.48
+P. esperada: 0.67
+P. obtenida: 0.98486
+
+Prueba #1024
+Nivel de agua: 8.91
+Variacion de nivel: -0.95
+P. esperada: 0.67
+P. obtenida: 0.985303
+
+Prueba #1025
+Nivel de agua: 8.68
+Variacion de nivel: 1.47
+P. esperada: 0.67
+P. obtenida: 0.984984
+
+Prueba #1026
+Nivel de agua: 8.64
+Variacion de nivel: 0.24
+P. esperada: 0.67
+P. obtenida: 0.985408
+
+Prueba #1027
+Nivel de agua: 8.92
+Variacion de nivel: -1.78
+P. esperada: 0.67
+P. obtenida: 0.985534
+
+Prueba #1028
+Nivel de agua: 8.71
+Variacion de nivel: 1.34
+P. esperada: 0.67
+P. obtenida: 0.984974
+
+Prueba #1029
+Nivel de agua: 8.78
+Variacion de nivel: -0.45
+P. esperada: 0.67
+P. obtenida: 0.985375
+
+Prueba #1030
+Nivel de agua: 8.97
+Variacion de nivel: -1.19
+P. esperada: 0.67
+P. obtenida: 0.985272
+
+Prueba #1031
+Nivel de agua: 8.97
+Variacion de nivel: -0.01
+P. esperada: 0.67
+P. obtenida: 0.984942
+
+Prueba #1032
+Nivel de agua: 8.94
+Variacion de nivel: 0.2
+P. esperada: 0.67
+P. obtenida: 0.984931
+
+Prueba #1033
+Nivel de agua: 8.83
+Variacion de nivel: 0.71
+P. esperada: 0.67
+P. obtenida: 0.984962
+
+Prueba #1034
+Nivel de agua: 8.97
+Variacion de nivel: -0.93
+P. esperada: 0.67
+P. obtenida: 0.985197
+
+Prueba #1035
+Nivel de agua: 8.7
+Variacion de nivel: 2.9
+P. esperada: 0.67
+P. obtenida: 0.98458
+
+Prueba #1036
+Nivel de agua: 8.68
+Variacion de nivel: 0.14
+P. esperada: 0.67
+P. obtenida: 0.985369
+
+Prueba #1037
+Nivel de agua: 8.66
+Variacion de nivel: 0.09
+P. esperada: 0.67
+P. obtenida: 0.985419
+
+Prueba #1038
+Nivel de agua: 8.67
+Variacion de nivel: -0.04
+P. esperada: 0.67
+P. obtenida: 0.985442
+
+Prueba #1039
+Nivel de agua: 8.37
+Variacion de nivel: 1.93
+P. esperada: 0.67
+P. obtenida: 0.985354
+
+Prueba #1040
+Nivel de agua: 8.48
+Variacion de nivel: -0.7
+P. esperada: 0.67
+P. obtenida: 0.986014
+
+Prueba #1041
+Nivel de agua: 8.23
+Variacion de nivel: 1.6
+P. esperada: 0.67
+P. obtenida: 0.985711
+
+Prueba #1042
+Nivel de agua: 8.11
+Variacion de nivel: 0.71
+P. esperada: 0.67
+P. obtenida: 0.986268
+
+Prueba #1043
+Nivel de agua: 8.36
+Variacion de nivel: -1.55
+P. esperada: 0.67
+P. obtenida: 0.986577
+
+Prueba #1044
+Nivel de agua: 8.18
+Variacion de nivel: 1.13
+P. esperada: 0.67
+P. obtenida: 0.985971
+
+Prueba #1045
+Nivel de agua: 8.48
+Variacion de nivel: -1.89
+P. esperada: 0.67
+P. obtenida: 0.98644
+
+Prueba #1046
+Nivel de agua: 8.41
+Variacion de nivel: 0.43
+P. esperada: 0.67
+P. obtenida: 0.985765
+
+Prueba #1047
+Nivel de agua: 8.44
+Variacion de nivel: -0.23
+P. esperada: 0.67
+P. obtenida: 0.985931
+
+Prueba #1048
+Nivel de agua: 8.49
+Variacion de nivel: -0.31
+P. esperada: 0.67
+P. obtenida: 0.98586
+
+Prueba #1049
+Nivel de agua: 8.38
+Variacion de nivel: 0.75
+P. esperada: 0.67
+P. obtenida: 0.985715
+
+Prueba #1050
+Nivel de agua: 8.65
+Variacion de nivel: -1.69
+P. esperada: 0.67
+P. obtenida: 0.986015
+
+Prueba #1051
+Nivel de agua: 8.77
+Variacion de nivel: -0.76
+P. esperada: 0.67
+P. obtenida: 0.985487
+
+Prueba #1052
+Nivel de agua: 8.73
+Variacion de nivel: 0.24
+P. esperada: 0.67
+P. obtenida: 0.985255
+
+Prueba #1053
+Nivel de agua: 8.56
+Variacion de nivel: 1.07
+P. esperada: 0.67
+P. obtenida: 0.985293
+
+Prueba #1054
+Nivel de agua: 8.33
+Variacion de nivel: 1.47
+P. esperada: 0.67
+P. obtenida: 0.98557
+
+Prueba #1055
+Nivel de agua: 8.26
+Variacion de nivel: 0.43
+P. esperada: 0.67
+P. obtenida: 0.986059
+
+Prueba #1056
+Nivel de agua: 8.32
+Variacion de nivel: -0.41
+P. esperada: 0.67
+P. obtenida: 0.986239
+
+Prueba #1057
+Nivel de agua: 8.23
+Variacion de nivel: 0.6
+P. esperada: 0.67
+P. obtenida: 0.986059
+
+Prueba #1058
+Nivel de agua: 8.23
+Variacion de nivel: -0.03
+P. esperada: 0.67
+P. obtenida: 0.986289
+
+Prueba #1059
+Nivel de agua: 7.96
+Variacion de nivel: 1.74
+P. esperada: 0.67
+P. obtenida: 0.986196
+
+Prueba #1060
+Nivel de agua: 7.8
+Variacion de nivel: 0.98
+P. esperada: 0.67
+P. obtenida: 0.986856
+
+Prueba #1061
+Nivel de agua: 7.73
+Variacion de nivel: 0.44
+P. esperada: 0.67
+P. obtenida: 0.987263
+
+Prueba #1062
+Nivel de agua: 7.71
+Variacion de nivel: 0.1
+P. esperada: 0.67
+P. obtenida: 0.987469
+
+Prueba #1063
+Nivel de agua: 7.78
+Variacion de nivel: -0.39
+P. esperada: 0.67
+P. obtenida: 0.987507
+
+Prueba #1064
+Nivel de agua: 7.92
+Variacion de nivel: -0.9
+P. esperada: 0.67
+P. obtenida: 0.98737
+
+Prueba #1065
+Nivel de agua: 8
+Variacion de nivel: -0.51
+P. esperada: 0.67
+P. obtenida: 0.987002
+
+Prueba #1066
+Nivel de agua: 7.9
+Variacion de nivel: 0.64
+P. esperada: 0.67
+P. obtenida: 0.986762
+
+Prueba #1067
+Nivel de agua: 8
+Variacion de nivel: -0.66
+P. esperada: 0.67
+P. obtenida: 0.987065
+
+Prueba #1068
+Nivel de agua: 7.97
+Variacion de nivel: 0.21
+P. esperada: 0.67
+P. obtenida: 0.986775
+
+Prueba #1069
+Nivel de agua: 7.98
+Variacion de nivel: -0.07
+P. esperada: 0.67
+P. obtenida: 0.986867
+
+Prueba #1070
+Nivel de agua: 8.32
+Variacion de nivel: -2.12
+P. esperada: 0.67
+P. obtenida: 0.98689
+
+Prueba #1071
+Nivel de agua: 8.33
+Variacion de nivel: -0.08
+P. esperada: 0.67
+P. obtenida: 0.986099
+
+Prueba #1072
+Nivel de agua: 8.12
+Variacion de nivel: 1.38
+P. esperada: 0.67
+P. obtenida: 0.986001
+
+Prueba #1073
+Nivel de agua: 7.92
+Variacion de nivel: 1.25
+P. esperada: 0.67
+P. obtenida: 0.986471
+
+Prueba #1074
+Nivel de agua: 7.91
+Variacion de nivel: 0.06
+P. esperada: 0.67
+P. obtenida: 0.986981
+
+Prueba #1075
+Nivel de agua: 7.91
+Variacion de nivel: -0.05
+P. esperada: 0.67
+P. obtenida: 0.987027
+
+Prueba #1076
+Nivel de agua: 7.87
+Variacion de nivel: 0.26
+P. esperada: 0.67
+P. obtenida: 0.986993
+
+Prueba #1077
+Nivel de agua: 7.87
+Variacion de nivel: -0.02
+P. esperada: 0.67
+P. obtenida: 0.987113
+
+Prueba #1078
+Nivel de agua: 7.48
+Variacion de nivel: 2.46
+P. esperada: 0.67
+P. obtenida: 0.986976
+
+Prueba #1079
+Nivel de agua: 7.62
+Variacion de nivel: -0.86
+P. esperada: 0.67
+P. obtenida: 0.988174
+
+Prueba #1080
+Nivel de agua: 7.32
+Variacion de nivel: 1.87
+P. esperada: 0.67
+P. obtenida: 0.987667
+
+Prueba #1081
+Nivel de agua: 7.31
+Variacion de nivel: 0.07
+P. esperada: 0.67
+P. obtenida: 0.988629
+
+Prueba #1082
+Nivel de agua: 7.27
+Variacion de nivel: 0.28
+P. esperada: 0.67
+P. obtenida: 0.988641
+
+Prueba #1083
+Nivel de agua: 7.29
+Variacion de nivel: -0.16
+P. esperada: 0.67
+P. obtenida: 0.988816
+
+Prueba #1084
+Nivel de agua: 7.58
+Variacion de nivel: -1.84
+P. esperada: 0.67
+P. obtenida: 0.988783
+
+Prueba #1085
+Nivel de agua: 7.36
+Variacion de nivel: 1.41
+P. esperada: 0.67
+P. obtenida: 0.987787
+
+Prueba #1086
+Nivel de agua: 7.57
+Variacion de nivel: -1.33
+P. esperada: 0.67
+P. obtenida: 0.988557
+
+Prueba #1087
+Nivel de agua: 7.57
+Variacion de nivel: -0.02
+P. esperada: 0.67
+P. obtenida: 0.987906
+
+Prueba #1088
+Nivel de agua: 7.58
+Variacion de nivel: -0.08
+P. esperada: 0.67
+P. obtenida: 0.987907
+
+Prueba #1089
+Nivel de agua: 7.58
+Variacion de nivel: 0.03
+P. esperada: 0.67
+P. obtenida: 0.987854
+
+Prueba #1090
+Nivel de agua: 7.92
+Variacion de nivel: -2.11
+P. esperada: 0.67
+P. obtenida: 0.987912
+
+Prueba #1091
+Nivel de agua: 7.93
+Variacion de nivel: -0.04
+P. esperada: 0.67
+P. obtenida: 0.986974
+
+Prueba #1092
+Nivel de agua: 7.6
+Variacion de nivel: 2.08
+P. esperada: 0.67
+P. obtenida: 0.986858
+
+Prueba #1093
+Nivel de agua: 7.48
+Variacion de nivel: 0.76
+P. esperada: 0.67
+P. obtenida: 0.987777
+
+Prueba #1094
+Nivel de agua: 7.48
+Variacion de nivel: -0.03
+P. esperada: 0.67
+P. obtenida: 0.988169
+
+Prueba #1095
+Nivel de agua: 7.51
+Variacion de nivel: -0.19
+P. esperada: 0.67
+P. obtenida: 0.988162
+
+Prueba #1096
+Nivel de agua: 7.41
+Variacion de nivel: 0.64
+P. esperada: 0.67
+P. obtenida: 0.988034
+
+Prueba #1097
+Nivel de agua: 7.45
+Variacion de nivel: -0.28
+P. esperada: 0.67
+P. obtenida: 0.988385
+
+Prueba #1098
+Nivel de agua: 7.06
+Variacion de nivel: 2.45
+P. esperada: 0.67
+P. obtenida: 0.988087
+
+Prueba #1099
+Nivel de agua: 7.09
+Variacion de nivel: -0.17
+P. esperada: 0.67
+P. obtenida: 0.989483
+
+Prueba #1100
+Nivel de agua: 6.98
+Variacion de nivel: 0.67
+P. esperada: 0.67
+P. obtenida: 0.989362
+
+Prueba #1101
+Nivel de agua: 6.85
+Variacion de nivel: 0.84
+P. esperada: 0.67
+P. obtenida: 0.989708
+
+Prueba #1102
+Nivel de agua: 6.83
+Variacion de nivel: 0.11
+P. esperada: 0.67
+P. obtenida: 0.990242
+
+Prueba #1103
+Nivel de agua: 6.85
+Variacion de nivel: -0.12
+P. esperada: 0.67
+P. obtenida: 0.990313
+
+Prueba #1104
+Nivel de agua: 7.15
+Variacion de nivel: -1.89
+P. esperada: 0.67
+P. obtenida: 0.990264
+
+Prueba #1105
+Nivel de agua: 6.9
+Variacion de nivel: 1.55
+P. esperada: 0.67
+P. obtenida: 0.9891
+
+Prueba #1106
+Nivel de agua: 7.12
+Variacion de nivel: -1.36
+P. esperada: 0.67
+P. obtenida: 0.99007
+
+Prueba #1107
+Nivel de agua: 7.16
+Variacion de nivel: -0.27
+P. esperada: 0.67
+P. obtenida: 0.989302
+
+Prueba #1108
+Nivel de agua: 7.24
+Variacion de nivel: -0.49
+P. esperada: 0.67
+P. obtenida: 0.98916
+
+Prueba #1109
+Nivel de agua: 7.12
+Variacion de nivel: 0.79
+P. esperada: 0.67
+P. obtenida: 0.988832
+
+Prueba #1110
+Nivel de agua: 7.4
+Variacion de nivel: -1.76
+P. esperada: 0.67
+P. obtenida: 0.989321
+
+Prueba #1111
+Nivel de agua: 7.16
+Variacion de nivel: 1.46
+P. esperada: 0.67
+P. obtenida: 0.988336
+
+Prueba #1112
+Nivel de agua: 7.07
+Variacion de nivel: 0.61
+P. esperada: 0.67
+P. obtenida: 0.989097
+
+Prueba #1113
+Nivel de agua: 7.13
+Variacion de nivel: -0.39
+P. esperada: 0.67
+P. obtenida: 0.989473
+
+Prueba #1114
+Nivel de agua: 7.11
+Variacion de nivel: 0.12
+P. esperada: 0.67
+P. obtenida: 0.989247
+
+Prueba #1115
+Nivel de agua: 6.99
+Variacion de nivel: 0.78
+P. esperada: 0.67
+P. obtenida: 0.989263
+
+Prueba #1116
+Nivel de agua: 7.01
+Variacion de nivel: -0.14
+P. esperada: 0.67
+P. obtenida: 0.989744
+
+Prueba #1117
+Nivel de agua: 7.04
+Variacion de nivel: -0.17
+P. esperada: 0.67
+P. obtenida: 0.989656
+
+Prueba #1118
+Nivel de agua: 6.8
+Variacion de nivel: 1.46
+P. esperada: 0.67
+P. obtenida: 0.989492
+
+Prueba #1119
+Nivel de agua: 6.67
+Variacion de nivel: 0.78
+P. esperada: 0.67
+P. obtenida: 0.990405
+
+Prueba #1120
+Nivel de agua: 6.6
+Variacion de nivel: 0.43
+P. esperada: 0.67
+P. obtenida: 0.990914
+
+Prueba #1121
+Nivel de agua: 6.48
+Variacion de nivel: 0.75
+P. esperada: 0.67
+P. obtenida: 0.991171
+
+Prueba #1122
+Nivel de agua: 6.46
+Variacion de nivel: 0.13
+P. esperada: 0.67
+P. obtenida: 0.991698
+
+Prueba #1123
+Nivel de agua: 6.42
+Variacion de nivel: 0.26
+P. esperada: 0.67
+P. obtenida: 0.991774
+
+Prueba #1124
+Nivel de agua: 6.66
+Variacion de nivel: -1.48
+P. esperada: 0.67
+P. obtenida: 0.991941
+
+Prueba #1125
+Nivel de agua: 6.45
+Variacion de nivel: 1.26
+P. esperada: 0.67
+P. obtenida: 0.990922
+
+Prueba #1126
+Nivel de agua: 6.59
+Variacion de nivel: -0.86
+P. esperada: 0.67
+P. obtenida: 0.991833
+
+Prueba #1127
+Nivel de agua: 6.77
+Variacion de nivel: -1.1
+P. esperada: 0.67
+P. obtenida: 0.991247
+
+Prueba #1128
+Nivel de agua: 6.51
+Variacion de nivel: 1.59
+P. esperada: 0.67
+P. obtenida: 0.990451
+
+Prueba #1129
+Nivel de agua: 6.73
+Variacion de nivel: -1.38
+P. esperada: 0.67
+P. obtenida: 0.991587
+
+Prueba #1130
+Nivel de agua: 6.72
+Variacion de nivel: 0.11
+P. esperada: 0.67
+P. obtenida: 0.99066
+
+Prueba #1131
+Nivel de agua: 6.72
+Variacion de nivel: 0
+P. esperada: 0.67
+P. obtenida: 0.990732
+
+Prueba #1132
+Nivel de agua: 6.63
+Variacion de nivel: 0.5
+P. esperada: 0.67
+P. obtenida: 0.990748
+
+Prueba #1133
+Nivel de agua: 6.63
+Variacion de nivel: 0.03
+P. esperada: 0.67
+P. obtenida: 0.991068
+
+Prueba #1134
+Nivel de agua: 6.62
+Variacion de nivel: 0.05
+P. esperada: 0.67
+P. obtenida: 0.991095
+
+Prueba #1135
+Nivel de agua: 6.56
+Variacion de nivel: 0.39
+P. esperada: 0.67
+P. obtenida: 0.991102
+
+Prueba #1136
+Nivel de agua: 6.61
+Variacion de nivel: -0.34
+P. esperada: 0.67
+P. obtenida: 0.9914
+
+Prueba #1137
+Nivel de agua: 6.64
+Variacion de nivel: -0.16
+P. esperada: 0.67
+P. obtenida: 0.991156
+
+Prueba #1138
+Nivel de agua: 6.21
+Variacion de nivel: 2.68
+P. esperada: 0.67
+P. obtenida: 0.990755
+
+Prueba #1139
+Nivel de agua: 6.54
+Variacion de nivel: -2.02
+P. esperada: 0.67
+P. obtenida: 0.99279
+
+Prueba #1140
+Nivel de agua: 6.13
+Variacion de nivel: 2.51
+P. esperada: 0.67
+P. obtenida: 0.991207
+
+Prueba #1141
+Nivel de agua: 6.14
+Variacion de nivel: -0.06
+P. esperada: 0.67
+P. obtenida: 0.993267
+
+Prueba #1142
+Nivel de agua: 6.07
+Variacion de nivel: 0.43
+P. esperada: 0.67
+P. obtenida: 0.993209
+
+Prueba #1143
+Nivel de agua: 6.05
+Variacion de nivel: 0.11
+P. esperada: 0.67
+P. obtenida: 0.993561
+
+Prueba #1144
+Nivel de agua: 6.07
+Variacion de nivel: -0.08
+P. esperada: 0.67
+P. obtenida: 0.993614
+
+Prueba #1145
+Nivel de agua: 6.19
+Variacion de nivel: -0.76
+P. esperada: 0.67
+P. obtenida: 0.993552
+
+Prueba #1146
+Nivel de agua: 6.01
+Variacion de nivel: 1.14
+P. esperada: 0.67
+P. obtenida: 0.992897
+
+Prueba #1147
+Nivel de agua: 6.34
+Variacion de nivel: -2
+P. esperada: 0.67
+P. obtenida: 0.99367
+
+Prueba #1148
+Nivel de agua: 6.32
+Variacion de nivel: 0.09
+P. esperada: 0.67
+P. obtenida: 0.992333
+
+Prueba #1149
+Nivel de agua: 6.02
+Variacion de nivel: 1.86
+P. esperada: 0.67
+P. obtenida: 0.992228
+
+Prueba #1150
+Nivel de agua: 6.35
+Variacion de nivel: -2.04
+P. esperada: 0.67
+P. obtenida: 0.993648
+
+Prueba #1151
+Nivel de agua: 6.36
+Variacion de nivel: -0.03
+P. esperada: 0.67
+P. obtenida: 0.992245
+
+Prueba #1152
+Nivel de agua: 6.27
+Variacion de nivel: 0.54
+P. esperada: 0.67
+P. obtenida: 0.992214
+
+Prueba #1153
+Nivel de agua: 6.25
+Variacion de nivel: 0.11
+P. esperada: 0.67
+P. obtenida: 0.992631
+
+Prueba #1154
+Nivel de agua: 6.33
+Variacion de nivel: -0.52
+P. esperada: 0.67
+P. obtenida: 0.992734
+
+Prueba #1155
+Nivel de agua: 6.12
+Variacion de nivel: 1.31
+P. esperada: 0.67
+P. obtenida: 0.99226
+
+Prueba #1156
+Nivel de agua: 6.08
+Variacion de nivel: 0.29
+P. esperada: 0.67
+P. obtenida: 0.993275
+
+Prueba #1157
+Nivel de agua: 6.25
+Variacion de nivel: -1.06
+P. esperada: 0.67
+P. obtenida: 0.993482
+
+Prueba #1158
+Nivel de agua: 5.97
+Variacion de nivel: 1.74
+P. esperada: 0.67
+P. obtenida: 0.992553
+
+Prueba #1159
+Nivel de agua: 5.9
+Variacion de nivel: 0.45
+P. esperada: 0.67
+P. obtenida: 0.994008
+
+Prueba #1160
+Nivel de agua: 5.89
+Variacion de nivel: 0.02
+P. esperada: 0.67
+P. obtenida: 0.994414
+
+Prueba #1161
+Nivel de agua: 5.71
+Variacion de nivel: 1.1
+P. esperada: 0.67
+P. obtenida: 0.994367
+
+Prueba #1162
+Nivel de agua: 5.7
+Variacion de nivel: 0.08
+P. esperada: 0.67
+P. obtenida: 0.995329
+
+Prueba #1163
+Nivel de agua: 5.68
+Variacion de nivel: 0.13
+P. esperada: 0.67
+P. obtenida: 0.995391
+
+Prueba #1164
+Nivel de agua: 5.7
+Variacion de nivel: -0.11
+P. esperada: 0.67
+P. obtenida: 0.995486
+
+Prueba #1165
+Nivel de agua: 5.62
+Variacion de nivel: 0.46
+P. esperada: 0.67
+P. obtenida: 0.995415
+
+Prueba #1166
+Nivel de agua: 5.83
+Variacion de nivel: -1.27
+P. esperada: 0.67
+P. obtenida: 0.995663
+
+Prueba #1167
+Nivel de agua: 5.57
+Variacion de nivel: 1.64
+P. esperada: 0.67
+P. obtenida: 0.994525
+
+Prueba #1168
+Nivel de agua: 5.92
+Variacion de nivel: -2.17
+P. esperada: 0.67
+P. obtenida: 0.995716
+
+Prueba #1169
+Nivel de agua: 5.92
+Variacion de nivel: -0
+P. esperada: 0.67
+P. obtenida: 0.994281
+
+Prueba #1170
+Nivel de agua: 5.61
+Variacion de nivel: 1.93
+P. esperada: 0.67
+P. obtenida: 0.994028
+
+Prueba #1171
+Nivel de agua: 5.94
+Variacion de nivel: -1.98
+P. esperada: 0.67
+P. obtenida: 0.99553
+
+Prueba #1172
+Nivel de agua: 5.91
+Variacion de nivel: 0.15
+P. esperada: 0.67
+P. obtenida: 0.994208
+
+Prueba #1173
+Nivel de agua: 5.78
+Variacion de nivel: 0.83
+P. esperada: 0.67
+P. obtenida: 0.994268
+
+Prueba #1174
+Nivel de agua: 5.86
+Variacion de nivel: -0.52
+P. esperada: 0.67
+P. obtenida: 0.994988
+
+Prueba #1175
+Nivel de agua: 5.89
+Variacion de nivel: -0.15
+P. esperada: 0.67
+P. obtenida: 0.99455
+
+Prueba #1176
+Nivel de agua: 5.63
+Variacion de nivel: 1.61
+P. esperada: 0.67
+P. obtenida: 0.994262
+
+Prueba #1177
+Nivel de agua: 5.69
+Variacion de nivel: -0.38
+P. esperada: 0.67
+P. obtenida: 0.995752
+
+Prueba #1178
+Nivel de agua: 5.84
+Variacion de nivel: -0.94
+P. esperada: 0.67
+P. obtenida: 0.995394
+
+Prueba #1179
+Nivel de agua: 5.39
+Variacion de nivel: 2.78
+P. esperada: 0.67
+P. obtenida: 0.994061
+
+Prueba #1180
+Nivel de agua: 5.58
+Variacion de nivel: -1.16
+P. esperada: 0.67
+P. obtenida: 0.996861
+
+Prueba #1181
+Nivel de agua: 5.34
+Variacion de nivel: 1.42
+P. esperada: 0.67
+P. obtenida: 0.995925
+
+Prueba #1182
+Nivel de agua: 5.29
+Variacion de nivel: 0.31
+P. esperada: 0.67
+P. obtenida: 0.997309
+
+Prueba #1183
+Nivel de agua: 5.24
+Variacion de nivel: 0.32
+P. esperada: 0.67
+P. obtenida: 0.997572
+
+Prueba #1184
+Nivel de agua: 5.26
+Variacion de nivel: -0.1
+P. esperada: 0.67
+P. obtenida: 0.997819
+
+Prueba #1185
+Nivel de agua: 5.21
+Variacion de nivel: 0.25
+P. esperada: 0.67
+P. obtenida: 0.997797
+
+Prueba #1186
+Nivel de agua: 5.18
+Variacion de nivel: 0.19
+P. esperada: 0.67
+P. obtenida: 0.998012
+
+Prueba #1187
+Nivel de agua: 5.34
+Variacion de nivel: -0.96
+P. esperada: 0.67
+P. obtenida: 0.997976
+
+Prueba #1188
+Nivel de agua: 5.12
+Variacion de nivel: 1.35
+P. esperada: 0.67
+P. obtenida: 0.997158
+
+Prueba #1189
+Nivel de agua: 5.48
+Variacion de nivel: -2.22
+P. esperada: 0.67
+P. obtenida: 0.99774
+
+Prueba #1190
+Nivel de agua: 5.49
+Variacion de nivel: -0.06
+P. esperada: 0.67
+P. obtenida: 0.996551
+
+Prueba #1191
+Nivel de agua: 5.18
+Variacion de nivel: 1.93
+P. esperada: 0.67
+P. obtenida: 0.996142
+
+Prueba #1192
+Nivel de agua: 5.52
+Variacion de nivel: -2.04
+P. esperada: 0.67
+P. obtenida: 0.997531
+
+Prueba #1193
+Nivel de agua: 5.5
+Variacion de nivel: 0.1
+P. esperada: 0.67
+P. obtenida: 0.996363
+
+Prueba #1194
+Nivel de agua: 5.11
+Variacion de nivel: 2.39
+P. esperada: 0.67
+P. obtenida: 0.995871
+
+Prueba #1195
+Nivel de agua: 5.46
+Variacion de nivel: -2.11
+P. esperada: 0.67
+P. obtenida: 0.997812
+
+Prueba #1196
+Nivel de agua: 5.49
+Variacion de nivel: -0.18
+P. esperada: 0.67
+P. obtenida: 0.996648
+
+Prueba #1197
+Nivel de agua: 5.15
+Variacion de nivel: 2.06
+P. esperada: 0.67
+P. obtenida: 0.996125
+
+Prueba #1198
+Nivel de agua: 5.29
+Variacion de nivel: -0.85
+P. esperada: 0.67
+P. obtenida: 0.998172
+
+Prueba #1199
+Nivel de agua: 5.36
+Variacion de nivel: -0.45
+P. esperada: 0.67
+P. obtenida: 0.997547
+
+Prueba #1200
+Nivel de agua: 4.98
+Variacion de nivel: 2.33
+P. esperada: 0.67
+P. obtenida: 0.996573
+
+Prueba #1201
+Nivel de agua: 5.29
+Variacion de nivel: -1.85
+P. esperada: 0.67
+P. obtenida: 0.998521
+
+Prueba #1202
+Nivel de agua: 5.01
+Variacion de nivel: 1.66
+P. esperada: 0.67
+P. obtenida: 0.997354
+
+Prueba #1203
+Nivel de agua: 4.87
+Variacion de nivel: 0.85
+P. esperada: 0.67
+P. obtenida: 0.999053
+
+Prueba #1204
+Nivel de agua: 4.93
+Variacion de nivel: -0.34
+P. esperada: 0.67
+P. obtenida: 0.999725
+
+Prueba #1205
+Nivel de agua: 4.82
+Variacion de nivel: 0.66
+P. esperada: 0.67
+P. obtenida: 0.999513
+
+Prueba #1206
+Nivel de agua: 4.89
+Variacion de nivel: -0.4
+P. esperada: 0.67
+P. obtenida: 0.999957
+
+Prueba #1207
+Nivel de agua: 4.82
+Variacion de nivel: 0.44
+P. esperada: 0.67
+P. obtenida: 0.99972
+
+Prueba #1208
+Nivel de agua: 5
+Variacion de nivel: -1.12
+P. esperada: 0.67
+P. obtenida: 0.999696
+
+Prueba #1209
+Nivel de agua: 4.78
+Variacion de nivel: 1.33
+P. esperada: 0.67
+P. obtenida: 0.998965
+
+Prueba #1210
+Nivel de agua: 5.05
+Variacion de nivel: -1.61
+P. esperada: 0.67
+P. obtenida: 0.999519
+
+Prueba #1211
+Nivel de agua: 5.22
+Variacion de nivel: -1.01
+P. esperada: 0.67
+P. obtenida: 0.998609
+
+Prueba #1212
+Nivel de agua: 4.72
+Variacion de nivel: 2.99
+P. esperada: 0.67
+P. obtenida: 0.996549
+
+Prueba #1213
+Nivel de agua: 4.97
+Variacion de nivel: -1.47
+P. esperada: 0.67
+P. obtenida: 0.999846
+
+Prueba #1214
+Nivel de agua: 5.15
+Variacion de nivel: -1.13
+P. esperada: 0.67
+P. obtenida: 0.999
+
+Prueba #1215
+Nivel de agua: 4.78
+Variacion de nivel: 2.27
+P. esperada: 0.67
+P. obtenida: 0.997601
+
+Prueba #1216
+Nivel de agua: 4.9
+Variacion de nivel: -0.74
+P. esperada: 0.67
+P. obtenida: 1.00005
+
+Prueba #1217
+Nivel de agua: 5.05
+Variacion de nivel: -0.94
+P. esperada: 0.67
+P. obtenida: 0.999413
+
+Prueba #1218
+Nivel de agua: 4.8
+Variacion de nivel: 1.52
+P. esperada: 0.67
+P. obtenida: 0.998615
+
+Prueba #1219
+Nivel de agua: 4.68
+Variacion de nivel: 0.78
+P. esperada: 0.67
+P. obtenida: 1.00011
+
+Prueba #1220
+Nivel de agua: 5.02
+Variacion de nivel: -2.08
+P. esperada: 0.67
+P. obtenida: 0.999502
+
+Prueba #1221
+Nivel de agua: 4.63
+Variacion de nivel: 2.41
+P. esperada: 0.67
+P. obtenida: 0.99802
+
+Prueba #1222
+Nivel de agua: 4.75
+Variacion de nivel: -0.77
+P. esperada: 0.67
+P. obtenida: 1.00072
+
+Prueba #1223
+Nivel de agua: 4.75
+Variacion de nivel: 0.01
+P. esperada: 0.67
+P. obtenida: 1.00041
+
+Prueba #1224
+Nivel de agua: 4.47
+Variacion de nivel: 1.69
+P. esperada: 0.67
+P. obtenida: 0.999945
+
+Prueba #1225
+Nivel de agua: 4.49
+Variacion de nivel: -0.1
+P. esperada: 0.67
+P. obtenida: 1.00163
+
+Prueba #1226
+Nivel de agua: 4.48
+Variacion de nivel: 0.08
+P. esperada: 0.67
+P. obtenida: 1.00159
+
+Prueba #1227
+Nivel de agua: 4.46
+Variacion de nivel: 0.1
+P. esperada: 0.67
+P. obtenida: 1.00167
+
+Prueba #1228
+Nivel de agua: 4.45
+Variacion de nivel: 0.07
+P. esperada: 0.67
+P. obtenida: 1.00172
+
+Prueba #1229
+Nivel de agua: 4.48
+Variacion de nivel: -0.19
+P. esperada: 0.67
+P. obtenida: 1.00169
+
+Prueba #1230
+Nivel de agua: 4.41
+Variacion de nivel: 0.4
+P. esperada: 0.67
+P. obtenida: 1.0017
+
+Prueba #1231
+Nivel de agua: 4.41
+Variacion de nivel: 0.02
+P. esperada: 0.67
+P. obtenida: 1.00189
+
+Prueba #1232
+Nivel de agua: 4.74
+Variacion de nivel: -2
+P. esperada: 0.67
+P. obtenida: 1.00022
+
+Prueba #1233
+Nivel de agua: 4.57
+Variacion de nivel: 1.03
+P. esperada: 0.67
+P. obtenida: 1.00038
+
+Prueba #1234
+Nivel de agua: 4.37
+Variacion de nivel: 1.23
+P. esperada: 0.67
+P. obtenida: 1.00104
+
+Prueba #1235
+Nivel de agua: 4.7
+Variacion de nivel: -2.02
+P. esperada: 0.67
+P. obtenida: 1.00025
+
+Prueba #1236
+Nivel de agua: 4.65
+Variacion de nivel: 0.27
+P. esperada: 0.67
+P. obtenida: 1.00071
+
+Prueba #1237
+Nivel de agua: 4.35
+Variacion de nivel: 1.84
+P. esperada: 0.67
+P. obtenida: 1.00019
+
+Prueba #1238
+Nivel de agua: 4.64
+Variacion de nivel: -1.77
+P. esperada: 0.67
+P. obtenida: 1.00063
+
+Prueba #1239
+Nivel de agua: 4.63
+Variacion de nivel: 0.12
+P. esperada: 0.67
+P. obtenida: 1.00091
+
+Prueba #1240
+Nivel de agua: 4.24
+Variacion de nivel: 2.34
+P. esperada: 0.67
+P. obtenida: 0.999569
+
+Prueba #1241
+Nivel de agua: 4.58
+Variacion de nivel: -2.07
+P. esperada: 0.67
+P. obtenida: 1.00024
+
+Prueba #1242
+Nivel de agua: 4.53
+Variacion de nivel: 0.32
+P. esperada: 0.67
+P. obtenida: 1.00124
+
+Prueba #1243
+Nivel de agua: 4.13
+Variacion de nivel: 2.45
+P. esperada: 0.67
+P. obtenida: 0.999576
+
+Prueba #1244
+Nivel de agua: 4.36
+Variacion de nivel: -1.39
+P. esperada: 0.67
+P. obtenida: 1.00134
+
+Prueba #1245
+Nivel de agua: 4.09
+Variacion de nivel: 1.63
+P. esperada: 0.67
+P. obtenida: 1.00141
+
+Prueba #1246
+Nivel de agua: 4.1
+Variacion de nivel: -0.04
+P. esperada: 0.67
+P. obtenida: 1.00273
+
+Prueba #1247
+Nivel de agua: 4.1
+Variacion de nivel: -0.04
+P. esperada: 0.67
+P. obtenida: 1.00273
+
+Prueba #1248
+Nivel de agua: 4.05
+Variacion de nivel: 0.29
+P. esperada: 0.67
+P. obtenida: 1.00282
+
+Prueba #1249
+Nivel de agua: 4.02
+Variacion de nivel: 0.18
+P. esperada: 0.67
+P. obtenida: 1.00286
+
+Prueba #1250
+Nivel de agua: 4.01
+Variacion de nivel: 0.08
+P. esperada: 0.67
+P. obtenida: 1.00286
+
+Prueba #1251
+Nivel de agua: 4.12
+Variacion de nivel: -0.69
+P. esperada: 0.67
+P. obtenida: 1.00227
+
+Prueba #1252
+Nivel de agua: 4.21
+Variacion de nivel: -0.52
+P. esperada: 0.67
+P. obtenida: 1.00237
+
+Prueba #1253
+Nivel de agua: 3.91
+Variacion de nivel: 1.78
+P. esperada: 0.67
+P. obtenida: 1.00147
+
+Prueba #1254
+Nivel de agua: 4.3
+Variacion de nivel: -2.31
+P. esperada: 0.67
+P. obtenida: 0.998914
+
+Prueba #1255
+Nivel de agua: 4.21
+Variacion de nivel: 0.53
+P. esperada: 0.67
+P. obtenida: 1.00233
+
+Prueba #1256
+Nivel de agua: 3.92
+Variacion de nivel: 1.77
+P. esperada: 0.67
+P. obtenida: 1.00148
+
+Prueba #1257
+Nivel de agua: 4.27
+Variacion de nivel: -2.13
+P. esperada: 0.67
+P. obtenida: 0.999397
+
+Prueba #1258
+Nivel de agua: 4.3
+Variacion de nivel: -0.16
+P. esperada: 0.67
+P. obtenida: 1.00229
+
+Prueba #1259
+Nivel de agua: 3.81
+Variacion de nivel: 2.95
+P. esperada: 0.67
+P. obtenida: 0.998067
+
+Prueba #1260
+Nivel de agua: 4.18
+Variacion de nivel: -2.25
+P. esperada: 0.67
+P. obtenida: 0.9984
+
+Prueba #1261
+Nivel de agua: 4.23
+Variacion de nivel: -0.31
+P. esperada: 0.67
+P. obtenida: 1.00243
+
+Prueba #1262
+Nivel de agua: 3.79
+Variacion de nivel: 2.68
+P. esperada: 0.67
+P. obtenida: 0.999021
+
+Prueba #1263
+Nivel de agua: 4.11
+Variacion de nivel: -1.95
+P. esperada: 0.67
+P. obtenida: 0.999157
+
+Prueba #1264
+Nivel de agua: 4.04
+Variacion de nivel: 0.42
+P. esperada: 0.67
+P. obtenida: 1.0028
+
+Prueba #1265
+Nivel de agua: 3.76
+Variacion de nivel: 1.7
+P. esperada: 0.67
+P. obtenida: 1.00168
+
+Prueba #1266
+Nivel de agua: 3.88
+Variacion de nivel: -0.69
+P. esperada: 0.67
+P. obtenida: 1.00186
+
+Prueba #1267
+Nivel de agua: 3.73
+Variacion de nivel: 0.91
+P. esperada: 0.67
+P. obtenida: 1.00273
+
+Prueba #1268
+Nivel de agua: 3.68
+Variacion de nivel: 0.25
+P. esperada: 0.67
+P. obtenida: 1.0026
+
+Prueba #1269
+Nivel de agua: 3.73
+Variacion de nivel: -0.3
+P. esperada: 0.67
+P. obtenida: 1.00206
+
+Prueba #1270
+Nivel de agua: 3.64
+Variacion de nivel: 0.58
+P. esperada: 0.67
+P. obtenida: 1.00264
+
+Prueba #1271
+Nivel de agua: 3.69
+Variacion de nivel: -0.3
+P. esperada: 0.67
+P. obtenida: 1.00187
+
+Prueba #1272
+Nivel de agua: 3.59
+Variacion de nivel: 0.62
+P. esperada: 0.67
+P. obtenida: 1.00248
+
+Prueba #1273
+Nivel de agua: 3.62
+Variacion de nivel: -0.19
+P. esperada: 0.67
+P. obtenida: 1.00171
+
+Prueba #1274
+Nivel de agua: 3.99
+Variacion de nivel: -2.23
+P. esperada: 0.67
+P. obtenida: 0.996716
+
+Prueba #1275
+Nivel de agua: 3.64
+Variacion de nivel: 2.1
+P. esperada: 0.67
+P. obtenida: 1.00057
+
+Prueba #1276
+Nivel de agua: 3.64
+Variacion de nivel: -0.03
+P. esperada: 0.67
+P. obtenida: 1.00211
+
+Prueba #1277
+Nivel de agua: 3.96
+Variacion de nivel: -1.93
+P. esperada: 0.67
+P. obtenida: 0.998022
+
+Prueba #1278
+Nivel de agua: 3.59
+Variacion de nivel: 2.24
+P. esperada: 0.67
+P. obtenida: 1.00001
+
+Prueba #1279
+Nivel de agua: 3.59
+Variacion de nivel: 0
+P. esperada: 0.67
+P. obtenida: 1.0019
+
+Prueba #1280
+Nivel de agua: 3.86
+Variacion de nivel: -1.58
+P. esperada: 0.67
+P. obtenida: 0.998763
+
+Prueba #1281
+Nivel de agua: 3.64
+Variacion de nivel: 1.3
+P. esperada: 0.67
+P. obtenida: 1.00222
+
+Prueba #1282
+Nivel de agua: 3.51
+Variacion de nivel: 0.81
+P. esperada: 0.67
+P. obtenida: 1.00216
+
+Prueba #1283
+Nivel de agua: 3.82
+Variacion de nivel: -1.91
+P. esperada: 0.67
+P. obtenida: 0.996503
+
+Prueba #1284
+Nivel de agua: 3.66
+Variacion de nivel: 1
+P. esperada: 0.67
+P. obtenida: 1.00256
+
+Prueba #1285
+Nivel de agua: 3.44
+Variacion de nivel: 1.35
+P. esperada: 0.67
+P. obtenida: 1.00144
+
+Prueba #1286
+Nivel de agua: 3.82
+Variacion de nivel: -2.27
+P. esperada: 0.67
+P. obtenida: 0.993986
+
+Prueba #1287
+Nivel de agua: 3.43
+Variacion de nivel: 2.36
+P. esperada: 0.67
+P. obtenida: 0.998809
+
+Prueba #1288
+Nivel de agua: 3.36
+Variacion de nivel: 0.43
+P. esperada: 0.67
+P. obtenida: 1.00089
+
+Prueba #1289
+Nivel de agua: 3.47
+Variacion de nivel: -0.66
+P. esperada: 0.67
+P. obtenida: 0.998794
+
+Prueba #1290
+Nivel de agua: 3.28
+Variacion de nivel: 1.14
+P. esperada: 0.67
+P. obtenida: 1.00049
+
+Prueba #1291
+Nivel de agua: 3.32
+Variacion de nivel: -0.28
+P. esperada: 0.67
+P. obtenida: 0.998436
+
+Prueba #1292
+Nivel de agua: 3.26
+Variacion de nivel: 0.4
+P. esperada: 0.67
+P. obtenida: 0.999774
+
+Prueba #1293
+Nivel de agua: 3.23
+Variacion de nivel: 0.15
+P. esperada: 0.67
+P. obtenida: 0.998733
+
+Prueba #1294
+Nivel de agua: 3.3
+Variacion de nivel: -0.41
+P. esperada: 0.67
+P. obtenida: 0.997526
+
+Prueba #1295
+Nivel de agua: 3.21
+Variacion de nivel: 0.53
+P. esperada: 0.67
+P. obtenida: 0.999391
+
+Prueba #1296
+Nivel de agua: 3.36
+Variacion de nivel: -0.89
+P. esperada: 0.67
+P. obtenida: 0.995792
+
+Prueba #1297
+Nivel de agua: 3.52
+Variacion de nivel: -0.92
+P. esperada: 0.67
+P. obtenida: 0.998178
+
+Prueba #1298
+Nivel de agua: 3.16
+Variacion de nivel: 2.12
+P. esperada: 0.67
+P. obtenida: 0.997212
+
+Prueba #1299
+Nivel de agua: 3.41
+Variacion de nivel: -1.48
+P. esperada: 0.67
+P. obtenida: 0.992251
+
+Prueba #1300
+Nivel de agua: 3.54
+Variacion de nivel: -0.74
+P. esperada: 0.67
+P. obtenida: 0.999283
+
+Prueba #1301
+Nivel de agua: 3.12
+Variacion de nivel: 2.49
+P. esperada: 0.67
+P. obtenida: 0.995058
+
+Prueba #1302
+Nivel de agua: 3.29
+Variacion de nivel: -1.06
+P. esperada: 0.67
+P. obtenida: 0.993051
+
+Prueba #1303
+Nivel de agua: 3.49
+Variacion de nivel: -1.17
+P. esperada: 0.67
+P. obtenida: 0.996263
+
+Prueba #1304
+Nivel de agua: 3.19
+Variacion de nivel: 1.79
+P. esperada: 0.67
+P. obtenida: 0.998596
+
+Prueba #1305
+Nivel de agua: 3.08
+Variacion de nivel: 0.65
+P. esperada: 0.67
+P. obtenida: 0.997678
+
+Prueba #1306
+Nivel de agua: 3.42
+Variacion de nivel: -2.04
+P. esperada: 0.67
+P. obtenida: 0.986591
+
+Prueba #1307
+Nivel de agua: 3.1
+Variacion de nivel: 1.94
+P. esperada: 0.67
+P. obtenida: 0.997044
+
+Prueba #1308
+Nivel de agua: 8.96
+Variacion de nivel: 1.79
+P. esperada: 1
+P. obtenida: 0.984501
+
+Prueba #1309
+Nivel de agua: 8.82
+Variacion de nivel: 1.77
+P. esperada: 1
+P. obtenida: 0.984697
+
+Prueba #1310
+Nivel de agua: 8.65
+Variacion de nivel: 1.05
+P. esperada: 1
+P. obtenida: 0.98515
+
+Prueba #1311
+Nivel de agua: 8.73
+Variacion de nivel: -0.52
+P. esperada: 1
+P. obtenida: 0.985484
+
+Prueba #1312
+Nivel de agua: 8.66
+Variacion de nivel: 0.48
+P. esperada: 1
+P. obtenida: 0.985301
+
+Prueba #1313
+Nivel de agua: 8.9
+Variacion de nivel: -1.49
+P. esperada: 1
+P. obtenida: 0.985481
+
+Prueba #1314
+Nivel de agua: 8.91
+Variacion de nivel: 1.4
+P. esperada: 1
+P. obtenida: 0.984664
+
+Prueba #1315
+Nivel de agua: 8.8
+Variacion de nivel: 1.89
+P. esperada: 1
+P. obtenida: 0.984695
+
+Prueba #1316
+Nivel de agua: 8.73
+Variacion de nivel: 0.46
+P. esperada: 1
+P. obtenida: 0.985191
+
+Prueba #1317
+Nivel de agua: 8.63
+Variacion de nivel: 0.61
+P. esperada: 1
+P. obtenida: 0.985313
+
+Prueba #1318
+Nivel de agua: 8.52
+Variacion de nivel: 0.75
+P. esperada: 1
+P. obtenida: 0.98546
+
+Prueba #1319
+Nivel de agua: 8.31
+Variacion de nivel: 1.29
+P. esperada: 1
+P. obtenida: 0.985666
+
+Prueba #1320
+Nivel de agua: 8.21
+Variacion de nivel: 0.62
+P. esperada: 1
+P. obtenida: 0.986093
+
+Prueba #1321
+Nivel de agua: 8.31
+Variacion de nivel: -0.61
+P. esperada: 1
+P. obtenida: 0.986334
+
+Prueba #1322
+Nivel de agua: 8.43
+Variacion de nivel: -0.75
+P. esperada: 1
+P. obtenida: 0.986133
+
+Prueba #1323
+Nivel de agua: 8.65
+Variacion de nivel: -1.38
+P. esperada: 1
+P. obtenida: 0.98591
+
+Prueba #1324
+Nivel de agua: 8.44
+Variacion de nivel: 1.3
+P. esperada: 1
+P. obtenida: 0.985429
+
+Prueba #1325
+Nivel de agua: 8.66
+Variacion de nivel: -1.36
+P. esperada: 1
+P. obtenida: 0.985884
+
+Prueba #1326
+Nivel de agua: 8.76
+Variacion de nivel: -0.59
+P. esperada: 1
+P. obtenida: 0.985453
+
+Prueba #1327
+Nivel de agua: 8.38
+Variacion de nivel: 2.37
+P. esperada: 1
+P. obtenida: 0.985203
+
+Prueba #1328
+Nivel de agua: 8.5
+Variacion de nivel: -0.72
+P. esperada: 1
+P. obtenida: 0.985981
+
+Prueba #1329
+Nivel de agua: 8.28
+Variacion de nivel: 1.36
+P. esperada: 1
+P. obtenida: 0.985699
+
+Prueba #1330
+Nivel de agua: 8.16
+Variacion de nivel: 0.75
+P. esperada: 1
+P. obtenida: 0.986148
+
+Prueba #1331
+Nivel de agua: 7.98
+Variacion de nivel: 1.12
+P. esperada: 1
+P. obtenida: 0.98639
+
+Prueba #1332
+Nivel de agua: 7.87
+Variacion de nivel: 0.73
+P. esperada: 1
+P. obtenida: 0.986795
+
+Prueba #1333
+Nivel de agua: 7.88
+Variacion de nivel: -0.06
+P. esperada: 1
+P. obtenida: 0.987105
+
+Prueba #1334
+Nivel de agua: 8.04
+Variacion de nivel: -1.02
+P. esperada: 1
+P. obtenida: 0.987118
+
+Prueba #1335
+Nivel de agua: 8.03
+Variacion de nivel: 0.07
+P. esperada: 1
+P. obtenida: 0.986693
+
+Prueba #1336
+Nivel de agua: 7.98
+Variacion de nivel: 0.31
+P. esperada: 1
+P. obtenida: 0.986711
+
+Prueba #1337
+Nivel de agua: 8.24
+Variacion de nivel: -1.6
+P. esperada: 1
+P. obtenida: 0.986873
+
+Prueba #1338
+Nivel de agua: 8.39
+Variacion de nivel: -0.93
+P. esperada: 1
+P. obtenida: 0.986281
+
+Prueba #1339
+Nivel de agua: 7.98
+Variacion de nivel: 2.54
+P. esperada: 1
+P. obtenida: 0.985861
+
+Prueba #1340
+Nivel de agua: 8.14
+Variacion de nivel: -0.96
+P. esperada: 1
+P. obtenida: 0.986852
+
+Prueba #1341
+Nivel de agua: 7.85
+Variacion de nivel: 1.81
+P. esperada: 1
+P. obtenida: 0.986403
+
+Prueba #1342
+Nivel de agua: 7.78
+Variacion de nivel: 0.42
+P. esperada: 1
+P. obtenida: 0.987146
+
+Prueba #1343
+Nivel de agua: 7.74
+Variacion de nivel: 0.24
+P. esperada: 1
+P. obtenida: 0.987327
+
+Prueba #1344
+Nivel de agua: 7.6
+Variacion de nivel: 0.86
+P. esperada: 1
+P. obtenida: 0.987407
+
+Prueba #1345
+Nivel de agua: 7.5
+Variacion de nivel: 0.64
+P. esperada: 1
+P. obtenida: 0.98778
+
+Prueba #1346
+Nivel de agua: 7.54
+Variacion de nivel: -0.26
+P. esperada: 1
+P. obtenida: 0.98811
+
+Prueba #1347
+Nivel de agua: 7.52
+Variacion de nivel: 0.14
+P. esperada: 1
+P. obtenida: 0.987969
+
+Prueba #1348
+Nivel de agua: 7.57
+Variacion de nivel: -0.33
+P. esperada: 1
+P. obtenida: 0.988058
+
+Prueba #1349
+Nivel de agua: 7.52
+Variacion de nivel: 0.27
+P. esperada: 1
+P. obtenida: 0.987905
+
+Prueba #1350
+Nivel de agua: 7.93
+Variacion de nivel: -2.55
+P. esperada: 1
+P. obtenida: 0.988084
+
+Prueba #1351
+Nivel de agua: 7.75
+Variacion de nivel: 1.15
+P. esperada: 1
+P. obtenida: 0.986903
+
+Prueba #1352
+Nivel de agua: 7.46
+Variacion de nivel: 1.81
+P. esperada: 1
+P. obtenida: 0.987326
+
+Prueba #1353
+Nivel de agua: 7.51
+Variacion de nivel: -0.34
+P. esperada: 1
+P. obtenida: 0.988237
+
+Prueba #1354
+Nivel de agua: 7.44
+Variacion de nivel: 0.43
+P. esperada: 1
+P. obtenida: 0.988053
+
+Prueba #1355
+Nivel de agua: 7.12
+Variacion de nivel: 1.99
+P. esperada: 1
+P. obtenida: 0.988166
+
+Prueba #1356
+Nivel de agua: 7.07
+Variacion de nivel: 0.34
+P. esperada: 1
+P. obtenida: 0.989253
+
+Prueba #1357
+Nivel de agua: 6.99
+Variacion de nivel: 0.48
+P. esperada: 1
+P. obtenida: 0.989442
+
+Prueba #1358
+Nivel de agua: 6.96
+Variacion de nivel: 0.2
+P. esperada: 1
+P. obtenida: 0.989715
+
+Prueba #1359
+Nivel de agua: 7.02
+Variacion de nivel: -0.39
+P. esperada: 1
+P. obtenida: 0.989858
+
+Prueba #1360
+Nivel de agua: 6.92
+Variacion de nivel: 0.66
+P. esperada: 1
+P. obtenida: 0.989575
+
+Prueba #1361
+Nivel de agua: 7.17
+Variacion de nivel: -1.6
+P. esperada: 1
+P. obtenida: 0.990027
+
+Prueba #1362
+Nivel de agua: 7.14
+Variacion de nivel: 0.23
+P. esperada: 1
+P. obtenida: 0.989084
+
+Prueba #1363
+Nivel de agua: 7.26
+Variacion de nivel: -0.74
+P. esperada: 1
+P. obtenida: 0.989232
+
+Prueba #1364
+Nivel de agua: 7.11
+Variacion de nivel: 0.92
+P. esperada: 1
+P. obtenida: 0.98879
+
+Prueba #1365
+Nivel de agua: 7.05
+Variacion de nivel: 0.33
+P. esperada: 1
+P. obtenida: 0.989327
+
+Prueba #1366
+Nivel de agua: 6.93
+Variacion de nivel: 0.76
+P. esperada: 1
+P. obtenida: 0.989479
+
+Prueba #1367
+Nivel de agua: 7.04
+Variacion de nivel: -0.66
+P. esperada: 1
+P. obtenida: 0.989947
+
+Prueba #1368
+Nivel de agua: 6.53
+Variacion de nivel: 3.1
+P. esperada: 1
+P. obtenida: 0.989307
+
+Prueba #1369
+Nivel de agua: 6.47
+Variacion de nivel: 0.37
+P. esperada: 1
+P. obtenida: 0.991485
+
+Prueba #1370
+Nivel de agua: 6.53
+Variacion de nivel: -0.34
+P. esperada: 1
+P. obtenida: 0.991733
+
+Prueba #1371
+Nivel de agua: 6.47
+Variacion de nivel: 0.38
+P. esperada: 1
+P. obtenida: 0.991478
+
+Prueba #1372
+Nivel de agua: 6.43
+Variacion de nivel: 0.2
+P. esperada: 1
+P. obtenida: 0.991775
+
+Prueba #1373
+Nivel de agua: 6.57
+Variacion de nivel: -0.86
+P. esperada: 1
+P. obtenida: 0.991918
+
+Prueba #1374
+Nivel de agua: 6.49
+Variacion de nivel: 0.5
+P. esperada: 1
+P. obtenida: 0.991309
+
+Prueba #1375
+Nivel de agua: 6.76
+Variacion de nivel: -1.67
+P. esperada: 1
+P. obtenida: 0.991644
+
+Prueba #1376
+Nivel de agua: 6.73
+Variacion de nivel: 0.17
+P. esperada: 1
+P. obtenida: 0.990582
+
+Prueba #1377
+Nivel de agua: 6.69
+Variacion de nivel: 0.26
+P. esperada: 1
+P. obtenida: 0.990677
+
+Prueba #1378
+Nivel de agua: 6.66
+Variacion de nivel: 0.19
+P. esperada: 1
+P. obtenida: 0.990841
+
+Prueba #1379
+Nivel de agua: 6.44
+Variacion de nivel: 1.37
+P. esperada: 1
+P. obtenida: 0.990881
+
+Prueba #1380
+Nivel de agua: 6.35
+Variacion de nivel: 0.51
+P. esperada: 1
+P. obtenida: 0.991889
+
+Prueba #1381
+Nivel de agua: 6.18
+Variacion de nivel: 1.07
+P. esperada: 1
+P. obtenida: 0.992193
+
+Prueba #1382
+Nivel de agua: 6.11
+Variacion de nivel: 0.43
+P. esperada: 1
+P. obtenida: 0.993023
+
+Prueba #1383
+Nivel de agua: 6.1
+Variacion de nivel: 0.04
+P. esperada: 1
+P. obtenida: 0.993378
+
+Prueba #1384
+Nivel de agua: 6.01
+Variacion de nivel: 0.58
+P. esperada: 1
+P. obtenida: 0.993369
+
+Prueba #1385
+Nivel de agua: 6.02
+Variacion de nivel: -0.05
+P. esperada: 1
+P. obtenida: 0.993831
+
+Prueba #1386
+Nivel de agua: 6.2
+Variacion de nivel: -1.08
+P. esperada: 1
+P. obtenida: 0.99373
+
+Prueba #1387
+Nivel de agua: 6.09
+Variacion de nivel: 0.68
+P. esperada: 1
+P. obtenida: 0.992914
+
+Prueba #1388
+Nivel de agua: 6.16
+Variacion de nivel: -0.45
+P. esperada: 1
+P. obtenida: 0.993468
+
+Prueba #1389
+Nivel de agua: 6.14
+Variacion de nivel: 0.11
+P. esperada: 1
+P. obtenida: 0.993136
+
+Prueba #1390
+Nivel de agua: 6.24
+Variacion de nivel: -0.59
+P. esperada: 1
+P. obtenida: 0.993196
+
+Prueba #1391
+Nivel de agua: 6.2
+Variacion de nivel: 0.24
+P. esperada: 1
+P. obtenida: 0.992759
+
+Prueba #1392
+Nivel de agua: 5.96
+Variacion de nivel: 1.44
+P. esperada: 1
+P. obtenida: 0.992865
+
+Prueba #1393
+Nivel de agua: 5.99
+Variacion de nivel: -0.15
+P. esperada: 1
+P. obtenida: 0.994056
+
+Prueba #1394
+Nivel de agua: 5.76
+Variacion de nivel: 1.41
+P. esperada: 1
+P. obtenida: 0.993829
+
+Prueba #1395
+Nivel de agua: 5.7
+Variacion de nivel: 0.35
+P. esperada: 1
+P. obtenida: 0.995098
+
+Prueba #1396
+Nivel de agua: 5.66
+Variacion de nivel: 0.24
+P. esperada: 1
+P. obtenida: 0.9954
+
+Prueba #1397
+Nivel de agua: 5.62
+Variacion de nivel: 0.26
+P. esperada: 1
+P. obtenida: 0.995591
+
+Prueba #1398
+Nivel de agua: 5.59
+Variacion de nivel: 0.16
+P. esperada: 1
+P. obtenida: 0.995835
+
+Prueba #1399
+Nivel de agua: 5.61
+Variacion de nivel: -0.08
+P. esperada: 1
+P. obtenida: 0.995932
+
+Prueba #1400
+Nivel de agua: 5.79
+Variacion de nivel: -1.14
+P. esperada: 1
+P. obtenida: 0.995781
+
+Prueba #1401
+Nivel de agua: 5.72
+Variacion de nivel: 0.47
+P. esperada: 1
+P. obtenida: 0.994891
+
+Prueba #1402
+Nivel de agua: 5.9
+Variacion de nivel: -1.14
+P. esperada: 1
+P. obtenida: 0.995229
+
+Prueba #1403
+Nivel de agua: 5.6
+Variacion de nivel: 1.83
+P. esperada: 1
+P. obtenida: 0.994181
+
+Prueba #1404
+Nivel de agua: 5.87
+Variacion de nivel: -1.67
+P. esperada: 1
+P. obtenida: 0.995703
+
+Prueba #1405
+Nivel de agua: 5.53
+Variacion de nivel: 2.11
+P. esperada: 1
+P. obtenida: 0.994214
+
+Prueba #1406
+Nivel de agua: 5.71
+Variacion de nivel: -1.06
+P. esperada: 1
+P. obtenida: 0.996135
+
+Prueba #1407
+Nivel de agua: 5.34
+Variacion de nivel: 2.21
+P. esperada: 1
+P. obtenida: 0.995006
+
+Prueba #1408
+Nivel de agua: 5.31
+Variacion de nivel: 0.2
+P. esperada: 1
+P. obtenida: 0.997299
+
+Prueba #1409
+Nivel de agua: 5.3
+Variacion de nivel: 0.08
+P. esperada: 1
+P. obtenida: 0.997456
+
+Prueba #1410
+Nivel de agua: 5.3
+Variacion de nivel: 0
+P. esperada: 1
+P. obtenida: 0.997523
+
+Prueba #1411
+Nivel de agua: 5.19
+Variacion de nivel: 0.66
+P. esperada: 1
+P. obtenida: 0.997523
+
+Prueba #1412
+Nivel de agua: 5.17
+Variacion de nivel: 0.12
+P. esperada: 1
+P. obtenida: 0.998126
+
+Prueba #1413
+Nivel de agua: 5.46
+Variacion de nivel: -1.78
+P. esperada: 1
+P. obtenida: 0.997737
+
+Prueba #1414
+Nivel de agua: 5.1
+Variacion de nivel: 2.23
+P. esperada: 1
+P. obtenida: 0.996141
+
+Prueba #1415
+Nivel de agua: 5.56
+Variacion de nivel: -2.84
+P. esperada: 1
+P. obtenida: 0.997411
+
+Prueba #1416
+Nivel de agua: 5.19
+Variacion de nivel: 2.24
+P. esperada: 1
+P. obtenida: 0.995692
+
+Prueba #1417
+Nivel de agua: 5.43
+Variacion de nivel: -1.47
+P. esperada: 1
+P. obtenida: 0.99777
+
+Prueba #1418
+Nivel de agua: 5.12
+Variacion de nivel: 1.93
+P. esperada: 1
+P. obtenida: 0.996444
+
+Prueba #1419
+Nivel de agua: 5.26
+Variacion de nivel: -0.87
+P. esperada: 1
+P. obtenida: 0.998337
+
+Prueba #1420
+Nivel de agua: 5.03
+Variacion de nivel: 1.39
+P. esperada: 1
+P. obtenida: 0.997586
+
+Prueba #1421
+Nivel de agua: 4.9
+Variacion de nivel: 0.83
+P. esperada: 1
+P. obtenida: 0.998915
+
+Prueba #1422
+Nivel de agua: 4.92
+Variacion de nivel: -0.17
+P. esperada: 1
+P. obtenida: 0.999672
+
+Prueba #1423
+Nivel de agua: 4.86
+Variacion de nivel: 0.41
+P. esperada: 1
+P. obtenida: 0.999537
+
+Prueba #1424
+Nivel de agua: 4.77
+Variacion de nivel: 0.53
+P. esperada: 1
+P. obtenida: 0.999897
+
+Prueba #1425
+Nivel de agua: 4.8
+Variacion de nivel: -0.21
+P. esperada: 1
+P. obtenida: 1.0003
+
+Prueba #1426
+Nivel de agua: 4.78
+Variacion de nivel: 0.11
+P. esperada: 1
+P. obtenida: 1.00019
+
+Prueba #1427
+Nivel de agua: 4.88
+Variacion de nivel: -0.56
+P. esperada: 1
+P. obtenida: 1.00008
+
+Prueba #1428
+Nivel de agua: 4.84
+Variacion de nivel: 0.2
+P. esperada: 1
+P. obtenida: 0.999818
+
+Prueba #1429
+Nivel de agua: 5.04
+Variacion de nivel: -1.21
+P. esperada: 1
+P. obtenida: 0.999534
+
+Prueba #1430
+Nivel de agua: 4.73
+Variacion de nivel: 1.89
+P. esperada: 1
+P. obtenida: 0.998435
+
+Prueba #1431
+Nivel de agua: 5.05
+Variacion de nivel: -1.94
+P. esperada: 1
+P. obtenida: 0.99946
+
+Prueba #1432
+Nivel de agua: 4.58
+Variacion de nivel: 2.85
+P. esperada: 1
+P. obtenida: 0.997344
+
+Prueba #1433
+Nivel de agua: 4.73
+Variacion de nivel: -0.91
+P. esperada: 1
+P. obtenida: 1.00081
+
+Prueba #1434
+Nivel de agua: 4.55
+Variacion de nivel: 1.09
+P. esperada: 1
+P. obtenida: 1.00041
+
+Prueba #1435
+Nivel de agua: 4.46
+Variacion de nivel: 0.55
+P. esperada: 1
+P. obtenida: 1.00137
+
+Prueba #1436
+Nivel de agua: 4.48
+Variacion de nivel: -0.13
+P. esperada: 1
+P. obtenida: 1.00168
+
+Prueba #1437
+Nivel de agua: 4.47
+Variacion de nivel: 0.07
+P. esperada: 1
+P. obtenida: 1.00164
+
+Prueba #1438
+Nivel de agua: 4.42
+Variacion de nivel: 0.32
+P. esperada: 1
+P. obtenida: 1.00171
+
+Prueba #1439
+Nivel de agua: 4.42
+Variacion de nivel: -0.04
+P. esperada: 1
+P. obtenida: 1.00188
+
+Prueba #1440
+Nivel de agua: 4.37
+Variacion de nivel: 0.29
+P. esperada: 1
+P. obtenida: 1.00192
+
+Prueba #1441
+Nivel de agua: 4.45
+Variacion de nivel: -0.48
+P. esperada: 1
+P. obtenida: 1.00183
+
+Prueba #1442
+Nivel de agua: 4.5
+Variacion de nivel: -0.27
+P. esperada: 1
+P. obtenida: 1.00164
+
+Prueba #1443
+Nivel de agua: 4.53
+Variacion de nivel: -0.2
+P. esperada: 1
+P. obtenida: 1.0015
+
+Prueba #1444
+Nivel de agua: 4.48
+Variacion de nivel: 0.3
+P. esperada: 1
+P. obtenida: 1.00147
+
+Prueba #1445
+Nivel de agua: 4.52
+Variacion de nivel: -0.23
+P. esperada: 1
+P. obtenida: 1.00155
+
+Prueba #1446
+Nivel de agua: 4.21
+Variacion de nivel: 1.85
+P. esperada: 1
+P. obtenida: 1.00067
+
+Prueba #1447
+Nivel de agua: 4.25
+Variacion de nivel: -0.26
+P. esperada: 1
+P. obtenida: 1.0024
+
+Prueba #1448
+Nivel de agua: 4.16
+Variacion de nivel: 0.56
+P. esperada: 1
+P. obtenida: 1.00246
+
+Prueba #1449
+Nivel de agua: 4.09
+Variacion de nivel: 0.42
+P. esperada: 1
+P. obtenida: 1.00271
+
+Prueba #1450
+Nivel de agua: 4.08
+Variacion de nivel: 0.05
+P. esperada: 1
+P. obtenida: 1.00277
+
+Prueba #1451
+Nivel de agua: 4.02
+Variacion de nivel: 0.36
+P. esperada: 1
+P. obtenida: 1.00285
+
+Prueba #1452
+Nivel de agua: 4.02
+Variacion de nivel: 0.01
+P. esperada: 1
+P. obtenida: 1.00283
+
+Prueba #1453
+Nivel de agua: 4
+Variacion de nivel: 0.16
+P. esperada: 1
+P. obtenida: 1.00288
+
+Prueba #1454
+Nivel de agua: 3.94
+Variacion de nivel: 0.32
+P. esperada: 1
+P. obtenida: 1.00293
+
+Prueba #1455
+Nivel de agua: 4
+Variacion de nivel: -0.31
+P. esperada: 1
+P. obtenida: 1.00264
+
+Prueba #1456
+Nivel de agua: 3.98
+Variacion de nivel: 0.07
+P. esperada: 1
+P. obtenida: 1.00287
+
+Prueba #1457
+Nivel de agua: 4.11
+Variacion de nivel: -0.74
+P. esperada: 1
+P. obtenida: 1.00221
+
+Prueba #1458
+Nivel de agua: 3.89
+Variacion de nivel: 1.3
+P. esperada: 1
+P. obtenida: 1.00231
+
+Prueba #1459
+Nivel de agua: 3.98
+Variacion de nivel: -0.55
+P. esperada: 1
+P. obtenida: 1.00235
+
+Prueba #1460
+Nivel de agua: 3.82
+Variacion de nivel: 0.98
+P. esperada: 1
+P. obtenida: 1.00271
+
+Prueba #1461
+Nivel de agua: 3.77
+Variacion de nivel: 0.28
+P. esperada: 1
+P. obtenida: 1.00284
+
+Prueba #1462
+Nivel de agua: 3.74
+Variacion de nivel: 0.17
+P. esperada: 1
+P. obtenida: 1.00271
+
+Prueba #1463
+Nivel de agua: 3.78
+Variacion de nivel: -0.23
+P. esperada: 1
+P. obtenida: 1.00236
+
+Prueba #1464
+Nivel de agua: 3.66
+Variacion de nivel: 0.74
+P. esperada: 1
+P. obtenida: 1.00269
+
+Prueba #1465
+Nivel de agua: 3.67
+Variacion de nivel: -0.05
+P. esperada: 1
+P. obtenida: 1.00222
+
+Prueba #1466
+Nivel de agua: 3.69
+Variacion de nivel: -0.15
+P. esperada: 1
+P. obtenida: 1.00215
+
+Prueba #1467
+Nivel de agua: 3.6
+Variacion de nivel: 0.56
+P. esperada: 1
+P. obtenida: 1.0025
+
+Prueba #1468
+Nivel de agua: 3.5
+Variacion de nivel: 0.57
+P. esperada: 1
+P. obtenida: 1.00205
+
+Prueba #1469
+Nivel de agua: 3.59
+Variacion de nivel: -0.5
+P. esperada: 1
+P. obtenida: 1.00068
+
+Prueba #1470
+Nivel de agua: 3.56
+Variacion de nivel: 0.16
+P. esperada: 1
+P. obtenida: 1.00198
+
+Prueba #1471
+Nivel de agua: 3.65
+Variacion de nivel: -0.53
+P. esperada: 1
+P. obtenida: 1.00105
+
+Prueba #1472
+Nivel de agua: 3.46
+Variacion de nivel: 1.11
+P. esperada: 1
+P. obtenida: 1.00179
+
+Prueba #1473
+Nivel de agua: 3.49
+Variacion de nivel: -0.17
+P. esperada: 1
+P. obtenida: 1.00079
+
+Prueba #1474
+Nivel de agua: 3.43
+Variacion de nivel: 0.34
+P. esperada: 1
+P. obtenida: 1.00136
+
+Prueba #1475
+Nivel de agua: 3.39
+Variacion de nivel: 0.29
+P. esperada: 1
+P. obtenida: 1.00094
+
+Prueba #1476
+Nivel de agua: 3.38
+Variacion de nivel: 0.03
+P. esperada: 1
+P. obtenida: 1.00026
+
+Prueba #1477
+Nivel de agua: 3.3
+Variacion de nivel: 0.47
+P. esperada: 1
+P. obtenida: 1.00036
+
+Prueba #1478
+Nivel de agua: 3.31
+Variacion de nivel: -0.07
+P. esperada: 1
+P. obtenida: 0.999113
+
+Prueba #1479
+Nivel de agua: 3.27
+Variacion de nivel: 0.26
+P. esperada: 1
+P. obtenida: 0.999583
+
+Prueba #1480
+Nivel de agua: 3.27
+Variacion de nivel: 0.01
+P. esperada: 1
+P. obtenida: 0.998842
+
+Prueba #1481
+Nivel de agua: 3.17
+Variacion de nivel: 0.55
+P. esperada: 1
+P. obtenida: 0.998883
+
+Prueba #1482
+Nivel de agua: 3.22
+Variacion de nivel: -0.26
+P. esperada: 1
+P. obtenida: 0.996906
+
+Prueba #1483
+Nivel de agua: 3.13
+Variacion de nivel: 0.52
+P. esperada: 1
+P. obtenida: 0.998223
+
+Prueba #1484
+Nivel de agua: 3.09
+Variacion de nivel: 0.27
+P. esperada: 1
+P. obtenida: 0.996818
+
+Prueba #1485
+Nivel de agua: 3.07
+Variacion de nivel: 0.08
+P. esperada: 1
+P. obtenida: 0.995642
+

@@ -1,0 +1,675 @@
+# depslib dependency file v1.0
+1463769892 source:c:\users\manash\documents\serialport\main.cpp
+	<iostream>
+	"SerialPort.h"
+
+1463769369 c:\users\manash\documents\serialport\include\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1463770285 source:c:\users\manash\documents\serialport\src\serialport.cpp
+	"SerialPort.h"
+
+1511483583 source:c:\users\raul cordoba\desktop\entrenamiento\main.cpp
+	"main.h"
+
+1506394770 c:\users\raul cordoba\desktop\entrenamiento\include\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1511307310 source:c:\users\raul cordoba\desktop\entrenamiento\src\serialport.cpp
+	"../include/SerialPort.h"
+
+1511310548 source:c:\users\raul cordoba\desktop\entrenamiento\src\configuracion.cpp
+	"Configuracion.h"
+
+1511309794 c:\users\raul cordoba\desktop\entrenamiento\include\configuracion.h
+	<fstream>
+	<iostream>
+	<string>
+	<sys/stat.h>
+
+1511417772 c:\users\raul cordoba\desktop\entrenamiento\main.h
+	<Configuracion.h>
+	<iostream>
+	<LecturaSerial.h>
+
+1511316589 source:c:\users\raul cordoba\desktop\entrenamiento\src\recepcion.cpp
+	"Recepcion.h"
+
+1511314500 c:\users\raul cordoba\desktop\entrenamiento\include\recepcion.h
+	<iostream>
+	"SerialPort.h"
+	<vector>
+
+1511358870 source:d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\main.cpp
+	"main.h"
+
+1511358876 d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\main.h
+	"Configuracion.h"
+	"Recepcion.h"
+	"LecturaSerial.h"
+
+1511309794 d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\include\configuracion.h
+	<fstream>
+	<iostream>
+	<string>
+	<sys/stat.h>
+
+1511358919 d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\include\recepcion.h
+	"ElementoEntrenamiento.h"
+	<iostream>
+	"LecturaSerial.h"
+	<vector>
+
+1506394770 d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\include\serialport.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1511310548 source:d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\src\configuracion.cpp
+	"Configuracion.h"
+
+1511361204 source:d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\src\recepcion.cpp
+	"Recepcion.h"
+
+1511307310 source:d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\src\serialport.cpp
+	"../include/SerialPort.h"
+
+1511356695 d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\include\elementoentrenamiento.h
+
+1511362052 source:d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\src\lecturaserial.cpp
+	"LecturaSerial.h"
+
+1511358953 d:\documentos\2017-1\proyectos digitales avanzados\entrenamiento\include\lecturaserial.h
+	<ElementoEntrenamiento.h>
+	<iostream>
+	<string>
+	<windows.h>
+
+1511420099 c:\users\raul cordoba\desktop\entrenamiento\include\lecturaserial.h
+	<ElementoEntrenamiento.h>
+	<iostream>
+	<ParserJson.h>
+	<string>
+	<windows.h>
+
+1511416065 c:\users\raul cordoba\desktop\entrenamiento\include\elementoentrenamiento.h
+
+1511420232 source:c:\users\raul cordoba\desktop\entrenamiento\src\lecturaserial.cpp
+	"LecturaSerial.h"
+
+1511420420 source:c:\users\raul cordoba\desktop\entrenamiento\src\parserjson.cpp
+	"ParserJson.h"
+
+1511419738 c:\users\raul cordoba\desktop\entrenamiento\include\parserjson.h
+	<ElementoEntrenamiento.h>
+	<json.hpp>
+	<string>
+	<vector>
+
+1511417675 c:\users\raul cordoba\desktop\entrenamiento\include\json.h
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<cstring>
+	<forward_list>
+	<functional>
+	<initializer_list>
+	<iomanip>
+	<iosfwd>
+	<iterator>
+	<limits>
+	<locale>
+	<map>
+	<memory>
+	<numeric>
+	<sstream>
+	<string>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+
+1511417675 c:\users\raul cordoba\desktop\entrenamiento\include\json.hpp
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<cstring>
+	<forward_list>
+	<functional>
+	<initializer_list>
+	<iomanip>
+	<iosfwd>
+	<iterator>
+	<limits>
+	<locale>
+	<map>
+	<memory>
+	<numeric>
+	<sstream>
+	<string>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+
+1511487387 source:c:\users\raul cordoba\desktop\entrenamiento\src\conjuntoentrenamiento.cpp
+	"ConjuntoEntrenamiento.h"
+
+1511486462 c:\users\raul cordoba\desktop\entrenamiento\include\conjuntoentrenamiento.h
+	<ElementoEntrenamiento.h>
+	<Sample.h>
+	<vector>
+
+1511484429 c:\users\raul cordoba\desktop\entrenamiento\include\sample.h
+	<stdlib.h>
+	<vector>
+	<ostream>
+
+1511486104 source:c:\users\raul cordoba\desktop\entrenamiento\src\mlp.cpp
+	"MLP.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1507680995 c:\users\raul cordoba\desktop\entrenamiento\include\mlp.h
+	"Layer.h"
+	"Sample.h"
+	"Utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1507680995 c:\users\raul cordoba\desktop\entrenamiento\include\layer.h
+	"Utils.h"
+	"Node.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cassert>
+
+1507680995 c:\users\raul cordoba\desktop\entrenamiento\include\utils.h
+	"Chrono.h"
+	<stdlib.h>
+	<math.h>
+	<numeric>
+	<chrono>
+	<string>
+	<algorithm>
+	<iostream>
+	<sstream>
+	<iterator>
+	<unordered_map>
+	<vector>
+	<cmath>
+	<functional>
+	<typeinfo>
+	<typeindex>
+	<cassert>
+	<time.h>
+	<sys/time.h>
+
+1507680995 c:\users\raul cordoba\desktop\entrenamiento\include\chrono.h
+	<iostream>
+	<chrono>
+	<time.h>
+	<sys/time.h>
+
+1507680995 c:\users\raul cordoba\desktop\entrenamiento\include\node.h
+	"Utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cassert>
+
+1507680995 c:\users\raul cordoba\desktop\entrenamiento\include\easylogging++.h
+	<syslog.h>
+	<ctime>
+	<cstring>
+	<cstdlib>
+	<cctype>
+	<cwchar>
+	<csignal>
+	<cerrno>
+	<cstdarg>
+	<locale>
+	<codecvt>
+	<cxxabi.h>
+	<execinfo.h>
+	<sys/system_properties.h>
+	<sys/stat.h>
+	<sys/time.h>
+	<direct.h>
+	<windows.h>
+	<winsock2.h>
+	<winsock.h>
+	<string>
+	<vector>
+	<map>
+	<utility>
+	<functional>
+	<algorithm>
+	<fstream>
+	<iostream>
+	<sstream>
+	<memory>
+	<type_traits>
+	<mutex>
+	<thread>
+	<pthread.h>
+	<unistd.h>
+	<thread>
+	<queue>
+	<condition_variable>
+	<list>
+	<queue>
+	<deque>
+	<set>
+	<bitset>
+	<stack>
+	<array>
+	<unordered_map>
+	<unordered_set>
+	<QString>
+	<QByteArray>
+	<QVector>
+	<QList>
+	<QPair>
+	<QMap>
+	<QQueue>
+	<QSet>
+	<QLinkedList>
+	<QHash>
+	<QMultiHash>
+	<QStack>
+	<boost/container/vector.hpp>
+	<boost/container/stable_vector.hpp>
+	<boost/container/list.hpp>
+	<boost/container/deque.hpp>
+	<boost/container/map.hpp>
+	<boost/container/flat_map.hpp>
+	<boost/container/set.hpp>
+	<boost/container/flat_set.hpp>
+	<wx/vector.h>
+
+1507680995 source:c:\users\raul cordoba\desktop\entrenamiento\src\mlptest.cpp
+	"MLP.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"microunit.h"
+	"easylogging++.h"
+
+1507680995 c:\users\raul cordoba\desktop\entrenamiento\include\microunit.h
+	<string.h>
+	<map>
+	<string>
+	<vector>
+	<iostream>
+	"windows.h"
+
+1507680995 source:c:\users\raul cordoba\desktop\entrenamiento\src\nodetest.cpp
+	"Node.h"
+	"Sample.h"
+	"Utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+	"microunit.h"
+	"easylogging++.h"
+
+1511551390 source:c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\main.cpp
+	"main.h"
+
+1511522675 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\main.h
+	<Configuracion.h>
+	<ConjuntoEntrenamiento.h>
+	<iostream>
+	<LecturaSerial.h>
+	<fstream>
+	<MLP.h>
+
+1511309794 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\configuracion.h
+	<fstream>
+	<iostream>
+	<string>
+	<sys/stat.h>
+
+1511526909 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\lecturaserial.h
+	<cstdio>
+	<ElementoEntrenamiento.h>
+	<iostream>
+	<ParserJson.h>
+	<string>
+	<windows.h>
+
+1511416065 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\elementoentrenamiento.h
+
+1511523881 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\parserjson.h
+	<ElementoEntrenamiento.h>
+	<fstream>
+	<iostream>
+	<json.hpp>
+	<string>
+	<vector>
+
+1511417675 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\json.hpp
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<cstring>
+	<forward_list>
+	<functional>
+	<initializer_list>
+	<iomanip>
+	<iosfwd>
+	<iterator>
+	<limits>
+	<locale>
+	<map>
+	<memory>
+	<numeric>
+	<sstream>
+	<string>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+
+1511310548 source:c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\src\configuracion.cpp
+	"Configuracion.h"
+
+1511501570 source:c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\src\conjuntoentrenamiento.cpp
+	"ConjuntoEntrenamiento.h"
+
+1511486462 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\conjuntoentrenamiento.h
+	<ElementoEntrenamiento.h>
+	<Sample.h>
+	<vector>
+
+1511484429 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\sample.h
+	<stdlib.h>
+	<vector>
+	<ostream>
+
+1511541616 source:c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\src\lecturaserial.cpp
+	"LecturaSerial.h"
+
+1511486104 source:c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\src\mlp.cpp
+	"MLP.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1511514367 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\mlp.h
+	"Layer.h"
+	"Sample.h"
+	"Utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1507680995 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\layer.h
+	"Utils.h"
+	"Node.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cassert>
+
+1507680995 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\utils.h
+	"Chrono.h"
+	<stdlib.h>
+	<math.h>
+	<numeric>
+	<chrono>
+	<string>
+	<algorithm>
+	<iostream>
+	<sstream>
+	<iterator>
+	<unordered_map>
+	<vector>
+	<cmath>
+	<functional>
+	<typeinfo>
+	<typeindex>
+	<cassert>
+	<time.h>
+	<sys/time.h>
+
+1507680995 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\chrono.h
+	<iostream>
+	<chrono>
+	<time.h>
+	<sys/time.h>
+
+1507680995 c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\include\node.h
+	"Utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cassert>
+
+1511523748 source:c:\users\grimmir\documents\proyectos digitales avanzados\entrenamiento\src\parserjson.cpp
+	"ParserJson.h"
+
+1511552696 source:c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\main.cpp
+	"main.h"
+
+1511520875 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\main.h
+	<Configuracion.h>
+	<ConjuntoEntrenamiento.h>
+	<iostream>
+	<LecturaSerial.h>
+	<fstream>
+	<MLP.h>
+
+1511307994 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\configuracion.h
+	<fstream>
+	<iostream>
+	<string>
+	<sys/stat.h>
+
+1511484662 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\conjuntoentrenamiento.h
+	<ElementoEntrenamiento.h>
+	<Sample.h>
+	<vector>
+
+1511414265 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\elementoentrenamiento.h
+
+1511482629 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\sample.h
+	<stdlib.h>
+	<vector>
+	<ostream>
+
+1511525109 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\lecturaserial.h
+	<cstdio>
+	<ElementoEntrenamiento.h>
+	<iostream>
+	<ParserJson.h>
+	<string>
+	<windows.h>
+
+1511522081 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\parserjson.h
+	<ElementoEntrenamiento.h>
+	<fstream>
+	<iostream>
+	<json.hpp>
+	<string>
+	<vector>
+
+1511415875 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\json.hpp
+	<algorithm>
+	<array>
+	<cassert>
+	<ciso646>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdlib>
+	<cstring>
+	<forward_list>
+	<functional>
+	<initializer_list>
+	<iomanip>
+	<iosfwd>
+	<iterator>
+	<limits>
+	<locale>
+	<map>
+	<memory>
+	<numeric>
+	<sstream>
+	<string>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+
+1511512567 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\mlp.h
+	"Layer.h"
+	"Sample.h"
+	"Utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1507679195 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\layer.h
+	"Utils.h"
+	"Node.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cassert>
+
+1507679195 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\utils.h
+	"Chrono.h"
+	<stdlib.h>
+	<math.h>
+	<numeric>
+	<chrono>
+	<string>
+	<algorithm>
+	<iostream>
+	<sstream>
+	<iterator>
+	<unordered_map>
+	<vector>
+	<cmath>
+	<functional>
+	<typeinfo>
+	<typeindex>
+	<cassert>
+	<time.h>
+	<sys/time.h>
+
+1507679195 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\chrono.h
+	<iostream>
+	<chrono>
+	<time.h>
+	<sys/time.h>
+
+1507679195 c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\include\node.h
+	"Utils.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cassert>
+
+1511308748 source:c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\src\configuracion.cpp
+	"Configuracion.h"
+
+1511499770 source:c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\src\conjuntoentrenamiento.cpp
+	"ConjuntoEntrenamiento.h"
+
+1511539816 source:c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\src\lecturaserial.cpp
+	"LecturaSerial.h"
+
+1511484304 source:c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\src\mlp.cpp
+	"MLP.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1511521948 source:c:\users\raul cordoba\desktop\dum 2017\proyectos digitales avanzados\entrenamiento\src\parserjson.cpp
+	"ParserJson.h"
+
